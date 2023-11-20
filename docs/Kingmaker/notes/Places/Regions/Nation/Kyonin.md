@@ -1,0 +1,6 @@
+---
+tags:
+  - Place
+  - Nation
+---
+# Kyonin

@@ -1,0 +1,6 @@
+---
+tags:
+  - Place
+  - PlaceOfInterest
+aliases:
+---

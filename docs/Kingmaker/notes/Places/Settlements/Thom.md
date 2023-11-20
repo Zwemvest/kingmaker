@@ -1,0 +1,6 @@
+---
+tags:
+  - Place
+  - Settlement
+---
+# Thom
