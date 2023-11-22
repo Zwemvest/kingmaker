@@ -1,0 +1,6 @@
+---
+tags:
+  - Place
+  - StolenLands
+aliases:
+---
