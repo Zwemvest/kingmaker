@@ -3,8 +3,8 @@ tags:
   - Notion
 aliases:
   - Third-River-Freedom
-  - Third [[River-Freedoms|[[River-Freedoms|River Freedom]]]]
   - Walk Any Road, Float Any River
+  - Third River Freedom
 ---
 # Walk Any Road, Float Any River (Third River Freedom)
 This freedom implies no safety while traveling, especially from the local lord. It merely prevents lords from blocking land and water travel, or charging tolls for passing (except for non-[[River-Kingdoms|Riverfolk]]). Of course, any ruler who doesn’t want people on his roads can bar them without erecting a single block—threats, bribes, political pressure, or hiring “bandits” are just as effective.

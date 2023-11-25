@@ -3,8 +3,8 @@ tags:
   - Notion
 aliases:
   - Say What You Will, I Live Free
-  - First [[River-Freedoms|[[River-Freedoms|River Freedom]]]]
   - First-River-Freedom
+  - First River Freedom
 ---
 # Say What You Will, I Live Free (First River Freedom)
 The freedom to speak is not the same as freedom from consequences of speech. Outsiders, drunkards, and fools are the only ones who vocally invoke this freedom. All others respect it, and live with it accordingly.
