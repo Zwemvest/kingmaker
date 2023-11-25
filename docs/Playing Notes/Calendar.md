@@ -1,6 +1,4 @@
 # Calendar
-
-
 ## Before game start
 | Date | Event |
 | ---- | ----- |

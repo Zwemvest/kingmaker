@@ -2,8 +2,7 @@
 tags:
   - Place
   - River-Kingdom
-aliases:
-  - Lambreth
+aliases: []
 ---
 # Lambreth
 The wrinkled hills and watered dells of Lambreth make up a tiny corner of the River Kingdoms, cupped between the mighty Sellen River to the west and the swift-running Tolemaida to the east. Its folded topography makes large farms uncommon, but the copses are thick with deer and glades teem with smaller game (rabbit, pheasant, and wild hokie in particular), often nesting in the ubiquitous tangles of river blackberry that give Lambreth its nickname “the Blackthorn Dells.” Innumerable moss-banked streams and tumbling waterfalls feed the two rivers that frame Lambreth, descending from the Juviler Hills that mark Lambreth’s northern verges.
