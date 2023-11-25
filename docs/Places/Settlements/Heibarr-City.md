@@ -2,7 +2,8 @@
 tags:
   - Place
   - Settlement
-aliases: 
+aliases:
+  - Heibarr
 status: dead
 ---
 # Heibarr

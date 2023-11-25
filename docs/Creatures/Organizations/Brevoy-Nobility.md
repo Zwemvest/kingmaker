@@ -6,6 +6,8 @@ aliases:
 # Brevoy nobility
 The nation of Brevoy has seven major noble families. The most historically important are House Rogarvia, descendants of Choral the Conqueror, and House Surtova, descended from the old Issian pirate kings and family of the current ruler of Brevoy: King Noleski Surtova. 
 
+## Noble families
+The seven major Brevoy noble families are listed below.
 ## Rogarvia
 The former ruling house of Brevoy, House Rogarvia—informally, the Rogarvians —was founded by the descendants of Choral the Conqueror and Myrna Rogarvia, daughter of Nikos Surtova. Choral united Rostland and Issia into the kingdom of Brevoy after invading from Iobaria, accompanied by dragons.
 

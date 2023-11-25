@@ -3,7 +3,6 @@ tags:
   - Organization
 aliases:
   - Aldori Swordlords
-  - Aldori
   - Swordlords
 ---
 # Aldori Swordlords
@@ -13,5 +12,5 @@ An Aldori swordlord is a swordfighter practised in the art of dueling who has be
 
 Those who wish to become a swordlord must take the last name of Aldori, swear to the Aldori swordpact, and demonstrate skill at swordplay by winning a duel using only a sword in the presence of an Aldori swordlord or experienced exile.
 
-# Recent History
+## Recent History
 Many veterans of the Fifth Mendevian Crusade have traveled to Brevoy to seek tutelage with the Aldori swordlords since the closing of the Worldwound. They are often mentally scarred and hardened individuals, defined by their long fight against the demons, and do little as a group to lessen Brevoy's already volatile national mood.

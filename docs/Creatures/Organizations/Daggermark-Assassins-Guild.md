@@ -15,5 +15,5 @@ The Guild's masters are available for difficult jobs, most significantly for Dag
 Whilst the school is in the city of Daggermark, the Guild's home is a fortress known as the Hawk's Nest. It is built into a cliff face, and is designed to withstand a siege. Members (apart from those teaching at the school) live here whilst awaiting assignment. Non-members are not allowed inside.
 
 There are rumours that the families of the assassins live in a secret underground settlement beneath the fortress—something the Guild denies.
-# History
+## History
 Three centuries ago, an assassin army left their home, the city state of Yenchabur in Casmaron, just before it was destroyed by a firestorm. The army battled its way through Casmaron and into Avistan in search of a new home. They eventually took over the town of Rivermark, in the River Kingdoms, and re-named it Daggermark.

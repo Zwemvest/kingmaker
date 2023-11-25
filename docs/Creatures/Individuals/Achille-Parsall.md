@@ -6,7 +6,7 @@ aliases:
 ---
 # Achille Parsall
 Lord Achille Parsall runs [[Liberthane]] as a military protectorate and commands 50 soldiers in Fort [[Liberthane]]. He is the scion of one of [[Galt]]'s oldest noble families. His ultimate goal is freedom for [[Galt]]. 
-# History
+## History
 Achille Parsall is the scion of one of [[Galt]]’s oldest noble families. As with many [[Galt|Galtan]] lords, Achille was sent to study in [[Andoran]]; when revolution broke out, Achille wanted to return and do his part. His parents, concerned by the tone of the street rhetoric, ordered him to remain where he was.
 
 Parsall joined [[Andoran]]’s own revolt and became one of its most passionate advocates. When a baron refused citizenship and barricaded himself in his castle, Parsall led the charge that breached the walls and took the castle. The baron refused to surrender, and Achille slew him in the courtyard as his comrades cheered him on. This made Achille a hero of the revolt.
