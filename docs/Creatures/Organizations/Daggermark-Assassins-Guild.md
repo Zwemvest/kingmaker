@@ -16,4 +16,4 @@ Whilst the school is in the city of Daggermark, the Guild's home is a fortress k
 
 There are rumours that the families of the assassins live in a secret underground settlement beneath the fortress—something the Guild denies.
 ## History
-Three centuries ago, an assassin army left their home, the city state of Yenchabur in Casmaron, just before it was destroyed by a firestorm. The army battled its way through Casmaron and into Avistan in search of a new home. They eventually took over the town of Rivermark, in the [[River-Kingdoms|River Kingdoms]], and re-named it Daggermark.
+Three centuries ago, an assassin army left their home, the city state of Yenchabur in Casmaron, just before it was destroyed by a firestorm. The army battled its way through Casmaron and into [[Avistan]] in search of a new home. They eventually took over the town of Rivermark, in the [[River-Kingdoms|River Kingdoms]], and re-named it Daggermark.

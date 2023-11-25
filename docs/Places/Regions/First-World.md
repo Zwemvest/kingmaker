@@ -26,7 +26,7 @@ However, the inhabitants of the First World are themselves blocked from the Rive
 ## People
 The most powerful are the eight (formerly nine) creatures known as the Eldest and their fearsome living weapons, the Tane.
 
-Some of the other races found on the Material Plane also have counterparts in the First World. It is widely accepted that [[Gnome|gnomes]] migrated to Golarion from the First World during the Age of Anguish, but some [[Gnome|gnomes]] did not make the trip and are still here.
+Some of the other races found on the Material Plane also have counterparts in the First World. It is widely accepted that [[Gnome|gnomes]] migrated to [[Golarion]] from the First World during the Age of Anguish, but some [[Gnome|gnomes]] did not make the trip and are still here.
 
 Linnorms roam the First World, and claim that the Material Plane's dragons are the descendants of linnorms who crossed over in the distant past.
 

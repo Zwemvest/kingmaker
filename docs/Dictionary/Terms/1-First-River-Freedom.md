@@ -3,7 +3,7 @@ tags:
   - Notion
 aliases:
   - Say What You Will, I Live Free
-  - First [[River-Freedoms|River Freedom]]
+  - First [[River-Freedoms|[[River-Freedoms|River Freedom]]]]
   - First-River-Freedom
 ---
 # Say What You Will, I Live Free (First River Freedom)

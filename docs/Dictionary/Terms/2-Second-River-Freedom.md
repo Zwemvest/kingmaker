@@ -3,7 +3,7 @@ tags:
   - Notion
 aliases:
   - Oathbreakers Die
-  - Second [[River-Freedoms|River Freedom]]
+  - Second [[River-Freedoms|[[River-Freedoms|River Freedom]]]]
   - Second-River-Freedom
 ---
 # Oathbreakers Die (Second River Freedom)

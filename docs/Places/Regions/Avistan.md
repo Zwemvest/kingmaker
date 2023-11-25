@@ -7,7 +7,7 @@ tags:
   - Region
 ---
 # Avistan
-Avistan (pronounced AV-ihs-tan) is a continent on the world of Golarion. One of the most heavily-settled areas on the planet, Avistan possesses as many varied cultures and environments as any other continent in the world and an ancient history stretching back tens of thousands of years. The continent is home to once-great empires like Cheliax and Taldor, rising powers like Andoran and Molthune, and the ancient ruins of Thassilon in the wild frontier of Varisia. 
+Avistan (pronounced AV-ihs-tan) is a continent on the world of [[Golarion]]. One of the most heavily-settled areas on the planet, Avistan possesses as many varied cultures and environments as any other continent in the world and an ancient history stretching back tens of thousands of years. The continent is home to once-great empires like Cheliax and Taldor, rising powers like Andoran and Molthune, and the ancient ruins of Thassilon in the wild frontier of Varisia. 
 
 Together with the northernmost third of Garund, Avistan constitutes the [[Inner-Sea|Inner Sea]] region.
 

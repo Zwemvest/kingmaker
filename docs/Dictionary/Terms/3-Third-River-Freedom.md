@@ -3,7 +3,7 @@ tags:
   - Notion
 aliases:
   - Third-River-Freedom
-  - Third [[River-Freedoms|River Freedom]]
+  - Third [[River-Freedoms|[[River-Freedoms|River Freedom]]]]
   - Walk Any Road, Float Any River
 ---
 # Walk Any Road, Float Any River (Third River Freedom)

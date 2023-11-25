@@ -3,7 +3,7 @@ tags:
   - Notion
 aliases:
   - Courts Are For Kings
-  - Fourth [[River-Freedoms|River Freedom]]
+  - Fourth [[River-Freedoms|[[River-Freedoms|River Freedom]]]]
   - Fourth-River-Freedom
 ---
 # Courts Are For Kings (Fourth River Freedom)
