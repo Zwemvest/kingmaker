@@ -1,6 +1,10 @@
 ---
-Tag: Ancestry
-Alias: Humans
+tags:
+  - Ancestry
+aliases:
+  - Humans
+  - humans
+  - human
 ---
 # Human
 As unpredictable and varied as any of Golarion’s peoples, [humans](https://2e.aonprd.com/Ancestries.aspx?ID=6) have exceptional drive and the capacity to endure and expand. Though many civilizations thrived before humanity rose to prominence, humans have built some of the greatest and the most terrible societies throughout the course of history, and today they are the most populous people in the realms around the Inner Sea.

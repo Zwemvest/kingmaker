@@ -2,7 +2,8 @@
 tags:
   - Place
   - Settlement
-aliases: 
+aliases:
+  - Scrawny Crossing
 status: dead
 ---
 # Scrawny Crossing

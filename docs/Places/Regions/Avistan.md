@@ -1,6 +1,7 @@
 ---
 aliases:
   - Avistani
+  - avistani
 tags:
   - Place
   - Region

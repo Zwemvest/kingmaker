@@ -3,6 +3,7 @@ tags:
   - MonsterGroup
 aliases:
   - Gorgas
+  - gorgas
 ---
 # Gorga
 Gorgas are fey embodiments of diurnal creatures' fear of the dark. Beings of shadow and hunger, they love to prey upon light-loving creatures. Many different kinds of gorgas exist, and each embodies a different facet of the night's countless terrors.

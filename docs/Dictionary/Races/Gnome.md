@@ -4,6 +4,9 @@ tags:
 aliases:
   - Gnomes
   - Gnomish
+  - gnomes
+  - gnomish
+  - gnome
 ---
 # Gnome
 Long ago, early [gnome](https://2e.aonprd.com/Ancestries.aspx?ID=3) ancestors emigrated from the First World, realm of the fey. While it’s unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins.

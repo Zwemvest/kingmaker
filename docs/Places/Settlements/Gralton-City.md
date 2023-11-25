@@ -2,8 +2,7 @@
 tags:
   - Place
   - Settlement
-aliases:
-  - Gralton
+aliases: []
 ---
 # Gralton
 The inhabitants of Gralton consist almost entirely of people who have fled the ongoing revolution (some would say anarchy) in [[Galt]]. Many of those who have fled to [[Gralton-Realm|Gralton]] are the old nobility of [[Galt]]. Deposed and fallen from grace, they desperately seek any means to regain what they have lost, be it by sponsoring counter-revolutionary activity, or sending parties of hapless adventurers back into [[Galt]] to search for family heirlooms left behind in the rush to escape the guillotine's blade. As the desperation of the deposed nobility grew, Gralton began to attract con-artists and tricksters. These tried to hustle the desperate nobility by offering quick fixes and false hope.

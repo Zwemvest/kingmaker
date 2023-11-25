@@ -1,6 +1,10 @@
 ---
-Tag: Ancestry
-Alias: Halflings
+tags:
+  - Ancestry
+aliases:
+  - Halflings
+  - halfings
+  - halfing
 ---
 # Halfling
 Claiming no place as their own, [halflings](https://2e.aonprd.com/Ancestries.aspx?ID=5) control few settlements larger than villages. Instead, they frequently live among [human](Human.md)s within the walls of larger cities, carving out small communities alongside taller folk. Many halflings lead perfectly fulfilling lives in the shadows of their larger neighbors, while others prefer a nomadic existence, traveling the world and taking advantage of opportunities and adventures as they come.

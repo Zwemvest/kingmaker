@@ -2,8 +2,7 @@
 tags:
   - Place
   - River-Kingdom
-aliases:
-  - Heibarr
+aliases: []
 status: dead
 ---
 # Heibarr

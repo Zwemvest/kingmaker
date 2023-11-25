@@ -5,6 +5,7 @@ tags:
 aliases:
   - Ulfen
   - Kalsgard
+  - Lands of the Linnorm Kings
 ---
 # Lands of the Linnorm Kings
 The Lands of the Linnorm Kings are the homelands of the Ulfen people and are kingdoms as wild and untameable as the people who live there. Nestled on the northwestern tip of Avistan, it is a realm of taiga and marshland that spends much of the year frozen beneath layers of snow, a place utterly inhospitable to all but the hardiest people.

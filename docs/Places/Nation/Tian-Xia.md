@@ -3,8 +3,8 @@ tags:
   - Place
   - Nation
 aliases:
-  - Tian
   - Tian Xia
+  - Tian
 ---
 ## People
 Although the people of Avistan and Garund see the distant Tians as a single ethnicity (a misconception that Tians reciprocate regarding natives of Avistan and Garund), the people collectively known as the Tians encompass several distinct ethnicities. Most of the Tians who come to the Inner Sea region originate from the Successor States or Minkai on the distant continent of Tian Xia.

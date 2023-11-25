@@ -2,8 +2,7 @@
 tags:
   - Place
   - River-Kingdom
-aliases:
-  - Daggermark
+aliases: []
 ---
 # Daggermark
 The largest and most stable of the River Kingdoms, Daggermark is renowned for its sister guilds of assassins and poisoners. It also hosts the annual Outlaw Council, where the leaders of the various kingdoms gather to plan the means by which they protect their freedom from the larger forces arrayed against them. This is the closest that the River Kingdoms come to having a unified government, and every year’s session is contentious.    

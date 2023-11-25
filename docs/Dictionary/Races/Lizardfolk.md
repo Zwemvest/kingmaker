@@ -1,6 +1,9 @@
 ---
-Tag: Ancestry
-Alias: Iruxi
+tags:
+  - Ancestry
+aliases:
+  - Iruxi
+  - lizardfolk
 ---
 # Lizardfolk
 [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15) are consummate survivors, heirs to empires considered ancient even by the elves.
