@@ -6,7 +6,7 @@ aliases:
   - lizardfolk
 ---
 # Lizardfolk
-[Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15) are consummate survivors, heirs to empires considered ancient even by the elves.
+[Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15) are consummate survivors, heirs to empires considered ancient even by the [[Elf|elves]].
 
 Lizardfolk move through the societies of other humanoids with the steely reserve of born predators. They have a well-deserved reputation as outstanding rangers and unsentimental fighters. Though lizardfolk have adapted to many different environments, many of them still prefer to remain near bodies of water, using their ability to hold their breath to their advantage. As a result, lizardfolk usually prefer equipment that is not easily damaged by moisture, eschewing leather and metal for gear made of stone, ivory, glass, and bone.
 ## Physical Description

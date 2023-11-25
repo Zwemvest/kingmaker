@@ -4,4 +4,4 @@ tags:
   - Settlement
 ---
 # Thom
-Thom is a small gnomish town in the central [[River-Kingdoms|River Kingdoms]].
+Thom is a small [[Gnome|gnomish]] town in the central [[River-Kingdoms|River Kingdoms]].

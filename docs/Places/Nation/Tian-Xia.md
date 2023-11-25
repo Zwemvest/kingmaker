@@ -7,8 +7,8 @@ aliases:
   - Tian
 ---
 ## People
-Although the people of Avistan and Garund see the distant Tians as a single ethnicity (a misconception that Tians reciprocate regarding natives of Avistan and Garund), the people collectively known as the Tians encompass several distinct ethnicities. Most of the Tians who come to the Inner Sea region originate from the Successor States or Minkai on the distant continent of Tian Xia.
-Religion varies across Tian Xia as much as its people do; they worship a pantheon of deities whose breadth rivals that of the known gods of the Inner Sea region. Since its introduction by Vudrani missionaries, the church of Irori has spread across Tian Xia, becoming an official state religion in most nations. Most Tians who have settled in the Inner Sea region have, over the course of a few generations, adopted Inner Sea religions as their own.
+Although the people of Avistan and Garund see the distant Tians as a single ethnicity (a misconception that Tians reciprocate regarding natives of Avistan and Garund), the people collectively known as the Tians encompass several distinct ethnicities. Most of the Tians who come to the [[Inner-Sea|Inner Sea]] region originate from the Successor States or Minkai on the distant continent of Tian Xia.
+Religion varies across Tian Xia as much as its people do; they worship a pantheon of deities whose breadth rivals that of the known gods of the [[Inner-Sea|Inner Sea]] region. Since its introduction by Vudrani missionaries, the church of Irori has spread across Tian Xia, becoming an official state religion in most nations. Most Tians who have settled in the [[Inner-Sea|Inner Sea]] region have, over the course of a few generations, adopted [[Inner-Sea|Inner Sea]] religions as their own.
 
 Tians consider family to be of great importance. They have long perfected the art of genealogy, and some can trace their bloodlines back thousands of years. Most Tian royalty can trace their lines back at least a few dozen generations—those who cannot are often exiles or other objects of shame. Family names often have hidden meanings that can even identify where the family originated or who founded it.
 
