@@ -17,6 +17,6 @@ Choral invaded the area that would become modern-day [[Brevoy]] in 4499 AR. Befo
 
 Only the fortress of Skywatch continued to resist Choral's dominance, but even this bastion of the Aldori fell a few years later when Choral and his dragons arrived and burnt the castle to the ground. With his victory complete, Choral showed interest in the observatory and ordered the structure to be unearthed and restored.
 
-For ten years, Choral led [[Brevoy]] from the Dragonscale Throne at the Ruby Fortress in New Stetven. He spent most of his time amassing wealth, and did little to unite the Issians and Rostlanders, only leaving New Stetven to harshly punish disloyal vassals. His people rarely saw him and viewed him as a remote, terrifying figure.
+For ten years, Choral led [[Brevoy]] from the Dragonscale Throne at the Ruby Fortress in New Stetven. He spent most of his time amassing wealth, and did little to unite the [[Issia|Issians]] and [[Rostland|Rostlanders]], only leaving New Stetven to harshly punish disloyal vassals. His people rarely saw him and viewed him as a remote, terrifying figure.
 
 In 4509 AR, Choral and his red dragon allies disappeared, leaving his descendants to rule [[Brevoy]] for exactly two hundred years from his conquest. Every member of the noble house disappeared in 4699 AR, if they were indeed his descendants at all. It is not known where Choral went when he abandoned his throne, but rumours state that he disappeared into the depths of the Gronzi Forest. If such tales can be believed, he swore he would return when the time was right. 

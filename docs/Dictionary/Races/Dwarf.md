@@ -14,7 +14,7 @@ aliases:
 [Dwarves](https://2e.aonprd.com/Ancestries.aspx?ID=1)  have a well-earned reputation as a stoic and stern people, ensconced within citadels and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils.
 
 Dwarves are slow to trust those outside their kin, but this wariness is not without reason. Dwarves have a long history of forced exile from ancestral holds and struggles against the depredations of savage foes, especially giants, goblinoids, [[Orc|orcs]], and the horrors that dwell deep below the surface. While trust from a dwarf is hard-won, once gained it is as strong as iron.
-# In the [[Stolen-Lands]]
+# In the [[Stolen-Lands|Stolen Lands]]
 Though typically rare in northeastern [[Avistan]], dwarves exist in small numbers in almost every community in Brevoy. Many serve as town blacksmiths, masons, militia quartermasters, or pawnbrokers. The small mining village of Brunderton in eastern Rostland has an overwhelming dwarven citizenry—most dwarves in the region can claim at least one relative or acquaintance that calls the hamlet home—and gem and ore traders from Brunderton travel throughout the area peddling their wares. Rumors of untapped or unclaimed mines hidden throughout the [[Stolen-Lands|Stolen Lands]] are enough to get most dwarves interested in exploring the wilderness.
 
 ## Physical Description

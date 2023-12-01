@@ -27,7 +27,7 @@ Talk is cheap, and everyone is entitled to speak their own words.
 Those who swear oaths—particularly those of fealty to a River King—and break them can expect any number of painful and lethal fates
 * **[[3-Third-River-Freedom|Walk Any Road, Float Any River]]:**   
 Freedom to travel is fundamental. No River Kingdom is allowed to bar traffic on a river or a road, save in times of active warfare.
-* **Courts are for Kings:**   
+* **[[4-Fourth-River-Freedom|Courts are for Kings]]:**   
 The law is always malleable. Who you know and who you can count as friends are more important than what the law says, and a lord can change laws in his territory at will.
 * **[[5-Fifth-River-Freedom|Slavery is an Abomination]]:**   
 Slavers may visit the River Kingdoms, but taking or holding slaves there upsets the many people who were once slaves themselves.

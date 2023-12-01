@@ -9,7 +9,7 @@ The nation of Brevoy has seven major noble families. The most historically impor
 ## Noble families
 The seven major Brevoy noble families are listed below.
 ## Rogarvia
-The former ruling house of Brevoy, House Rogarvia—informally, the Rogarvians —was founded by the descendants of [[Choral-Rogarvia|Choral]] the Conqueror and Myrna Rogarvia, daughter of Nikos Surtova. [[Choral-Rogarvia|Choral]] united Rostland and Issia into the kingdom of Brevoy after invading from Iobaria, accompanied by dragons.
+The former ruling house of Brevoy, House Rogarvia—informally, the Rogarvians —was founded by the descendants of [[Choral-Rogarvia|Choral]] the Conqueror and Myrna Rogarvia, daughter of Nikos Surtova. [[Choral-Rogarvia|Choral]] united [[Rostland]] and Issia into the kingdom of Brevoy after invading from Iobaria, accompanied by dragons.
 
 Most members of the House, including King Urzen Rogarvia, disappeared mysteriously in 4699 AR, in an event called the "Vanishing". Their loss is not greatly mourned by the [[Brevoy|Brevic]] people and loyalists are calling for an investigation instead of blind allegiance to [[Noleski-Surtova|Noleski Surtova]], who declared himself king
 
@@ -21,7 +21,7 @@ House Garess had a good relationship with the Golka [[Dwarf|dwarves]] until the 
 
 The Garess family motto is "Strong as the Mountains" 
 ## Labeda
-House Lebeda is a noble family of the [[Avistan|Avistani]] nation of Brevoy. Its central holdings are located southwest of Lake Reykal in Rostland, controlling the plains and significant portions of the lake's shipping. They are considered to be the [[Brevoy|Brevic]] noble family that epitomizes Rostland, having significant [[Taldor|Taldan]] blood, an appreciation for fine things, and a love of sword fighting.
+House Lebeda is a noble family of the [[Avistan|Avistani]] nation of [[Brevoy]]. Its central holdings are located southwest of Lake Reykal in Rostland, controlling the plains and significant portions of the lake's shipping. They are considered to be the [[Brevoy|Brevic]] noble family that epitomizes Rostland, having significant [[Taldor|Taldan]] blood, an appreciation for fine things, and a love of sword fighting.
 
 The Labeda family motto is "Success Through Grace" 
 ## Lodovka
@@ -41,7 +41,7 @@ House Orlovsky controls northeastern Brevoy from Eagle's Watch on Mount Veshka. 
 
 The Orlovsky family motto is "High Above" 
 ## Surtova
-House Surtova is the current ruling family of Brevoy, and the oldest and most influential [[Brevoy|Brevic]] noble family.
+House Surtova is the current ruling family of [[Brevoy]], and the oldest and most influential [[Brevoy|Brevic]] noble family.
 
 Their original holdings are the environs of Port Ice in northern Issia on the shores of the [[Lake-of-Mists-and-Veils|Lake of Mists and Veils]]. Their claim to the throne is linked to Nikos Surtova giving the hand of his daughter, Myrna Surtova, to [[Choral-Rogarvia|Choral]] the Conqueror in marriage. This marriage allowed the house to keep its power as a staunch ally of House Rogarvia. In 4699 AR, during the Vanishing, House Surtova was able to use its high position to immediately claim regency until the Rogarvia's returned.
 

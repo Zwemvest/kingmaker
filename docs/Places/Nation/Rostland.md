@@ -4,5 +4,7 @@ tags:
   - Nation
 aliases:
   - Rostlandic
+  - Rosterlander
+  - Rostlanders
 ---
 # Rostland

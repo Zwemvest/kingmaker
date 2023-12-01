@@ -23,7 +23,7 @@ A half-[[orc]] is the offspring of a [[human]] and an [[orc]], or of two half-[[
 
 A half-[[orc]] has a shorter lifespan than other [[Human|humans]], living to be roughly 70 years old.
 
-## In the Stolen Lands
+## In the [[Stolen-Lands|Stolen Lands]]
 Throughout the civilized world, half-[[Orc|orcs]] suffer ostracism and prejudice, yet many find Brevoy not merely tolerant of their kind, but in fact refreshingly accepting. [[Brevoy|Brevans]] don’t view half-[[Orc|orcs]] with the same disdain that the half-breeds receive in other parts of the world, and any half-[[orc]] who adheres to the strict, provincial customs of the land achieves the same level of acceptance that a similarly compliant full-blooded [[human]] would. Half-[[Orc|orcs]] blessed with less overtly bestial features might attempt to pass for [[human]], keeping the unseemly conditions of their birth a closely guarded the secret and leaving their past behind as they start again with a clean slate in Brevoy or the wild [[River-Kingdoms|River Kingdoms]]. Some embrace their heritage, however, and are rewarded; warlords among feuding city- states often recruit half-[[Orc|orcs]] to serve as elite soldiers, officers, and law enforcement, valuing their blend of strength and cunning.
 ## Physical Description
 Half-[[Orc|orcs]] average around 6 feet tall, with powerful builds and greenish or grayish skin. Their canine teeth often grow long enough to protrude from their mouths, and these "tusks," combined with heavy brows and slightly pointed ears, give them their notoriously bestial appearance. While half-[[Orc|orcs]] may be impressive, few ever describe them as beautiful. Despite these obvious [[orc]] traits, half-[[Orc|orcs]] are as varied as their [[human]] parents.  

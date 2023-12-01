@@ -3,6 +3,7 @@ tags:
   - Place
   - Nation
 aliases:
+  - Issians
 ---
 # Issia
 One of two former nations that now comprise [[Brevoy]], the pirate nation of Issia was known and feared all along the length of the [[Sellen-River|Sellen River]]. Perched on the edge of the [[Lake-of-Mists-and-Veils|Lake of Mists and Veils]], Issia had an unforgiving geography that forced its people to be cunning and brutal in order to survive.
