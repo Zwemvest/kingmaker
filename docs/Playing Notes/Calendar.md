@@ -62,7 +62,7 @@
 |4703|	[[Half-orc]] rapscallion Ultrar Duneshifter, later styled the Rogue Marquis, jails the Crimson Marquis.|
 |4706|	Foreign mercenaries take over the village of Bacul Gruii in [[Cordelon]] and enslave its residents. The town of [Scrawny Crossing](Scrawny-Crossing) is abandoned under mysterious circumstances after a fierce rainstorm.|
 |4707|	[Urdul Bazzak](Urdul-Bazzak), the [Black Marquis](Urdul-Bazzak), seizes power in the [Protectorate](Protectorate-of-the-Black-Marquis). [Uringen](Uringen-City) begins to vanish and reappear with increased frequency.|
-|4708|	Lord [Martro Livondar](Martro-Livondar) takes power in Daggermark, promising an era of reconstruction and glory, and survives three assassination attempts in his first week.
+|4708|	Lord [Martro Livondar](Martro-Livondar) takes power in [Daggermark](Daggermark-Realm), promising an era of reconstruction and glory, and survives three assassination attempts in his first week.
 ## 4710
 
 ## Calistril
