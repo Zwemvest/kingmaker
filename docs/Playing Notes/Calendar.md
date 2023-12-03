@@ -4,7 +4,7 @@
 | ---- | ----- |
 |1575|	First appearance of [[Gorga\|gorgas]] from the seven arches in the Wilewood.|
 |2014|	[[Taldor]]’s Fifth Army of Exploration explores and maps the area that will later become Tymon.|
-|2021|	The River Kingdom of Tymon is officially established when [[Taldor\|Taldan]] gladiator Maldar Tymon is granted deed to the land.|
+|2021|	The River Kingdom of Tymon is officially established when [Taldan](Taldor) gladiator Maldar Tymon is granted deed to the land.|
 |2057|	Valknar Gladiatorial College is founded in Tymon.|
 |2690|	[[Elf\|Elves]] attempt to return to Sevenarches, but are rebuffed from the territory by the treant precursors of the [[Oakstewards]].|
 |2692|	Founding of the [[Oakstewards]] and the kingdom of Sevenarches.|

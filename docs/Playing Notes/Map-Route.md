@@ -1,4 +1,4 @@
-![[map.PNG]]
+![[stolenlands.webp]]
 ## Legend: 
 For detailed geographical map, see [[Stolen-Lands-Map]]
 Settlements (white dot, black text)
