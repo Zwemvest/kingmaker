@@ -21,7 +21,7 @@ The vast reach of land occupying the northwestern corner of [[Avistan]] has long
 
 The single greatest defeat and shame to visit the Lands of the Linnorm Kings remains the Winter War of 3313. It took less than 30 days for the Queen of Witches, Baba Yaga, to carve away the eastern reaches of these lands and claim them as her own nation of Irrisen, a defeat that the Linnorm Kings still seethe over. Yet Irrisen’s borders are well defended, and as long as the Linnorm Kings remain divided, they have no hope of reclaiming their lost lands.
 ## People
-The days of easy pillage from the south are mostly over, as Ulfen raiders can no longer pass through the Arch of Aroden into the [[Inner-Sea|Inner Sea]] unaccosted. At the same time, the Ulfen are increasingly hired as sailors, marines, and bodyguards throughout [[Avistan]], perhaps because they combine great seamanship, ruthlessness, and exotic looks.
+The days of easy pillage from the south are mostly over, as Ulfen raiders can no longer pass through the Arch of [[Aroden]] into the [[Inner-Sea|Inner Sea]] unaccosted. At the same time, the Ulfen are increasingly hired as sailors, marines, and bodyguards throughout [[Avistan]], perhaps because they combine great seamanship, ruthlessness, and exotic looks.
 
 Ulfen men and women set great store by personal appearance, valuing their flowing locks, tight braids, and well-kept furs of ermine, mink, and fox. They wear necklaces of amber, carved narwhal horn, and mammoth ivory, as well as finely worked bronze and silver in a braided style. They consider themselves the handsomest men and women in all [[Avistan]], and the damnable thing about it, to other peoples, is that they are often right.
 

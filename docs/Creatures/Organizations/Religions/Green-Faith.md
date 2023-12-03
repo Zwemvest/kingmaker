@@ -15,4 +15,4 @@ The Green Faith is one of the oldest forms of worship in [[Golarion]], as eviden
 
 ## Deities
 * [[Erastil]]
-* Gozreh
+* [[Gorzeh]]

@@ -6,7 +6,7 @@ aliases:
   - Daggermark Assassins' Guild
 ---
 # Daggermark Assassins' Guild
-The Daggermark Assassins' Guild is an organization of hired killers based in Daggermark, in the [[River-Kingdoms|River Kingdoms]]. It includes a school of assassins established in Daggermark, and was openly called the Daggermark Assassins' Guild. It teaches the Three Precepts—Life, Death and the Vessel Between (i.e., the assassin)—to all who wish to be taught. The fighting style of the Vessel Between relies on stealth, agility and secrecy. The Guild also has close links with the more recently established Daggermark [[Poisoners-Guild|Poisoners' Guild]].
+The Daggermark Assassins' Guild is an organization of hired killers based in Daggermark, in the [[River-Kingdoms|River Kingdoms]]. It includes a school of assassins established in Daggermark, and was openly called the Daggermark Assassins' Guild. It teaches the Three Precepts—Life, Death and the Vessel Between (i.e., the assassin)—to all who wish to be taught. The fighting style of the Vessel Between relies on stealth, agility and secrecy. The Guild also has close links with the more recently established Daggermark [[Daggermark-Poisoners-Guild|Poisoners' Guild]].
 
 Lady Janna Smilos, who has the title Supreme Vessel of the Assassins' Guild, currently runs the school.
 

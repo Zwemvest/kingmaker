@@ -6,7 +6,7 @@ aliases:
   - Razmiran
 ---
 # Razmiran
-The realm known as Razmiran (pronounced RAZZ-meer-ann) was once a turbulent, violent River Kingdom called the Arch-Duchy of Melcat, where leadership changed as often as the years. This ended in 4661 AR, when the land was conquered by Razmir, a petty tyrant masquerading as a god. 
+The realm known as Razmiran (pronounced RAZZ-meer-ann) was once a turbulent, violent [[River-Kingdoms|River Kingdom]] called the Arch-Duchy of Melcat, where leadership changed as often as the years. This ended in 4661 AR, when the land was conquered by Razmir, a petty tyrant masquerading as a god. 
 
 ## History
 The northeastern shores of [[Lake-Encarthan|Lake Encarthan]] have always been a turbulent place. For centuries, this land was part of the unruly [[River-Kingdoms|River Kingdoms]], changing hands dozens of times from one burgeoning

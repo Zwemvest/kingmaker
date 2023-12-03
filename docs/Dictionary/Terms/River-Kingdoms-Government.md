@@ -52,7 +52,7 @@ Formal government: [[Mivon-Realm|Mivon]]
 System of rule where the military holds full authority (another [[River-Kingdoms|River Kingdoms]] favorite).
 Formal government: [[Liberthane]], [[Touvette]]
 * **Monarchy:** 
-Government where supreme authority is held by one hereditary ruler, typically referred to as a king or queen. Many River Kingdom autocrats declare themselves monarchs.
+Government where supreme authority is held by one hereditary ruler, typically referred to as a king or queen. Many [[River-Kingdoms|River Kingdom]] autocrats declare themselves monarchs.
 Formal government: [[Artume-Realm|Artume]]
 * **Noocracy:** 
 Government by the wise, the learned or the scholarly.
