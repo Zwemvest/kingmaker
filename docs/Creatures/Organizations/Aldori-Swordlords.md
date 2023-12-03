@@ -5,6 +5,7 @@ aliases:
   - Aldori Swordlords
   - Swordlords
   - swordlords
+  - Swordlord
 ---
 # Aldori Swordlords
 The Aldori swordlords, sometimes written Aldori Swordlords, arose when famed swordsman [[Baron-Sirian-Aldori|Baron Sirian Aldori]] agreed to train a select group of pupils in his duelling techniques. They ruled [[Rostland]] for generations, each as prickly and impulsive as the order's founder. They are known for their mastery of the Aldori dueling sword. Though they are considered some of the finest swordfighters in the [[Inner-Sea|Inner Sea]] region, they are also obsessed with personal standing and honor.

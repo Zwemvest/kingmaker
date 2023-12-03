@@ -2,4 +2,4 @@
 
 Surtova has some allies in the [[Aldori-Swordlords|Aldori Swordlords]], but they refuse to aid him directly. Instead, they've convinced him to settle a region south of [[Rostland]], that [[Rostland]] claimed but could never really claim dominion over: the [[Stolen-Lands|Stolen Lands]]. An ally in that region would make Surtova's position a lot stronger, diplomatically, militarily, and politically. 
 
-The Stolen Lands are a dangerous region, full of bandits, where fey presence seems to be stronger than usual. Nobody in history has ever held the Stolen Lands as a kingdom for long. Since neither the [[Aldori-Swordlords|Swordlords]] nor Surtova can spare any troops, adventurers will have to settle the dangerous region. Guess who those adventurers are? 
+The [[Stolen-Lands|Stolen Lands]] are a dangerous region, full of [[bandits]], where [[fey]] presence seems to be stronger than usual. Nobody in history has ever held the [[Stolen-Lands|Stolen Lands]] as a kingdom for long. Since neither the [[Aldori-Swordlords|Swordlords]] nor Surtova can spare any troops, adventurers will have to settle the dangerous region. Guess who those adventurers are? 
