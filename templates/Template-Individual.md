@@ -1,0 +1,5 @@
+---
+tags:
+  - Individual
+aliases:
+---

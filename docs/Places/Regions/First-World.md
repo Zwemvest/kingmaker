@@ -19,7 +19,7 @@ Areas of stability do occur. In some cases this is apparently a random event; a 
 
 More commonly, stable areas exist where there is a connection to the Material Plane. Stability seeps into the First World at these points, much to the disgust of the locals, who seek to repair the damage and punish those they consider to be responsible. Of course, this is a two-way process. The fertility of the First World also flows through the connection into the Material Plane, with unpredictable results.
 
-The First World also serves as a conduit of new souls from the Positive Energy Plane toward the Ethereal and Material planes, a process that also creates new fey from the soul energy left in their wake. While the souls are unaligned at creation, they gain some of their earliest traits from their journey through the First World.
+The First World also serves as a conduit of new souls from the Positive Energy Plane toward the Ethereal and Material planes, a process that also creates new [[fey]] from the soul energy left in their wake. While the souls are unaligned at creation, they gain some of their earliest traits from their journey through the First World.
 
 However, the inhabitants of the First World are themselves blocked from the River of Souls, making its inhabitants effectively immortal. When a native of the First World "dies", their energy simply returns to the First World. None of the plane's souls can exit the First World, nor do new souls enter it.
 
@@ -34,6 +34,6 @@ However, what all the natives of the First World have in common is that (barring
 
 This discourages them from visiting other planes—since they do not reform outside the First World—and can also make them somewhat reckless when it comes to lives in the First World (including the lives of visitors, which can have tragic consequences).
 
-Almost all creatures in the First World that can speak can do so in the First World's nameless common tongue. It is similar to both Fey and Aklo languages (to such an extent that visitors fluent in either language can generally understand it) and may have been the root language of both tongues.
+Almost all creatures in the First World that can speak can do so in the First World's nameless common tongue. It is similar to both [[Fey|Fey]] and Aklo languages (to such an extent that visitors fluent in either language can generally understand it) and may have been the root language of both tongues.
 
 The inhabitants of the First World have souls, but are of little interest to the gods. They also have little interest in the gods either. A few of the First World's inhabitants might live in the First World to avoid the wrath of an offended deity. Visitors from other planes sometimes report they feel disconnected from their gods. Divine magic still works, however—although whether this is solely due to the faith or will of the spellcaster, or because the gods have not completely abandoned the First World, is a matter of conjecture.

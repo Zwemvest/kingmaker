@@ -6,7 +6,7 @@ aliases:
   - Stolen Lands
 ---
 # Stolen Lands
-This large swath of land along the northeastern border serves as a buffer between [[Brevoy]] and the [[River-Kingdoms|River Kingdoms]]—traditionally the haunt of bandits and monstrous humanoids, the Stolen Lands are regarded as “stolen” by all nations along its border, even though none have ever been able to keep these realms under their control for long.  
+This large swath of land along the northeastern border serves as a buffer between [[Brevoy]] and the [[River-Kingdoms|River Kingdoms]]—traditionally the haunt of [[bandits]] and monstrous humanoids, the Stolen Lands are regarded as “stolen” by all nations along its border, even though none have ever been able to keep these realms under their control for long.  
 
 ## History
 Across the northern frontier of the [[River-Kingdoms|River Kingdoms]] runs a hinterland not even the most brazen bandit lords dare to claim. Sharing borders with strange barbarians and the scions of a proud kingdom, this wilderness invites few intruders, out of fear of provoking the ire of empires. For untold decades this land has lain fallow, left to the devices of nature and deadly beasts, while strange things lurk amid its swamps, forests, and peaks, and the remnants of an ancient, near-forgotten history sleeps amid ruins and weeds. These are the Stolen Lands, a lordless realm having defied untold conquerors, yet ripe with potential for any bold enough to prove themselves its masters.

@@ -4,6 +4,7 @@ tags:
 aliases:
   - Urdul Bazzak
   - Black Marquis
+  - Urdal-Bazzak
 ---
 # Urdul Bazzak
 Urdul Bazzak is the ruler of the [[River-Kingdoms|River Kingdoms]] land known as the Protectorate. He has styled himself the Black Marquis, so the Protectorate is currently known as the [[Protectorate-of-the-Black-Marquis|Protectorate of the Black Marquis]]. 

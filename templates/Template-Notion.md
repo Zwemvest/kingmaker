@@ -1,0 +1,6 @@
+---
+tags:
+  - Notion
+aliases:
+---
+# 

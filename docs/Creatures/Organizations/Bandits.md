@@ -2,6 +2,8 @@
 tags:
   - Organization
 aliases:
+  - Bandits
+  - bandits
 ---
 # Bandits
 Far more bandits roam the Kingdoms than one would think the population could absorb. Criminals and castoffs from nearby nations, as well as natives, frequently take a turn at banditry here. The law is flexible, and the [[River-Freedoms|Sixth River Freedom]] subtly encourages it.

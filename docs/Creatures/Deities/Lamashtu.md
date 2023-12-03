@@ -2,6 +2,7 @@
 tags:
   - Deity
 aliases:
+  - Lamashtu
 ---
 # Lamashtu
 Lamashtu (pronounced lah-MAHSH-too) is the mother and patroness of many misshapen and malformed creatures that crawl, slither, or flap on, above, or below the surface of [[Golarion]]. Her unholy symbol is a three-eyed jackal head, which may be represented in many ways, and her sacred animal is the jackal.

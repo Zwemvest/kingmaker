@@ -2,13 +2,13 @@
 ## Before game start
 | Date | Event |
 | ---- | ----- |
-|1575|	First appearance of [[Gorga|gorgas]] from the seven arches in the Wilewood.|
+|1575|	First appearance of [[Gorga\|gorgas]] from the seven arches in the Wilewood.|
 |2014|	[[Taldor]]’s Fifth Army of Exploration explores and maps the area that will later become Tymon.|
 |2021|	The River Kingdom of Tymon is officially established when [[Taldor\|Taldan]] gladiator Maldar Tymon is granted deed to the land.|
 |2057|	Valknar Gladiatorial College is founded in Tymon.|
 |2690|	[[Elf\|Elves]] attempt to return to Sevenarches, but are rebuffed from the territory by the treant precursors of the [[Oakstewards]].|
 |2692|	Founding of the [[Oakstewards]] and the kingdom of Sevenarches.|
-|2802|	[[Kyonin]] elves establish [[Hymbria]] as a base to launch a secret and ultimately unsuccessful bid to reclaim Sevenarches.|
+|2802|	[[Kyonin]] [[Elf\|elves]] establish [[Hymbria]] as a base to launch a secret and ultimately unsuccessful bid to reclaim Sevenarches.|
 |3756|	Theodric, priest of Aroden, founds trading post of Heibarr.|
 |3811|	The fey of the Wilewood announce their first “wilding.” [[Fey]] of all sizes stream out of the forest and inhabit civilized Sevenarches for 2 weeks. The [[Oakstewards]] punish and repel all fey that cause too much harm. The Wilewood fey repeat this every 100 years.|
 |4109|	The Great Bridge of Heibarr is completed.|
@@ -23,6 +23,7 @@
 |4424|	Vizcarra family establishes the city-state of Sezgin.|
 |4434|	Mayor Aindon builds the River Gate beneath the Great Bridge in Heibarr. The Black Sisters of [[Gyronna]] arrive in Heibarr.|
 |4435|	Heibarr’s River Gate is destroyed; Heibarr is abandoned.|
+|4499|  Choral the Conqueror unites Issia and Rostland as the newly founded kingdom of Brevoy.
 |4500|	Several Aldori families, fleeing [[Choral-Rogarvia\|Choral]] the Conqueror’s invasion of [[Rostland]], occupy [[Mivon-City]].|
 |4502|	Maashinelle, Lockridge, and Sezgin unite under the Triunes of [[Lambreth]].|
 |4534|	The Aldori consolidate their control of [[Mivon-City]] and nearly succeed in conquering Pitax, opening a long period of hostility between the two [[River-Kingdoms\|River Kingdoms]]. A Pitaxian sellsword named Pietr Liacenza leads the armies of [[Mivon-City]] into a trap at Wolf’s Ravine, slaughtering [[Mivon-City]]’s forces and marking the Liacenza family’s rise to power in Pitax.|
@@ -38,11 +39,11 @@
 |4642|	The town of Uringen first disappears in a massive bank of fog on an unseasonably cool and humid summer night.|
 |4645|	Uringen reappears; the settlement continues to vanish and return at seemingly random intervals, each disappearance lasting several days.|
 |4647|	The Embeth Travelers abandon Uringen and begin patrolling the [[Embeth-Forest\|Embeth Forest]].|
-|4657|	[[Naerel-Twice-Born\|Naerel]] [[Naerel-Twice-Born\|Twice-Born]], the River Preacher, builds a shrine to [[Hanspur]] and establishes the town of [[Riverton]] on the shores of Kallas Lake.|
-|4661|	Sebilla Cattanei and Raimon Liacenza wed, reuniting Pitax and Corvenn.|
+|4657|	[[Naerel-Twice-Born\|Naerel Twice-Born]], the River Preacher, builds a shrine to [[Hanspur]] and establishes the town of [[Riverton]] on the shores of [[Kallas-Lake\|Kallas Lake]].|
+|4661|	Sebilla Cattanei and Raimon Liacenza wed, reuniting Pitax and Corvenn. Razmir, the Living God, declares himself in the River Kingdoms and swiftly conquers several smaller holds, uniting them as the new realm of Razmiran. |
 |4663|	Tharl Grimull’s family are burned to death after his eldest daughter refuses the advances of one of [[Nystra]]’s merchant-lords.|
 |4664|	Merrow overrun the town of [[Mosswater]], slaying almost all the inhabitants. Tharl Grimull’s violet musk creeper blooms in [[Nystra]], and the free silkgoyles slaughter the town’s residents.|
-|4668|	[[Dwarf\|Dwarves]] abandon Rookwarden; bugbears, goblins, and worgs under the banner of the Worg Queen overrun the Rookwarden Fells.|
+|4668|	[[Dwarf\|Dwarves]] abandon Rookwarden; bugbears, [[Goblin|goblins]], and worgs under the banner of the Worg Queen overrun the Rookwarden Fells.|
 |4672|	Lord Drellis Artume flees [[Andoran]] and founds the kingdom of Artume.|
 |4673|	Exiled [[Galt\|Galtan]] banker Obidas Nauzil founds Little [[Galt]].|
 |4675|	Exiled [[Andoran\|Andoren]] knight Kamdyn Arnefax defeats Razmiri armies menacing [[Lambreth]] in the so-called “Moonlight Massacre”; Arnefax disbands the Triunes and installs himself as Lord of [[Lambreth]].|
@@ -54,12 +55,12 @@
 |4690|	King Drellis of Artume is poisoned by Daggermark assassins; Queen Sovella appoints Sir Bransen Waike as regent.|
 |4693|	[[Taldor\|Taldan]] prospector Loric leads an expedition into the Rookwarden Fells. Ullorth Ungin becomes the latest Champion of Tymon.|
 |4696|	Uringen vanishes the night before a raid from Pitax, leaving the residents of the static portion of town to defend at half strength.|
-|4699|	General Cabol Voran stages a coup and establishes a military dictatorship in [[Touvette]], repelling foreign invaders and expelling all churches from the kingdom.|
+|4699|	General Cabol Voran stages a coup and establishes a military dictatorship in [[Touvette]], repelling foreign invaders and expelling all churches from the kingdom. The royal House Rogarvia vanishes from Brevoy, and the city of Skywatch is mysteriously sealed. Later that year, House Surtova claims Brevoy’s crown.| 
 |4700|	The [[Outlaw-Council\|Outlaw Council]] recognizes Loric’s rule over the Rookwarden Fells, now called [[Loric-Fells\|Loric Fells]]; river trolls under a covey of green hags depose the Worg Queen and oust her from Rookwarden. [[Cheliax\|Chelish]] corsair prince [[Morgan-the-White\|Morgan the White]], thereafter called [[Morgan-the-White\|the White Marquis]], founds the [[Pirate-Pact\|Pirate Pact]] and the Protectorate of [[Morgan-the-White\|the White Marquis]].|
 |4701|	Lord Loric and his mercenary army are ambushed and slain by scrags, opening [[Loric-Fells\|Loric Fells]] to the speculations of would-be bandit-kings.|
 |4702|	[[King-Irovetti\|Castruccio Irovetti]] takes control of Pitax from the Liacenza family. The White Marquis of the [[Pirate-Pact\|Pirate Pact]] is assassinated, and the Crimson Marquis, a Vudran maharaja buccaneer, takes power in the Protectorate.|
 |4703|	[[Half-orc]] rapscallion Ultrar Duneshifter, later styled the Rogue Marquis, jails the Crimson Marquis.|
-|4706|	Foreign mercenaries take over the village of Bacul Gruii in [[Cordelon]] and enslave its residents. The town of Scrawny Crossing is abandoned under mysterious circumstances after a fierce rainstorm.|
+|4706|	Foreign mercenaries take over the village of Bacul Gruii in [[Cordelon]] and enslave its residents. The town of [[Scrawny-Crossing|Scrawny Crossing]] is abandoned under mysterious circumstances after a fierce rainstorm.|
 |4707|	[[Urdul-Bazzak\|Urdul Bazzak]], the [[Urdul-Bazzak\|Black Marquis]], seizes power in the Protectorate. Uringen begins to vanish and reappear with increased frequency.|
 |4708|	Lord [[Martro-Livondar\|Martro Livondar]] takes power in Daggermark, promising an era of reconstruction and glory, and survives three assassination attempts in his first week.
 ## 4710

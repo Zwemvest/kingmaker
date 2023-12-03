@@ -8,7 +8,7 @@ aliases:
 # River Freedoms
 Frequently invoked—and occasionally trampled—the [Six River Freedoms](https://pkingmaker.obsidianportal.com/wikis/the-six-river-freedoms) are the ideological backbone for common [[River-Kingdoms|Riverfolk]]. Outsiders who expect to lead [[River-Kingdoms|Riverfolk]] must quickly make themselves aware of the subtleties of the River Freedoms, as those who repeatedly flout a beloved freedom find themselves deposed by a mob. Indeed, the River Freedoms find their most curious interpretations in the folkways of common [[River-Kingdoms|Riverfolk]]. A quick-witted wag who quotes a freedom to justify her actions can sway hearts to accept the most egregious behavior, and a misinterpretation of words can get an honest paladin driven out with malice.
 
-Philosophers and scholars who study the political landscapes of the [[River-Kingdoms|River Kingdoms]] rank the River Freedoms in order from least to most grave—after all, no one seriously believes in unfettered freedom to speak at all times. However, slavery is as serious an offense here as in Andoran, and nothing is so sacred to [[River-Kingdoms|Riverfolk]] as the freedom to keep what one holds.
+Philosophers and scholars who study the political landscapes of the [[River-Kingdoms|River Kingdoms]] rank the River Freedoms in order from least to most grave—after all, no one seriously believes in unfettered freedom to speak at all times. However, slavery is as serious an offense here as in [[Andoran]], and nothing is so sacred to [[River-Kingdoms|Riverfolk]] as the freedom to keep what one holds.
 
 The six River Freedoms are the closest thing the [[River-Kingdoms|River Kingdoms]] have to a unified set of laws.
 
@@ -35,7 +35,7 @@ One of the most basic freedoms of the [[River-Kingdoms|River Kingdoms]], this on
 ## Slavery is an Abomination
 Escaped slaves are an important fact of life in the River Kingdom. A slave that escapes to the [[River-Kingdoms|River Kingdoms]] is considered truly free. By some estimates, more than a third of all people living in the [[River-Kingdoms|River Kingdoms]] are either escaped slaves or children of escaped slaves. Thousands of slaves make their way to the [[River-Kingdoms|River Kingdoms]] annually and fiercely defend their newfound freedoms.
 
-Hellknights of the Order of the Chain, or members of any other slaving organization, are unable to hold office in the [[River-Kingdoms|River Kingdoms]], and Andoran [[Eagle-Knights|Eagle Knights]] are held in special regard by its people.
+[[Hellknights]] of the Order of the Chain, or members of any other slaving organization, are unable to hold office in the [[River-Kingdoms|River Kingdoms]], and [[Andoran|Andoran]] [[Eagle-Knights|Eagle Knights]] are held in special regard by its people.
 
 ## You Have What You Hold
 This freedom draws the moral distinction between burglary and robbery. Burglary, or the taking of another's property without their knowledge, is considered offensive and is punishable under common law, as it robs the victim of the ability to defend him or herself. In the [[River-Kingdoms|River Kingdoms]] it is more preferable to face your robber, to be allowed the opportunity to resist (and perhaps to repossess!). It is acceptable (and perhaps worthy of praise) to take what you want by force.

@@ -1,5 +1,0 @@
----
-tags:
-  - Deity
-aliases:
----

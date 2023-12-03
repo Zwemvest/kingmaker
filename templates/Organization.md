@@ -1,5 +1,0 @@
----
-tags:
-  - Organization
-aliases:
----

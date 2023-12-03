@@ -1,6 +1,0 @@
----
-tags:
-  - Place
-  - Region
-aliases:
----

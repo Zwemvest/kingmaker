@@ -3,6 +3,7 @@ tags:
   - Place
   - Nation
 aliases:
+  - Iobaria
 ---
 # Iobaria
 The land of Iobaria is located east of the nation of [[Brevoy]], north of the Castrovin Sea, and is considered part of the continent of Casmaron. [[Human]] settlers have united the land into an empire in the past, but currently the land is largely wilderness thanks to a series of plagues that have severely depopulated the region.

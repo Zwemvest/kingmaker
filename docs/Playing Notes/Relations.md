@@ -11,4 +11,4 @@ graph
 
 
 Party
-Stellaris
+[[Stellaris]]

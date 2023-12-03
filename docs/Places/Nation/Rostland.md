@@ -6,5 +6,6 @@ aliases:
   - Rostlandic
   - Rosterlander
   - Rostlanders
+  - Rostland
 ---
 # Rostland

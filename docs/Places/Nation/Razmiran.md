@@ -3,6 +3,7 @@ tags:
   - Place
   - Nation
 aliases:
+  - Razmiran
 ---
 # Razmiran
 The realm known as Razmiran (pronounced RAZZ-meer-ann) was once a turbulent, violent River Kingdom called the Arch-Duchy of Melcat, where leadership changed as often as the years. This ended in 4661 AR, when the land was conquered by Razmir, a petty tyrant masquerading as a god. 
