@@ -1,0 +1,6 @@
+---
+tags:
+  - Player
+aliases:
+---
+# Party

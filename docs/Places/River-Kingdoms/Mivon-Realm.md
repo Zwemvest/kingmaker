@@ -7,7 +7,7 @@ aliases:
 # Mivon
 It was to [[Mivon-City|Mivon]] (pronounced mih-VON) that many of the [[Aldori-Swordlords|Aldori swordlords]] fled after [[Choral-Rogarvia|Choral the Conqueror]] overthrew the nation of [[Rostland|Rostland]] to create modern day [[Brevoy]]. Many [[Aldori-Swordlords|swordlords]] settled in Mivon bringing with them the experience and knowledge of the ancient art of the [[Aldori-Swordlords|swordlords]]. Warriors from as far away as Garund make pilgrimages to [[Mivon-City|Mivon]] to learn the secrets of the [[Aldori-Swordlords|swordlords]], in order to do this the applicant must best a series of increasingly tough duels.
 
-Mivon is one of the most stable [[River-Kingdoms|River Kingdoms]]. The land surrounding the city-state of [[Mivon-City|Mivon]], features the town of Jovvox as well as a dozen small walled villages with palisades and guards, and a number of stone keeps along the rivers leading to and from [[Pitax-Realm|Pitax]].
+Mivon is one of the most stable [[River-Kingdoms|River Kingdoms]]. The land surrounding the city-state of [[Mivon-City|Mivon]], features the town of [[Jovvox]] as well as a dozen small walled villages with palisades and guards, and a number of stone keeps along the rivers leading to and from [[Pitax-Realm|Pitax]].
 
 # History
 When [[Choral-Rogarvia|Choral the Conqueror]] began his bloody conquest in 4499, certain families of the A[[Aldori-Swordlords|Aldori swordlords]] fled south into the [[River-Kingdoms|River Kingdoms]] and watched their homeland burn. They thought they were in the vanguard of their people. Instead, they were first in flight, as many of their compatriots remained behind to fight the invaders. Though 200 years have passed, the [[Aldori-Swordlords|Aldori]] of Mivon still worry at the memory of their ignominious retreat, and rather than admit the cowardice of their ancestors, have turned the existence of [[Brevoy|Brevoy]] itself into an insult to their honor. “Coward” and “[[Brevoy]] bird” have become among the gravest insults one can bestow on the Mivoni [[Aldori-Swordlords|Aldori]], and those who lived here before the exodus have picked it up as well.
@@ -38,4 +38,5 @@ As with most of the [[River-Kingdoms|River Kingdoms]], the early history of Mivo
 
 ## Sites
 [[Mivon-City|Mivon]]
+[[Jovvox]]
 [[The-Feasting-Hall-of-Cayden-Cailean|The Feasting Hall of Cayden Cailean]]

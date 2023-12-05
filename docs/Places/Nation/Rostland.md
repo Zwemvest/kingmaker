@@ -18,3 +18,10 @@ Most Rostlandi are simple farmers, craftsmen, and tradesmen, possessing outgoing
 In 4499 AR, the armies of [[Choral-Rogarvia|Choral the Conqueror]] swept into Rostland, and despite a strong resistance mustered by the [[Aldori-Swordlords|swordlords]], the nation fell at the barbarian's hand and at the talons of his red dragon servitors. The most memorable conflict between the Rostlandi and [[Choral-Rogarvia|Choral]]'s armies is now known as the Valley of Fire, and somber songs of swordlord Estruan Aldori's defeat remain a popular aspect of folk culture in [[Brevoy]], the [[River-Kingdoms|River Kingdoms]], and [[Mendev]]. After annihilating the Rostlandi army, [[Choral-Rogarvia|Choral]]'s red dragons turned their attention to Rostland itself, and initiated a brutal onslaught of fire and blood that brought the once-proud nation to its knees. In only a handful of days, the people of Rostland surrendered to their new ruler and his heirs in House Rogarvia.
 
 Many Aldori [[Aldori-Swordlords|swordlords]] fled Rostland under [[Choral-Rogarvia|Choral]]'s rule, establishing a strong presence in the [[Mivon-City|city of Mivon]] to the south, amid the [[River-Kingdoms|River Kingdoms]]. Others fled to the Free City of [[Restov]] in the far south of [[Brevoy]]. The Aldori stronghold of Skywatch maintained the resistance even after the rest of Rostland had fallen, but even this seat of independent Aldori power was reduced to ashes by [[Choral-Rogarvia|Choral]] and his dragons, eventually to be rebuilt by House Rogarvia.
+
+## Sites
+[[Restov]]
+[[Nivaktas-Crossing|Nivakta's Crossing]]
+
+## Part of
+[[Brevoy]]

@@ -7,7 +7,7 @@ aliases:
   - King Irovetti
   - Castruccio Irovetti
 ---
-# King Irovetti
+# Castruccio Irovetti
 Castruccio Irovetti is the ruler of the [[River-Kingdoms|River Kingdom]] of [[Pitax-Realm|Pitax]], where he has ruled for half a decade. As the bandit king Irovetti took control of [[Pitax-City|Pitax]], the city mirrored his dark and brutal personality, becoming a force to be reckoned with in the [[River-Kingdoms|River Kingdoms]] and drawing the ire and envy of the lands surrounding it. 
 
 Hoping to give [[Pitax-Realm|Pitax]] the illusion of respectability, Irovetti formed the [[Academy-of-Grand-Arts|Academy of Grand Arts]] shortly after taking over, hoping to turn the small city into a bastion of fine arts and high culture. Unfortunately, this plan proved to be disastrous. Irovetti insists on carefully controlling whatever the various artists, musicians, actors, and other performers of the academy create or do. As a result, the talented sorts that Irovetti hoped to attract to the academy never come, instead leaving only those with limited talents and great delusions of grandeur to enter its gates

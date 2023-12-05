@@ -13,3 +13,7 @@ The lake is the source of the mighty [[Sellen-River|Sellen River]], and much of 
 The lake's name originates from how, at the onset of winter, the warm water "steams" as the chill of night sets in; the mist burns off in the morning. 
 
 Clouds drift across the Lake year-round and according to some are seen even below the waterline.
+
+## Part of
+[[Inner-Sea|Inner Sea]]
+[[Avistan]]

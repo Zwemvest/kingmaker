@@ -14,6 +14,7 @@ Scattered among the forests and marshes of the [[Sellen-River|Sellen River]] bas
 The lawless reputation of the River Kingdoms draws outcasts, refugees, and anyone else so desperate to escape their pasts that carving out a new life in a rough frontier town seems like an attractive proposition. Such settlers rarely have much money, and as the skills developed in their homelands are often ill suited to hardscrabble lives in the river basin, they generally find it difficult to rebuild their fortunes. The region is further depressed by the River Kingdoms’ instability, which deters trade, investment, and even travel. Thus, most of the River Kingdoms are poor, isolated, and backward—but stubbornly, proudly free.
 
 More information:
+[[River-Kingdoms-Summary|A summary of the River Kingdoms]]
 [[River-Kingdoms-History|History of the River Kingdoms]]  
 [[River-Kingdoms-Economy|Economy in the River Kingdoms]]  
 [[River-Kingdoms-Diplomacy|Diplomacy in the River Kingdoms]]  
@@ -36,9 +37,9 @@ Slavers may visit the River Kingdoms, but taking or holding slaves there upsets 
 Property laws are weak in the River Kingdoms. Taking something openly by force is different from stealing, and those who can’t protect their property don’t deserve to keep it.  
 ## Geography
 ### River Kingdoms
-- [[Artume-Realm|Artume]]  
-- [[Cordelon]]  
-- [[Daggermark-Realm|Daggermark]]  
+- [[Artume-Realm|Artume]]     
+- [[Cordelon]]      
+- [[Daggermark-Realm|Daggermark]]     
 - [[Hymbria]]  
 - [[Leydis]]  
 - [[Liberthane]]  
@@ -50,7 +51,7 @@ Property laws are weak in the River Kingdoms. Taking something openly by force i
 - [[Scrawny-Crossing|Scrawny Crossing]]  
 - [[Sevenarches-Realm|Sevenarches]]  
 - The [[Stolen-Lands|Stolen Lands]]  
-- [[Thornhold]]  
+- [[Thornkeep]]  
 - [[Touvette]]  
 - [[Tymon-Realm|Tymon]]  
 #### Map
@@ -67,5 +68,5 @@ Property laws are weak in the River Kingdoms. Taking something openly by force i
 - [[Scrawny-Crossing|Scrawny Crossing]]
 - [[Sevenarches-City|Sevenarches]]
 - [[Thom]]
-- [[Thornhold]]
+- [[Thornkeep]]
 - [[Tymon-City|Tymon]]

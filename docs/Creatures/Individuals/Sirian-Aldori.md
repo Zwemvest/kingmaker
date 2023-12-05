@@ -8,7 +8,7 @@ aliases:
   - Sirian First
 status: dead
 ---
-# Baron Sirian Aldori
+# Sirian Aldori
 Baron Sirian Aldori is the original founder of [[Rostland]] and the founder of the [[Aldori-Swordlords|Aldori Swordlords]]. [[Aldori-Swordlords|Aldori Swordlords]] still take on the "Aldori" name.
 
 ## History

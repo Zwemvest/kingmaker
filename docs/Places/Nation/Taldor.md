@@ -4,6 +4,8 @@ tags:
   - Nation
 aliases:
   - Taldan
+  - Taldane
+  - Taldoran
 ---
 # Taldor
 Knights, fair maidens, heroic adventures, and righteous quests—these are the legends of old Taldor (pronounced TAL-door).
@@ -24,3 +26,10 @@ Taldans justifiably take pride in the strong influence their native gods have ex
 Taldan arrogance manifests differently for the two sexes. Male Taldans exhibit an overbearing machismo that usually falls just shy of outright misogyny. They speak of conquests and territorial disputes when they discuss Taldan women, and of “bringing civilization to the barbarians” to brag of their exploits with women of other ethnicities or races. Taldan women express their ethnic superiority complex via biting commentary of the dress, hairstyle, body shape, or facial features of other females they see. Although they tend to focus their overly critical judgments on women from other ethnicities or races, when bored or among only close friends they sometimes casually insult one another (albeit with considerably less bile than when their attentions are drawn outside their close circles). Obviously, not every Taldan exhibits the most extreme arrogant personality traits described here, but enough do to make the pride of Taldans an unfavorable stereotype known throughout the [[Inner-Sea|Inner Sea]] region.
 
 On the other hand, when moved to better emotions, Taldans express their concerns with nigh-unparalleled charity of time and wealth. In fact, the success with which wide-eyed impoverished children (especially those of obviously Taldan descent) and those with hard-luck tales can convince a Taldan to donate hard-earned coins further leads to the view among others that Taldans throw about their wealth with little concern for the future. This hedonism, critics observe, frequently is the reason why many adults fall on hard times and must turn to their fellows for additional aid. 
+
+## Taldane
+Taldane is the most widely spoken language in [[Avistan]] and Garund; indeed, it is often referred to as Common across the [[Inner-Sea|Inner Sea]] region. It is a trade language which takes its alphabet from ancient Jistka and its numerals from Kelish. Most of the terms and grammar are based on ancient Azlanti, although Taldane also borrows from [[Varisia|Varisian]].
+
+It is thought to be one of the oldest [[Human]] languages still spoken in the [[Inner-Sea|Inner Sea]] region, and is certainly the most widely spoken. Many localities in [[Avistan]] have their own particular slang words or phrases, and the most well-known of these is Korvosan slang.
+
+Taldane is also spoken in the north and west of the continent of [[Tian-Xia|Tian Xia]] by those who trade heavily with the [[Inner-Sea|Inner Sea]] region. It is also the national tongue of the [[Taldor|Taldan]] colony of Amanandar there, and is beginning to spread to other countries in that region.
