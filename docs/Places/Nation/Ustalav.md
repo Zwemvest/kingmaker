@@ -6,6 +6,7 @@ aliases:
   - Ustalavic
   - Principality of Ustalav
   - Immortal Principality of Ustalav
+  - Ustalav
 ---
 # Ustalav
 The Immortal Principality of Ustalav (pronounced OO-stah-lahv)  is a fog-shrouded nation of countless horrors, and a once-proud realm that suffered under the clawed hands of the Whispering Tyrant for centuries.

@@ -4,8 +4,14 @@ tags:
   - Nation
 aliases:
   - Tian Xia
+  - Tian-Xia
   - Tian
+  - Tien
 ---
+# Tian-Xia
+Tian Xia (pronounced TEE-yawn-shaw) is the continent geographically farthest from [[Avistan]], and lies across the Embaral Ocean that borders the eastern shore of exotic Casmaron. 
+
+Often referred to as the Dragon Empires, Tian Xia is most easily accessed by the residents of [[Avistan]] via the dangerous land route over [[Golarion]]'s northernmost continent, the icy Crown of the World. As a result of its distance from the [[Inner-Sea|Inner Sea]] region, not much is known of this mysterious continent. It has acted as a cradle of civilization for nearly 7,000 years, and in that time has boasted three continent-spanning empires, the most recent of which, Lung Wa, ruled up until a century ago. Mainland Tian Xia today has many different sovereign nations, many of which have experienced a cultural renaissance since the fall of Lung Wa.
 ## People
 Although the people of [[Avistan]] and Garund see the distant Tians as a single ethnicity (a misconception that Tians reciprocate regarding natives of [[Avistan]] and Garund), the people collectively known as the Tians encompass several distinct ethnicities. Most of the Tians who come to the [[Inner-Sea|Inner Sea]] region originate from the Successor States or Minkai on the distant continent of Tian Xia.
 Religion varies across Tian Xia as much as its people do; they worship a pantheon of deities whose breadth rivals that of the known gods of the [[Inner-Sea|Inner Sea]] region. Since its introduction by Vudrani missionaries, the church of Irori has spread across Tian Xia, becoming an official state religion in most nations. Most Tians who have settled in the [[Inner-Sea|Inner Sea]] region have, over the course of a few generations, adopted [[Inner-Sea|Inner Sea]] religions as their own.

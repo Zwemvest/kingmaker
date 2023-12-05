@@ -3,7 +3,7 @@
 | Date | Event |
 | ---- | ----- |
 |1575|	First appearance of [gorgas](Gorga) from the [seven arches](Sevenarches-City) in the [[Wilewood]].|
-|2014|	[[Taldor]]’s Fifth Army of Exploration explores and maps the area that will later become Tymon.|
+|2014|	[[Taldor]]’s Fifth Army of Exploration explores and maps the area that will later become [Tymon](Tymon-Realm).|
 |2021|	The [River Kingdom](River-Kingdoms) [of Tymon](Tymon-Realm) is officially established when [Taldan](Taldor) gladiator Maldar Tymon is granted deed to the land.|
 |2057|	Valknar Gladiatorial College is founded in [Tymon](Tymon-City).|
 |2690|	[Elves](Elf) attempt to return to [Sevenarches](Sevenarches-City), but are rebuffed from the territory by the treant precursors of the [[Oakstewards]].|
@@ -11,7 +11,9 @@
 |2802|	[[Kyonin]] [Elves](Elf) establish [[Hymbria]] as a base to launch a secret and ultimately unsuccessful bid to reclaim [Sevenarches](Sevenarches-Realm).|
 |3756|	Theodric, priest of [[Aroden]], founds trading post of [[Heibarr]].|
 |3811|	The [[fey]] of the [[Wilewood]] announce their first “wilding.” [[Fey]] of all sizes stream out of the forest and inhabit civilized [Sevenarches](Sevenarches-City) for 2 weeks. The [[Oakstewards]] punish and repel all fey that cause too much harm. The [[Wilewood]] [[fey]] [repeat this every 100 years](Wilding).|
+|4071|  The [Kingdom of Zog](Kingdom-of-Zog) is established after goblins overwhelm the young kindom of Alban (modern day [[Lambreth]]) |
 |4109|	The [Great Bridge](Heibarr#Great-Bridge) of [[Heibarr]] is completed.|
+|4217|  The [Kingdom of Zog](Kingdom-of-Zog) is crippled when the Yellowtongue Sickness swipes through the region. The kingdom falls to a loose coalition of adventurers, [riverfolk](human), and [half-elves](half-elf) the same year. |
 |4247|	Warring sahuagin and merfolk put aside their differences and found the aquatic settlement of [[Outsea]].|
 |4256|	The Intilporium, a minor but powerful [Taldan](Taldor) noble family of wizards, makes a surprise push to take [Sevenarches](Sevenarches-City) from the [[Oakstewards]]. Arcane mercenaries take and hold [Sevenarches](Sevenarches-City) for 9 weeks before the [[Oakstewards]] reassert control. This is the only break in [Oaksteward](Oakstewards) power in 2 millennia.|
 |4312|	The [Silver Fox](Cesare-Cattanei) first visits the small, sleepy hamlet known as [Pitax](Pitax-City). Within 20 years, the hamlet grows into a grand town, and becomes the capital of the [River Kingdom](River-Kingdoms) [of Pitax](Pitax-Realm).|

@@ -3,11 +3,11 @@ tags:
   - Individual
   - Dead
 aliases:
-  - Choral
   - Choral Rogarvia
   - Choral the Conqueror
   - first king of Brevoy
   - founder of Brevoy
+  - Choral
 status: dead
 ---
 # Choral Rogarvia

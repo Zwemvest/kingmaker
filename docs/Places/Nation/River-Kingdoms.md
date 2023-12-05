@@ -36,7 +36,6 @@ Slavers may visit the River Kingdoms, but taking or holding slaves there upsets 
 Property laws are weak in the River Kingdoms. Taking something openly by force is different from stealing, and those who can’t protect their property don’t deserve to keep it.  
 ## Geography
 ### River Kingdoms
-![[river-kingdoms-map.jpg]]
 - [[Artume-Realm|Artume]]  
 - [[Cordelon]]  
 - [[Daggermark-Realm|Daggermark]]  
@@ -54,6 +53,8 @@ Property laws are weak in the River Kingdoms. Taking something openly by force i
 - [[Thornhold]]  
 - [[Touvette]]  
 - [[Tymon-Realm|Tymon]]  
+#### Map
+![[river-kingdoms-map.jpg]]
 ### Settlements
 - [[Artume-City|Artume]]
 - [[Brunderton]]
