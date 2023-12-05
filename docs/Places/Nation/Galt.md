@@ -4,6 +4,7 @@ tags:
   - Nation
 aliases:
   - Galtan
+  - Galt
 ---
 # Galt
 Galt (pronounced GALT) is a land in the Shining Kingdoms of northeastern [[Avistan]] where once high ideals have been laid low and mob rule has led to chaos. Galt was once a vassal nation of [[Cheliax|Cheliax]], but also known for its free thinkers, poets, and artists. After the death of [[Aroden]] and the rise of House Thrune in [[Cheliax|Cheliax]], the people of Galt decided to throw off their foreign rulers, along with their own nobles who had colluded with them. The Red Revolution followed in which many, many nobles lost their heads. The problem was the executions did not end the bloodshed and, within five years, the severed heads of the ministers of the first government rolled down the steps of the guillotines. In the decades since, over a dozen governments have ruled Galt, rising and falling like the waves of a stormy sea.
