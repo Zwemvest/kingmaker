@@ -296,8 +296,8 @@
       "match": "exact",
       "uid": "1389-79d3",
       "selectText": true,
-      "selectAppend": false,
-      "selectPrepend": true,
+      "selectAppend": true,
+      "selectPrepend": false,
       "selectBackground": false
     }
   ]

@@ -38,12 +38,12 @@
   "supercharged-links@@e028-48d6-before": "👑",
   "supercharged-links@@c82f-c7c5-color": "#D3B501",
   "supercharged-links@@c82f-c7c5-before": "🌊",
-  "supercharged-links@@1389-79d3-color": "#5884FE",
-  "supercharged-links@@1389-79d3-before": "🏴‍☠️",
   "supercharged-links@@c639-ea1f-color": "#007ED0",
   "supercharged-links@@0a0a-a396-color": "#008E9A",
   "supercharged-links@@18fc-82c8-color": "#AC7C25",
   "supercharged-links@@7af4-5035-color": "#F27D87",
   "supercharged-links@@f86f-ee8c-color": "#D26F9C",
-  "supercharged-links@@1205-1e4e-color": "#008E9A"
+  "supercharged-links@@1205-1e4e-color": "#008E9A",
+  "supercharged-links@@1389-79d3-after": "🏴‍☠️",
+  "supercharged-links@@1389-79d3-color": "#FA6C8E"
 }

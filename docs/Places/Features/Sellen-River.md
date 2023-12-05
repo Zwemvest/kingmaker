@@ -19,7 +19,7 @@ In most places, the river is less than a mile wide and around 12 feet deep, best
 
 Outsiders find it confusing that on many maps the tributaries are also called “the Sellen River.” The turnover of sovereignty leads to frequent renaming, making most names too temporary to be useful. When it’s relevant, the river is referred to by its three main branches: [[West-Sellen-River|West Sellen]], Main Sellen, and [[East-Sellen-River|East Sellen]], with specific sections of the river named according to the nearest kingdom through which it flows. Clearly, understanding the particulars of directions and locations or conversing with a native about one of these confusingly named rivers will require some local knowledge. 
 
-In the [[River-Kingdoms|River Kingdoms]], the Sellen winds past the ruins of [[Heibarr]], and past the towns of [[Outsea]], [[Artume-City|Artume]], and [[Sevenarches-City|Sevenarches]]. South of there it is joined first by the Goldenrun and then the Yhalt River before finally flowing into [[Kallas-Lake|Kallas Lake]].
+In the [[River-Kingdoms|River Kingdoms]], the Sellen winds past the ruins of [[Heibarr]], and past the towns of [[Outsea]], [[Artume-City|Artume]], and [[Sevenarches-City|Sevenarches]]. South of there it is joined first by the Goldenrun and then the [[Yhalt|Yhalt River]] before finally flowing into [[Kallas-Lake|Kallas Lake]].
 
 As the river moves south, it gradually becomes slower and wider as it no longer has to fight its way between walls of glacier-carved rock. Grasslands and rich forests along its banks become more common, as do the various outposts that cater to trade.
 
@@ -35,3 +35,4 @@ Because of the incredible importance of trade along the Sellen and its tributari
 - [[Shrike-River|Shrike River]]
 - [[East-Sellen-River|East Sellen]]
 - [[West-Sellen-River|West Sellen]]
+- [[Yhalt]]

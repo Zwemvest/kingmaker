@@ -11,7 +11,7 @@ status: dead
 # Heibarr
 Disputes over taxation and the destructive influence of the cult of [[Gyronna]] reduced Heibarr to its current status—a ruin haunted at night by ghosts.  
 
-The ruins of Heibarr are situated on a branch of the [[Sellen-River|Sellen River]] in the [[River-Kingdoms|River Kingdoms]], downstream of Mormouth in [[Pitax-Realm|Pitax]] and upstream of [[Outsea]].
+The ruins of Heibarr are situated on a branch of the [[Sellen-River|Sellen River]] in the [[River-Kingdoms|River Kingdoms]], downstream of [[Mormouth]] in [[Pitax-Realm|Pitax]] and upstream of [[Outsea]].
 
 It was established in 3756 AR, eventually becoming established on both sides of the river, with a bridge in 4109 AR linking both sides. The settlement prospered until 4434 AR, when Mayor Aindon decided to build a toll gate underneath the bridge in order to tax river traffic in contravention of the third of the [[River-Freedoms|River Freedoms]].
 

@@ -13,3 +13,4 @@ The only settlement in the forest is the strange isolated town of [[Uringen-City
 A plant called nightmoss which grows in towering cypress trees throughout the Embeth Forest, is in demand. A small number of [[Uringen-Realm|Uringen]] residents use their secret formulae to brew the moss into powerful potions aimed at strengthening the body and healing physical conditions. A [[human]] druid, named Erinin Thulgath, established her own camp at the southeastern edge of the forest. Having stolen the secret of nightmoss's healing properties, Erinin and her group brew potent alchemical products.
 ## Sites
 - [[Uringen-City|Uringen]]
+- [[Embeth-Camps|Embeth Camps]]

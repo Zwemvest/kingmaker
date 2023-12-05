@@ -2,6 +2,7 @@
 tags:
   - Place
   - GeographicFeature
+  - StolenLands
 aliases:
   - Lake Hooktongue
   - Hooktongue Lake
@@ -11,3 +12,4 @@ Deep and snaking, the murky gray-green waters of Lake Hooktongue slither through
 
 ## Part of
 [[Hooktongue-Slough|Hooktongue Slough]]
+[[Stolen-Lands|Stolen Lands]]

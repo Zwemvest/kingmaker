@@ -2,6 +2,7 @@
 tags:
   - Place
   - GeographicFeature
+  - StolenLands
 aliases:
   - Branthlend Mountains
   - Branthlend Range
@@ -11,5 +12,6 @@ This is a mountain range in the [[Glenebon-Uplands|Glenebon Uplands]] region of 
 
 ## Part of
 [[Glenebon-Uplands|Glenebon Uplands]]
+[[Stolen-Lands|Stolen Lands]]
 ## Sites
 [[Mount-Branthlend|Mount Branthlend]]

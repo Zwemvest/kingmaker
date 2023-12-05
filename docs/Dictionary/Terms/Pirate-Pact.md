@@ -7,7 +7,7 @@ aliases:
 # Pirate Pact
 The Pirate Pact is the name given to the protection racket established on a part of the [[Sellen-River|Sellen River]] by [[Morgan-the-White|Morgan the White]].
 
-It operates in the region of the [[River-Kingdoms|River Kingdoms]] currently known as the [[Protectorate-of-the-Black-Marquis|Protectorate of the Black Marquis]], and is overseen by the [[Urdul-Bazzak|Black Marquis]], Urdal Bazzak. The Protectorate controls a 30 mile stretch of the river, and river traffic is expected to stop in the capital of Deadbridge to pay a toll. Those that evade the toll are attacked by river pirates.
+It operates in the region of the [[River-Kingdoms|River Kingdoms]] currently known as the [[Protectorate-of-the-Black-Marquis|Protectorate of the Black Marquis]], and is overseen by the [[Urdul-Bazzak|Black Marquis]], Urdal Bazzak. The Protectorate controls a 30 mile stretch of the river, and river traffic is expected to stop in the capital of [[Deadbridge]] to pay a toll. Those that evade the toll are attacked by river pirates.
 
 Anyone willing to work may become part of the Pact, and share in the risks and rewards of the protection racket. However, candidates must undergo a six month probation period working as a deckhand on one of the pirate vessels.
 

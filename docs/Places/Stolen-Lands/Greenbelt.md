@@ -2,6 +2,7 @@
 tags:
   - Place
   - StolenLands
+  - Region
 aliases:
 ---
 # Greenbelt
