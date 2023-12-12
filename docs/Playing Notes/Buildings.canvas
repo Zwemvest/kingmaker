@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8ed88cdac7b5baec","x":-320,"y":60,"width":250,"height":60,"type":"text","text":""},
+		{"id":"216d94fff0a7f098","x":-320,"y":180,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1259d4e1b74be503","fromNode":"8ed88cdac7b5baec","fromSide":"bottom","toNode":"216d94fff0a7f098","toSide":"top"}
+	]
+}
