@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"21f8a1ad4daa8fa8","x":-280,"y":-240,"width":250,"height":60,"type":"text","text":"Party"},
+		{"id":"c8367bee16bfb455","x":-280,"y":-60,"width":250,"height":60,"type":"text","text":"Stellaris"}
+	],
+	"edges":[
+		{"id":"8f5e811084d4c084","fromNode":"21f8a1ad4daa8fa8","fromSide":"bottom","toNode":"c8367bee16bfb455","toSide":"top"}
+	]
+}
