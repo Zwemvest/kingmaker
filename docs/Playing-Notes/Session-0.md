@@ -2,13 +2,7 @@
 Tag: Session
 ---
 # Session 0
-4642AR: Uringen disappears from the first time, and Kairos disappears only half. 
-37 years ago: Djames is born
-22 years ago: Leonardo is born
-10 years ago: Djames meets the Lebeda family. They hire Djames as an advisor, and Djames weaves himselves into the Brevoy noble court politics
-4 years ago: Leonardo had a tragic incident that turned him into an Android
-1.5 years ago: Leonardo needs routine maintenance. Kairos is hired by the Lebeda family to repair him, and Djames is hired to find the Adamantine needed. Djames poisones a forest, and the elf nowadays known als Lizzy died, and was reborn as an Leshy.
-3 months ago: Djames flees from Galt. Djames and Lizzy temporarily move to the Lebeda family, before deciding to join the expedition to the Stolen Lands. 
+
 ## 24 Calistril 4710
 We arrive at Lady Jamandi's impressive hilltop manor. The spaceous hall has been prepared for a great feast, while heavily armed soldiers watch over the hall. A fire crackles in a large fireplace. An iron lever, secured by a lock, adores the fireplace. Massive chandeliers hang from the ceiling, and beautiful artwork is seen all over the walls. Tables are placed in the center in the room, covered with cutlery, while the scent of delicious roasted meat and other delicious foods fills the room.
 
