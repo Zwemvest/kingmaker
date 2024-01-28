@@ -15,22 +15,22 @@
 
 - 61 gold, 48 silver
 ### Party inventory
-### [Kairos](Kairos.md)
+### [Kairos](../Creatures/Party-Members/Kairos.md)
 - 2 Minor Healing Potion
 - Onyx Panther
 - Tanglefoot Bag
-### [[Lizzy-the-Leshby|Lizzy]]
+### [[../Creatures/Party-Members/Lizzy-the-Leshby.md|Lizzy]]
 - Minor Healing Potion
 - Lesser Healing Potion
 - Jade Cat
 - +1 Dagger
 - Scroll of Inkshot
-### [[Djames]]
+### [[../Creatures/Party-Members/Djames.md]]
 - Minor Healing Potion 
 - Lesser Healing Potion
 - Barkskin
  - Lesser potion of fire resistance
  - Bronze key
-### [[Leonardo-Lebeda|Leonardo]]
+### [[../Creatures/Party-Members/Leonardo-Lebeda.md|Leonardo]]
 - Minor Healing Potion
 - +1 Longsword

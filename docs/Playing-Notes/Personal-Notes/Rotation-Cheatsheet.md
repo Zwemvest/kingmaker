@@ -1,4 +1,4 @@
-[Kairos](Kairos.md) Basic Rotation:
+[Kairos](../../Creatures/Party-Members/Kairos.md) Basic Rotation:
 
 ```mermaid
 graph

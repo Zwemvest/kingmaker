@@ -1,6 +1,6 @@
-![[stolenlands.webp]]
+![[../images/stolenlands.webp]]
 ## Legend: 
-For detailed geographical map, see [[Stolen-Lands-Map]]
+For detailed geographical map, see [[Stolen-Lands-Map.md]]
 Settlements (white dot, black text)
 Stopped locations (blue dot, white text)
 Travels (light-blue line)
