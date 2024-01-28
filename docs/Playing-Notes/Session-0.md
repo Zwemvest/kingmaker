@@ -36,7 +36,7 @@ Lizzy gets drunker and drunker and starts rambling to Amiri as small liquor bubb
 
 In the meantime, the storm has increased in intensity, raining harder and harder, when a bell sounds. Lady Jamandi starts a large speech about enjoying the food and drink. Several dozens mugs and goblets sound cheering before the room calms down again. Jamadi suggests everyone gets an early rest, before she'll talk individually to different adventuring parties about their exact missions and directives into the Stolen Lands. 
 
-# 25 Calistril 4710
+## 25 Calistril 4710
 We retire to our quarters around 9 to fall asleep (except Lizzy, who doesn't sleep). We are waken up at 3 by a hounding yell sounding through the halls, except Djames, who stays sound asleep until Lizzy wakes him up. We get up out of bed, don our armor, and Lizzy has Gomi carefully scout the halls.
 
 Gomi sees some dark-colored people. Kairos pushes herself against the wall to hide/take cover, and carefully opens the door. The party gets ready to ambush the attackers. The yell came from a guard, ambushed by three attackers.
