@@ -2,6 +2,7 @@
 tags:
   - Player
 aliases:
-  - Stellaris
+  - Missy
 ---
-# Stellaris
+# Missy
+[[Kairos]]' cat

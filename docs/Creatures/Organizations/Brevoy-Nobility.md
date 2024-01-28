@@ -20,7 +20,7 @@ House Garess is based in the western part of [[Brevoy]], in the foothills of the
 House Garess had a good relationship with the Golka [[Dwarf|dwarves]] until the [[Dwarf|dwarves]] vanished. Members of the house worked the metal that the [[Dwarf|dwarves]] mined.
 
 The Garess family motto is "Strong as the Mountains" 
-## Labeda
+## Lebeda
 House Lebeda is a noble family of the [[Avistan|Avistani]] nation of [[Brevoy]]. Its central holdings are located southwest of Lake Reykal in [[Rostland]], controlling the plains and significant portions of the lake's shipping. They are considered to be the [[Brevoy|Brevic]] noble family that epitomizes [[Rostland]], having significant [[Taldor|Taldan]] blood, an appreciation for fine things, and a love of sword fighting.
 
 The Labeda family motto is "Success Through Grace" 

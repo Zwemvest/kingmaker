@@ -1,4 +1,4 @@
-[Stellaris](../../Creatures/Party-Members/Stellaris.md) Basic Rotation:
+[Kairos](Kairos.md) Basic Rotation:
 
 ```mermaid
 graph

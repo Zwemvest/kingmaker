@@ -18,7 +18,7 @@ Elves are often rather private people, steeped in the secrets of their groves an
 # In the [[Stolen-Lands|Stolen Lands]]
 Full-blooded elves are rare in [[Brevoy]], generally preferring to live in [[Kyonin|Kyonin]] further to the south. A fair number of rebellious elves, however, emigrate from their homeland up the [[Sellen-River|Sellen River]] to [[Brevoy]]. Often, [[Forlorn|Forlorn]] elves pass through [[Brevoy|Brevoy]] on their way south to [[Kyonin|Kyonin]] to live among their people, and some find the region so amenable that they never complete their journey—although lately, others have chosen to stay after the direct route down the river through the [[Stolen-Lands|Stolen Lands]] was closed because of hostility from [[bandits]] and indigenous tribes of boggards, [[lizardfolk]], and even trolls. The [[Brevoy|Brevic]] city of [[Restov|Restov]] boasts one of the largest concentrations of elves in the region. Long ago, the elves maintained a stronger presence in this region, and rumors of surviving elven ruins scattered throughout the most remote reaches of the [[Stolen-Lands|Stolen Lands]] have long intrigued elven scholars and historians.
 ## Notes
-[[Stellaris]] is an Elf. 
+[[Kairos]] is an Elf. 
 ## Physical Description
 While generally taller than [[Human|humans]], elves possess a fragile grace, accentuated by long features and sharply pointed ears. Their eyes are wide and almond-shaped, featuring large and vibrant-colored pupils that make up the entire visible portion of the eye. These pupils give them an alien look and allow them to see sharply even in very little light.
 
