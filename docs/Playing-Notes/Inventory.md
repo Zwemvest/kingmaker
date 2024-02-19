@@ -25,7 +25,7 @@
 - Jade Cat
 - +1 Dagger
 - Scroll of Inkshot
-### [[../Creatures/Party-Members/Djames.md]]
+### [[Djames]]
 - Minor Healing Potion 
 - Lesser Healing Potion
 - Barkskin

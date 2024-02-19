@@ -68,7 +68,8 @@
 ## 4710
 
 ## Calistril
-| Day | Hyperlink                                               | Event | Items found |
-| --- | ------------------------------------------------------- | ----- | ----------- |
-| 24  | [24 Calistril 4710](Session-0.md#24%20Calistril%204710) | Begin | None        |
+| Day | Hyperlink | Event | Items found |
+| ---- | ---- | ---- | ---- |
+| 24 | [24 Calistril 4710](Session-0.md#24%20Calistril%204710) | Lady Jamandi Aldori hosts a Grand Feast at her manor. She puts out a call for adventurers to tame the Stolen Lands, and promises a barony to anyone who can complete this mission.  | - Jade Cat<br>- Onyx Panther<br>- +1 Dagger |
+| 25 | [25 Calistril 4710](Session-0.md#25%20Calistril%204710) | In the early morning of 25 Calistril, the day after the feast, Aldori manor is attacked by a couple of assassins and a few Frost Giants. The party defeats the assassins and Frost Giants.  | - 4 Minor healing potions<br> - Barkskin<br> - Lesser potion of fire resistance<br>- Longsword<br>- Silver Ring<br>- +1 Mace<br>- +1 Longsword<br>- 2 lesser healing potion<br>- Small leather-bound journal<br>- 800 gold (not ours to keep)<br>- Scroll of Inkshot |
 

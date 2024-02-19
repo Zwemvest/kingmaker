@@ -1,3 +1,4 @@
 .vscode/settings.json
 .obsidian/**/*.*
 !.obsidian/plugins/**/*
+!.obsidian/community-plugins.json
