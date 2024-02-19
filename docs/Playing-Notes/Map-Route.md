@@ -1,3 +1,9 @@
+---
+tags:
+  - TODO
+aliases:
+---
+# 
 ![[../images/stolenlands.webp]]
 ## Legend: 
 For detailed geographical map, see [[Stolen-Lands-Map.md]]
