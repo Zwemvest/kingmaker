@@ -4,6 +4,7 @@ tags:
 aliases:
   - Noleski Surtova
   - King Noleski Surtova
+  - King Surtova
 ---
 # Noleski Surtova
 King Noleski [[Brevoy-Nobility#Surtova|Surtova]] is [[Brevoy]]'s current ruler. He has reigned over the divided nation since 4699 AR, when King Urzen [[Brevoy-Nobility#Rogarvia|Rogarvia]], along with all members of [[Brevoy-Nobility#Rogarvia|House Rogarvia]], mysteriously disappeared in an event known as the Vanishing.

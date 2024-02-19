@@ -3,6 +3,6 @@ tags:
   - Individual
   - TODO
 aliases:
-  - Tartuccio
+  - Maegar Varn
 ---
-# Tartuccio
+# Maegar Varn

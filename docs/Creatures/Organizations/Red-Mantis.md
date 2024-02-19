@@ -2,6 +2,7 @@
 tags:
   - Organization
 aliases:
+  - Red Mantis
 ---
 # Red Mantis
 Some say the Red Mantis are death cultists, others believe they are members of an ancient and incredibly secretive thieves’ guild, and still others think they are fiends from some dark plane beyond our ken. The truth is, the Red Mantis are the most tenacious and efficient assassins the world has ever known. The timeline of recorded history is stained with the blood of their victims.

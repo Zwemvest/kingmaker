@@ -1,3 +1,9 @@
+---
+tags:
+  - TODO
+aliases:
+---
+
 # Relations
 
 ```mermaid
@@ -10,5 +16,5 @@ graph
 ```
 
 
-Party
+[[Party]]
 [[../Creatures/Party-Members/Kairos.md]]

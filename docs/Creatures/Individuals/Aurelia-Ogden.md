@@ -2,6 +2,7 @@
 tags:
   - Individual
 aliases:
+  - Aurelia Ogden
 ---
 # Aurelia Ogden
 Lady Ogden is the mayor of unstuck [[Uringen-City|Uringen]]. She and her advisor, Titor Restivo, actively attempt new experiments to rectify the settlement’s unique condition. Lady Ogden leaves most of the mundane duties to Sheriff Lugaid Ibarra. [[Knavar-Mieren|Knavar Mieren]] oversees the remainder of the town and protects any nearby encampments as mayor of the static part of the settlement.

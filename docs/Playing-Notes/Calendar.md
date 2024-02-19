@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+  - TODO
+---
 # Calendar
 ## Before game start
 | Date | Event |
@@ -7,7 +12,7 @@
 |2021|	The [River Kingdom](../Places/Nation/River-Kingdoms.md) [of Tymon](../Places/River-Kingdoms/Tymon-Realm.md) is officially established when [Taldan](../Places/Nation/Taldor.md) gladiator Maldar Tymon is granted deed to the land.|
 |2057|	Valknar Gladiatorial College is founded in [Tymon](../Places/Settlements/Tymon-City.md).|
 |2690|	[Elves](../Dictionary/Races/Elf.md) attempt to return to [Sevenarches](../Places/Settlements/Sevenarches-City.md), but are rebuffed from the territory by the treant precursors of the [[Oakstewards\|Oakstewards]]. |
-|2692|	Founding of the [[../Creatures/Organizations/Oakstewards.md]] and the [kingdom of Sevenarches](../Places/River-Kingdoms/Sevenarches-Realm.md). |
+|2692|	Founding of the [Oakstewards](../Creatures/Organizations/Oakstewards.md) and the [kingdom of Sevenarches](../Places/River-Kingdoms/Sevenarches-Realm.md). |
 |2802|	[Kyonin](../Places/Nation/Kyonin.md) [Elves](../Dictionary/Races/Elf.md) establish [Hymbria](../Places/River-Kingdoms/Hymbria.md) as a base to launch a secret and ultimately unsuccessful bid to reclaim [Sevenarches](../Places/River-Kingdoms/Sevenarches-Realm.md).|
 |3756|	Theodric, priest of [Aroden](../Creatures/Deities/Aroden.md), founds trading post of [Heibarr](../Places/Settlements/Heibarr.md).|
 |3811|	The [Fey](../Creatures/Monsters/Fey.md) of the [Wilewood](../Places/Features/Wilewood.md) announce their first “wilding.” [Fey](../Creatures/Monsters/Fey.md) of all sizes stream out of the forest and inhabit civilized [Sevenarches](../Places/Settlements/Sevenarches-City.md) for 2 weeks. The [Oakstewards](../Creatures/Organizations/Oakstewards.md) punish and repel all fey that cause too much harm. The [Wilewood](../Places/Features/Wilewood.md) [Fey](../Creatures/Monsters/Fey.md) [repeat this every 100 years](../Dictionary/Events/Wilding.md).|
@@ -22,7 +27,7 @@
 |4394|	Angelidis family demolishes the shantytowns of [Troxell](../Places/Settlements/Troxell.md) to found the city- state of [Lockridge](../Places/Settlements/Lockridge.md).|
 |4402|	His Supreme Highness Afanasy Athanasius of Yenchabur founds [Daggermark](../Places/Settlements/Daggermark-City.md) on the site of the hamlet of Rivermark.|
 |4411|	The [Daggermark Assassins’ Guild](../Creatures/Organizations/Daggermark-Assassins-Guild.md) is founded.|
-|4424|	Vizcarra family establishes the city-state of [../Places/Settlements/Sezgin.md](Sezgin).|
+|4424|	Vizcarra family establishes the city-state of [Sezgin](../Places/Settlements/Sezgin.md) |
 |4434|	Mayor Aindon builds the [River Gate](../Places/Settlements/Heibarr.md#River-Gate) beneath the [Great Bridge](../Places/Settlements/Heibarr.md#Great-Bridge) in [Heibarr](../Places/Settlements/Heibarr.md). The Black Sisters of [Gyronna](../Creatures/Deities/Gyronna.md) arrive in [Heibarr](../Places/Settlements/Heibarr.md).|
 |4435|	Heibarr’s [River Gate](Heibarr#River Gate) is destroyed; [Heibarr](../Places/Settlements/Heibarr.md) is abandoned.|
 |4499|  [Choral the Conqueror](../Creatures/Individuals/Choral-Rogarvia.md) unites [Issia](../Places/Nation/Issia.md) and [Rostland](../Places/Nation/Rostland.md) as the newly founded kingdom of [Brevoy](../Places/Nation/Brevoy.md).
@@ -31,7 +36,7 @@
 |4534|	The [Aldori](../Creatures/Organizations/Aldori-Swordlords.md) consolidate their control of [Mivon](../Places/Settlements/Mivon-City.md) and nearly succeed in conquering [Pitax](../Places/River-Kingdoms/Pitax-Realm.md), opening a long period of hostility between the two [River Kingdoms](../Places/Nation/River-Kingdoms.md). A [Pitaxian](../Places/River-Kingdoms/Pitax-Realm.md) sellsword named Pietr Liacenza leads the armies of [Mivon](../Places/River-Kingdoms/Mivon-Realm.md) into a trap at Wolf’s Ravine, slaughtering [Mivon](../Places/River-Kingdoms/Mivon-Realm.md)’s forces and marking the Liacenza family’s rise to power in [Pitax](../Places/River-Kingdoms/Pitax-Realm.md).|
 |4602|	[Pitax](../Places/River-Kingdoms/Pitax-Realm.md) attacks [Mivon](../Places/River-Kingdoms/Mivon-Realm.md) with hired mercenaries. Upon discovering that the mercenary captains intend to take [Mivon](../Places/Settlements/Mivon-City.md) for themselves, [Pitax](../Places/River-Kingdoms/Pitax-Realm.md) betrays its own forces, allowing them to be destroyed by [Mivon](../Places/River-Kingdoms/Mivon-Realm.md)’s soldiers.|
 |4604|	Cerona, priestess of [Aroden](../Creatures/Deities/Aroden.md), attempts to resettle [Heibarr](../Places/Settlements/Heibarr.md); she and her warriors are slain and become undead spirits haunting the city.|
-|4607|	[../Places/Nation/Galt.mdan](Galt) silk merchants found town of [Nystra](../Places/River-Kingdoms/Nystra.md).|
+|4607|	[[Galt]] silk merchants found town of [Nystra](../Places/River-Kingdoms/Nystra.md). |
 |4612|	The first civil war between the Cattanei and Liacenza families breaks out in [Pitax](../Places/River-Kingdoms/Pitax-Realm.md), splitting it into the rival kingdoms of [Corvenn](../Places/River-Kingdoms/Corvenn.md) and [Pitax](../Places/River-Kingdoms/Pitax-Realm.md).|
 |4619|	[Chelish](../Places/Nation/Cheliax.md) Count Ambras Imre founds the [Daggermark Poisoners’ Guild](../Creatures/Organizations/Daggermark-Poisoners-Guild.md); the last king of [Daggermark](../Places/River-Kingdoms/Daggermark-Realm.md) dies mysteriously. Anarchy reigns.|
 |4620|	The [Outlaw Council](../Dictionary/Events/Outlaw-Council.md) is established in [Daggermark](../Places/Settlements/Daggermark-City.md) through the combined will of the [assassins’](../Creatures/Organizations/Daggermark-Assassins-Guild.md)’ and [poisoners’ guild](../Creatures/Organizations/Daggermark-Poisoners-Guild.md)s.|
@@ -45,9 +50,9 @@
 |4661|	Sebilla Cattanei and Raimon Liacenza wed, reuniting [Pitax](../Places/River-Kingdoms/Pitax-Realm.md) and [Corvenn](../Places/River-Kingdoms/Corvenn.md). [Razmir](../Creatures/Individuals/Razmir.md), the Living God, declares himself in the [River Kingdoms](../Places/Nation/River-Kingdoms.md) and swiftly conquers several smaller holds, uniting them as the new realm of [Razmiran](../Places/Nation/Razmiran.md). |
 |4663|	Tharl Grimull’s family are burned to death after his eldest daughter refuses the advances of one of [Nystra](../Places/River-Kingdoms/Nystra.md)’s merchant-lords.|
 |4664|	Merrow overrun the town of [Mosswater](../Places/Settlements/Mosswater.md), slaying almost all the inhabitants. Tharl Grimull’s violet musk creeper blooms in [Nystra](../Places/River-Kingdoms/Nystra.md), and the free silkgoyles slaughter the town’s residents.|
-|4668|	[Dwarves](../Dictionary/Races/Dwarf.md) abandon [Rookwarden](../Places/Settlements/Rookwarden.md); bugbears, [../Dictionary/Races/Goblin.mds](goblin), and worgs under the banner of the [Worg Queen](../Creatures/Individuals/Worg-Queen.md) overrun the [Rookwarden Fells](../Places/Features/Loric-Fells.md).|
+|4668|	[Dwarves](../Dictionary/Races/Dwarf.md) abandon [Rookwarden](../Places/Settlements/Rookwarden.md); bugbears, [[goblin]]s, and worgs under the banner of the [Worg Queen](../Creatures/Individuals/Worg-Queen.md) overrun the [Rookwarden Fells](../Places/Features/Loric-Fells.md). |
 |4672|	Lord Drellis Artume flees [Andoran](../Places/Nation/Andoran.md) and founds the kingdom of [Artume](../Places/River-Kingdoms/Artume-Realm.md).|
-|4673|	Exiled [../Places/Nation/Galt.mdan](Galt) banker Obidas Nauzil founds [Little Galt](../Places/Settlements/Gralton-City.md).|
+|4673|	Exiled [[Galt]] banker Obidas Nauzil founds [Little Galt](../Places/Settlements/Gralton-City.md). |
 |4675|	Exiled [Andoren](../Places/Nation/Andoran.md) knight Kamdyn Arnefax defeats [Razmiri](../Places/Nation/Razmiran.md) armies menacing [Lambreth](../Places/River-Kingdoms/Lambreth.md) in the so-called “Moonlight Massacre”; Arnefax disbands the Triunes and installs himself as Lord of [Lambreth](../Places/River-Kingdoms/Lambreth.md).|
 |4677|	[Little Galt](../Places/Settlements/Gralton-City.md)’s advisory council appoints Hannan Gralt as governor. [Little Galt](../Places/Settlements/Gralton-City.md) is renamed [Gralton](../Places/Settlements/Gralton-City.md).|
 |4684|	[Razmiran](../Places/Nation/Razmiran.md) attacks [Tymon](../Places/River-Kingdoms/Tymon-Realm.md) and drives her forces back to the [Sellen River](../Places/Features/Sellen-River.md); [Razmiran](../Places/Nation/Razmiran.md) claims and occupies the Exalted Wood as part of its territory.|
@@ -70,6 +75,6 @@
 ## Calistril
 | Day | Hyperlink | Event | Items found |
 | ---- | ---- | ---- | ---- |
-| 24 | [24 Calistril 4710](Session-0.md#24%20Calistril%204710) | Lady Jamandi Aldori hosts a Grand Feast at her manor. She puts out a call for adventurers to tame the Stolen Lands, and promises a barony to anyone who can complete this mission.  | - Jade Cat<br>- Onyx Panther<br>- +1 Dagger |
-| 25 | [25 Calistril 4710](Session-0.md#25%20Calistril%204710) | In the early morning of 25 Calistril, the day after the feast, Aldori manor is attacked by a couple of assassins and a few Frost Giants. The party defeats the assassins and Frost Giants.  | - 4 Minor healing potions<br> - Barkskin<br> - Lesser potion of fire resistance<br>- Longsword<br>- Silver Ring<br>- +1 Mace<br>- +1 Longsword<br>- 2 lesser healing potion<br>- Small leather-bound journal<br>- 800 gold (not ours to keep)<br>- Scroll of Inkshot |
+| 24 | [24 Calistril 4710](Session-0.md#24%20Calistril%204710) | [[Jamandi-Aldori\|Lady Jamandi Aldori]] hosts a Grand Feast at her manor. She puts [[The-expedition-for-the-Stolen-Lands\|out a call for adventurers to tame the Stolen Lands]], and promises a barony to anyone who can complete this mission.  | - Jade Cat<br>- Onyx Panther<br>- +1 Dagger |
+| 25 | [25 Calistril 4710](Session-0.md#25%20Calistril%204710) | In the early morning of 25 Calistril, the day after the feast, [[Aldori-Manor\|Aldori Manor]] is attacked by a couple of assassins and a few [[Giants#Frost Giants]]. The party defeats the assassins and [[Giants#Frost Giants]].  | - 4 Minor healing potions<br> - Barkskin<br> - Lesser potion of fire resistance<br>- Longsword<br>- Silver Ring<br>- +1 Mace<br>- +1 Longsword<br>- 2 lesser healing potion<br>- Small leather-bound journal<br>- 800 gold (not ours to keep)<br>- Scroll of Inkshot |
 
