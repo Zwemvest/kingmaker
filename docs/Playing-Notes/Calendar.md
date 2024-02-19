@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+  - TODO
+---
 # Calendar
 ## Before game start
 | Date | Event |
