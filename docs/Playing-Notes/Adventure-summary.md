@@ -15,7 +15,7 @@ On 24 Calistril 4710, the [[party]] arrived at [[Jamandi-Aldori|Lady Jamandi]]'s
 - met [[Linzi]]: A bard who interacts with [[Lizzy-the-Leshby|Lizzy]], [[Djames]], and [[Kairos]], exchanging stories and gifts.
 - met [[Jaethal]]: A pale and sober [[elf]] 
 - met [[Hannis-Drelev|Hannis Drelev]]: A [[Brevoy]] noble, and an old acquaintance of [[Leonardo-Lebeda|Leonardo]]
-- Linzy gifted [[Djames]] with a Jade Cat and an Onyx Panther as parting gifts.
+- [[Linzi]] gifted [[Djames]] with a Jade Cat and an Onyx Panther as parting gifts.
 - [[Amiri]] offered [[Lizzy-the-Leshby|Lizzy]] a +1 Dagger as a token of gratitude.
 ## [[Session-0#25 Calistril 4710]]
 As the night progressed, we encountered hostile forces, engaged in combat, and made diplomatic decisions regarding a wounded Frost Giant.
@@ -30,7 +30,7 @@ As the night progressed, we encountered hostile forces, engaged in combat, and m
     - Barkskin potion
     - Lesser potion of fire resistance
 - [[Kairos]] found a longsword and a silver ring.
-- [[Lizzy-the-Leshby|Lizzy]] received a +1 mace and a +1 longsword from a trunk discovered by [[Djames]], as well as 2 lesser healing potions and a small leatherbound journal found in the same trunk.
+- [[Lizzy-the-Leshby|Lizzy]] received a +1 mace and a +1 longsword from a trunk discovered by [[Djames]], as well as 2 lesser healing potions and a small leather-bound journal found in the same trunk.
 - Found various armors and weapons in different chambers
 - [[Kairos]] found a Tanglefoot Bag
 - Found 800 gold intended as wages for the [[Aldori-Manor|Aldori Manor]] guards

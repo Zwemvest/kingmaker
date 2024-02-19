@@ -17,4 +17,4 @@ graph
 
 
 [[Party]]
-[[../Creatures/Party-Members/Kairos.md]]
+[[Kairos]]
