@@ -1,12 +1,11 @@
 ---
 tags:
   - Player
-  - TODO
 aliases:
   - Kairos
 ---
 # Kairos
-Ancient-Elf Magus
+Ancient-[[Elf]] Magus
 
 Kairos is an [[elf]] with a clockwork heart. She remembers being half-left behind when [[Uringen-City|Uringen]] teleported away - missing her heart, her leg, and her arm. The local [[Gnome|gnomish]] engineers of Uringen saved her by replacing the missing parts of her body by clockwork parts. 
 

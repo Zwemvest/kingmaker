@@ -1,7 +1,6 @@
 ---
 tags:
   - Session
-  - TODO
 ---
 # Session 0
 A decade has passed since the mysterious disappearance of House Rogarvia and its heirs, plunging [[Brevoy]] into turmoil. With the once dominant rulers gone, the fragile peace of the region has crumbled, teetering on the brink of civil war. House Surtova of [[Issia]] has seized power, establishing themselves as the de facto rulers of [[Brevoy]] through cunning alliances and covert schemes.

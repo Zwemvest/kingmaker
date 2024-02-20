@@ -55,7 +55,7 @@ Property laws are weak in the River Kingdoms. Taking something openly by force i
 - [[Touvette]]  
 - [[Tymon-Realm|Tymon]]  
 #### Map
-![[river-kingdoms-map.jpg]]
+![[broken-lands-and-political.jpg]]
 ### Settlements
 - [[Artume-City|Artume]]
 - [[Brunderton]]

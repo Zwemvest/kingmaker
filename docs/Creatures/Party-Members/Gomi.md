@@ -1,10 +1,8 @@
 ---
 tags:
   - Player
-  - TODO
 aliases:
   - Gomi
 ---
 # Gomi
-Familiar of [[Lizzy-the-Leshby|Lizzy]] 
-Gomi is a raccoon.
+Gomi is the raccoon familiar of [[Lizzy-the-Leshby|Lizzy]]. Gomi can float through the air. 

@@ -1,9 +1,8 @@
 ---
 tags:
   - Player
-  - TODO
 aliases:
   - Missy
 ---
 # Missy
-[[Kairos]]' cat
+[[Kairos]]' cat. Missy is a black cat that follows Kairos everywhere. 

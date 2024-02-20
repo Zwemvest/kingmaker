@@ -1,10 +1,9 @@
 ---
 tags:
   - Organization
-  - TODO
 aliases:
 ---
-# [[Brevoy|Brevoy]] nobility
+# Brevoy nobility
 The nation of [[Brevoy|Brevoy]] has seven major noble families. The most historically important are House Rogarvia, descendants of [[Choral-Rogarvia|Choral the Conqueror]], and House Surtova, descended from the old [[Issia|Issian]] pirate kings and family of the current ruler of [[Brevoy]]: [[Noleski-Surtova|King Noleski Surtova]]. 
 
 ## Noble families
@@ -25,6 +24,8 @@ The Garess family motto is "Strong as the Mountains"
 House Lebeda is a noble family of the [[Avistan|Avistani]] nation of [[Brevoy]]. Its central holdings are located southwest of Lake Reykal in [[Rostland]], controlling the plains and significant portions of the lake's shipping. They are considered to be the [[Brevoy|Brevic]] noble family that epitomizes [[Rostland]], having significant [[Taldor|Taldan]] blood, an appreciation for fine things, and a love of sword fighting.
 
 The Labeda family motto is "Success Through Grace" 
+
+[[Lander-Lebeda|Lander Lebeda]] is the current house head. His son, [[Leonardo-Lebeda|Leonardo Lebeda]], is the current heir.
 ## Lodovka
 House Lodovka is a noble family of [[Brevoy|Brevoy]] with their headquarters on Acuben Isle on the [[Lake-of-Mists-and-Veils|Lake of Mists and Veils]]. They have traditionally been a power on the lake. Led by Lord Kozek Lodovka, both their fleet size and influence along the lake continue to increase. The fleet primarily catches fish and freshwater crabs
 

@@ -8,7 +8,7 @@ aliases:
 # Broken Lands
 The Broken Lands is the name given to the northeastern region of [[Avistan]] comprising the nations of [[Brevoy|Brevoy]] (itself divided into the distinct areas of [[Rostland|Rostland]] and [[Issia]]), [[Mendev|Mendev]], [[Numeria|Numeria]], [[Razmiran]], the [[River-Kingdoms|River Kingdoms]], and the [[Sarkoris-Scar|Sarkoris Scar]]. It is a land defined by struggle and scarcity. Its cities lack the prestigious artistic, academic, and cultural institutions found throughout much of the rest of the [[Inner-Sea|Inner Sea]] region. The societies of the Broken Land are often marked by severe inequality that limit social advancement, and its people must often struggle just to survive.
 
-![[map.PNG]]
+![[broken-lands-big.png]]
 
 ## Geography  
 Much of the region's scarcity is caused by its lack of arable land, be it the demon-tainted, broken tors of the [[Sarkoris-Scar|Sarkoris Scar]]; the cold, irradiated and windswept steppes of [[Numeria]]; or the mosquito-infested swamps of the [[River-Kingdoms|River Kingdoms]]. The little fertile soil there is can be found in southern [[Brevoy]], along parts of the [[Sellen-River|Sellen River]], and in small basins scattered around [[Razmiran]], the [[River-Kingdoms|River Kingdoms]], [[Mendev|Mendev]], and [[Numeria|Numeria]]. The lack of foodstuffs often supports despotic regimes, such as the one found in [[Razmiran]], where [[Razmir]] rules with near-total dictatorial power.
