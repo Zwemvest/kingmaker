@@ -48,7 +48,7 @@ As the evening progressed, [[Lizzy-the-Leshby|Lizzy]]'s inebriation became more 
 Meanwhile, outside, the storm intensified, its relentless downpour punctuated by the tolling of a bell. [[Jamandi-Aldori|Lady Jamandi]] seized the moment to address the gathering, encouraging everyone to enjoy the food and drink before retiring early. With cheers from the revelers echoing through the hall, [[Jamandi-Aldori|Lady Jamandi]] hinted at forthcoming discussions regarding each adventuring party's specific missions and directives in the [[Stolen-Lands|Stolen Lands]].
 
 **Summary**
-- met Lady [[Jamandi-Aldori|Jamandi Aldori]]: The host of the gathering, a [[half-elf]] noblewoman who extends the invitation for adventurers to claim the [[Stolen-Lands|Stolen Lands]].
+- met [[Jamandi-Aldori|Lady Jamandi]] Aldori: The host of the gathering, a [[half-elf]] noblewoman who extends the invitation for adventurers to claim the [[Stolen-Lands|Stolen Lands]].
 - met [[Ioseph-Sellemius|Ioseph Sellemius]]: A companion of [[Jamandi-Aldori|Lady Jamandi]], who helps introduce her and explains the purpose of the gathering.
 - met [[Amiri]]: A [[Realm-of-the-Mammoth-Lords|Kellid]] Barbarian 
 - met [[Tartuccio]]: A [[gnome]] wizard
@@ -56,7 +56,7 @@ Meanwhile, outside, the storm intensified, its relentless downpour punctuated by
 - met [[Harrim]]: A [[dwarf]] cleric of [[Groetus]]
 - met [[Linzi]]: A bard who interacts with [[Lizzy-the-Leshby|Lizzy]], [[Djames]], and [[Kairos]], exchanging stories and gifts.
 - met [[Jaethal]]: A pale and sober [[elf]] 
-- met [[Hannis-Drelev|Hannis Drelev]]: A [[Brevoy]] noble, and an old acquintance of [[Leonardo-Lebeda|Leonardo]]
+- met [[Hannis-Drelev|Hannis Drelev]]: A [[Brevoy]] noble, and an old acquaintance of [[Leonardo-Lebeda|Leonardo]]
 - [[Linzi]] gifted [[Djames]] with a Jade Cat and an Onyx Panther as parting gifts.
 - [[Amiri]] offered [[Lizzy-the-Leshby|Lizzy]] a +1 Dagger as a token of gratitude.
 ## 25 Calistril 4710
@@ -106,7 +106,7 @@ Pressing forward, we thoroughly search the remaining rooms, uncovering a trove o
 **Summary**
 - Fought a group of assassins
 - Fought another group of assassins
-- Fought a Frost Giant and saved [[Linzi]]
+- Fought a [[Giants#Frost Giants|Frost Giant]] and saved [[Linzi]]
 - Negotiated with another Frost Giant to leave [[Aldori-Manor|Aldori Manor]]
 - [[Linzi]] gave [[Gomi]] and [[Lizzy-the-Leshby|Lizzy]] a Scroll of Inkshot.
 - [[Djames]] discovered multiple potions and a bronze key under a statue, including:
@@ -114,7 +114,7 @@ Pressing forward, we thoroughly search the remaining rooms, uncovering a trove o
     - Barkskin potion
     - Lesser potion of fire resistance
 - [[Kairos]] found a longsword and a silver ring.
-- [[Lizzy-the-Leshby|Lizzy]] received a +1 mace and a +1 longsword from a trunk discovered by [[Djames]], as well as 2 lesser healing potions and a small leatherbound journal found in the same trunk.
+- [[Lizzy-the-Leshby|Lizzy]] received a +1 mace and a +1 longsword from a trunk discovered by [[Djames]], as well as 2 lesser healing potions and a small leather-bound journal found in the same trunk.
 - Found various armors and weapons in different chambers
 - [[Kairos]] found a Tanglefoot Bag
 - Found 800 gold intended as wages for the [[Aldori-Manor|Aldori Manor]] guards
