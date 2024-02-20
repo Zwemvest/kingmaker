@@ -47,7 +47,7 @@ As the evening progressed, [[Lizzy-the-Leshby|Lizzy]]'s inebriation became more 
 
 Meanwhile, outside, the storm intensified, its relentless downpour punctuated by the tolling of a bell. [[Jamandi-Aldori|Lady Jamandi]] seized the moment to address the gathering, encouraging everyone to enjoy the food and drink before retiring early. With cheers from the revelers echoing through the hall, [[Jamandi-Aldori|Lady Jamandi]] hinted at forthcoming discussions regarding each adventuring party's specific missions and directives in the [[Stolen-Lands|Stolen Lands]].
 
-**Summary**
+### Summary
 - met [[Jamandi-Aldori|Lady Jamandi]] Aldori: The host of the gathering, a [[half-elf]] noblewoman who extends the invitation for adventurers to claim the [[Stolen-Lands|Stolen Lands]].
 - met [[Ioseph-Sellemius|Ioseph Sellemius]]: A companion of [[Jamandi-Aldori|Lady Jamandi]], who helps introduce her and explains the purpose of the gathering.
 - met [[Amiri]]: A [[Realm-of-the-Mammoth-Lords|Kellid]] Barbarian 
@@ -82,7 +82,7 @@ Undeterred, the remaining adversaries pressed their assault. One assailant hurle
 
 Meanwhile, [[Kairos]] tapped into her arcane abilities, unleashing a Dimensional Assault attack that swiftly dispatched the final enemy. As a precaution, she fortified herself with a Shield cantrip. Despite the enemy's futile attempts to retaliate with crossbow fire, [[Kairos]] remained unscathed, save for a minor splash damage, while [[Leonardo-Lebeda|Leonardo]] swiftly dispatched the last foe in a decisive counterattack.
 
-While exploring the area, [[Djames]]'s keen eye catches sight of an intriguing statue. Crafted from marble, it depicts a life-sized [[half-elf]] woman wielding a rose and a shield. Despite [[Djames]] and [[Kairos]] being unable to identify its significance, [[Lizzy-the-Leshby|Lizzy]] astutely notices a small door concealed beneath the statue's base. Waste no time, [[Djames]] unlocks the door with a bronze key, revealing a cache of valuable items:
+While exploring the area, [[Djames]]'s keen eye catches sight of an intriguing statue. Crafted from marble, it depicts a life-sized [[half-elf]] woman wielding a rose and a shield. Despite [[Djames]] and [[Kairos]] being unable to identify its significance, [[Lizzy-the-Leshby|Lizzy]] notices a small door concealed beneath the statue's base. Wasting no time, [[Djames]] unlocks the door with a bronze key, revealing a cache of valuable items:
 - 4 Minor healing potions
 - Barkskin potion
 - Lesser potion of fire resistance
@@ -103,7 +103,7 @@ We hear some soft moans as the Heal spell takes effect, and immediately [[Lizzy-
 
 Pressing forward, we thoroughly search the remaining rooms, uncovering a trove of gold, weapons, armor, and a Tanglefoot Bag. After calming [[Amiri]]'s anger, we proceed to the great hall, prepared to continue our journey.
 
-**Summary**
+### Summary
 - Fought a group of assassins
 - Fought another group of assassins
 - Fought a [[Giants#Frost Giants|Frost Giant]] and saved [[Linzi]]

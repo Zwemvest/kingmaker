@@ -1,7 +1,7 @@
 # Adventure Summary
 ## Introduction
 [[Brevoy]] faces turmoil after the disappearance of [[Brevoy-Nobility#Rogarvia|House Rogarvia]], with [[Brevoy-Nobility#Surtova|House Surtova]] rising to power through alliances. The [[Aldori-Swordlords|Swordlords]] of [[Restov]] resist [[Brevoy-Nobility#Surtova|Surtova]]'s attempts at control, leading to internal tensions within [[Brevoy]]. Despite this internal strife, [[Noleski-Surtova|King Surtova]] has agreed to calls from the [[Aldori-Swordlords|Aldori Swordlords]] to begin an expedition to the [[Stolen-Lands|Stolen Lands]]. The party responds to a call for adventurers to settle the lawless [[Stolen-Lands|Stolen Lands]], responding to a call from [[Jamandi-Aldori|Lady Jamandi Aldori]] to come to a grand feast where the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]] will begin.
-## [[Session-0#24 Calistril 4710]]
+## [[Session-0#24 Calistril 4710|24 Calistril 4710]]
 On 24 Calistril 4710, the [[party]] arrived at [[Jamandi-Aldori|Lady Jamandi]]'s [[Aldori-Manor|hilltop manor]], where they were greeted with a [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]. They mingled with other guests, including [[Amiri]], [[Tartuccio]], [[Linzi]], [[Jaethal]], [[Valerie]], [[Harrim]] and various nobles. 
 
 [[Jamandi-Aldori|Lady Jamandi]] and [[Ioseph-Sellemius|Ioseph Sellemius]] explained the mission to settle the [[Stolen-Lands|Stolen Lands]], promising recognition to successful adventurers. Throughout the evening, the party conversed with other guests.
@@ -17,7 +17,7 @@ On 24 Calistril 4710, the [[party]] arrived at [[Jamandi-Aldori|Lady Jamandi]]'s
 - met [[Hannis-Drelev|Hannis Drelev]]: A [[Brevoy]] noble, and an old acquaintance of [[Leonardo-Lebeda|Leonardo]]
 - [[Linzi]] gifted [[Djames]] with a Jade Cat and an Onyx Panther as parting gifts.
 - [[Amiri]] offered [[Lizzy-the-Leshby|Lizzy]] a +1 Dagger as a token of gratitude.
-## [[Session-0#25 Calistril 4710]]
+## [[Session-0#25 Calistril 4710|25 Calistril 4710]]
 As the night progressed, we encountered hostile forces, engaged in combat, and made diplomatic decisions regarding a wounded Frost Giant.
 ### Summary
 - Fought a group of assassins
