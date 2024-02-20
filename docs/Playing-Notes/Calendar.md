@@ -70,8 +70,11 @@ tags:
 | 4707 | [Urdul Bazzak](../Creatures/Individuals/Urdul-Bazzak.md), the [Black Marquis](../Creatures/Individuals/Urdul-Bazzak.md), seizes power in the [Protectorate](../Places/River-Kingdoms/Protectorate-of-the-Black-Marquis.md). [Uringen](../Places/Settlements/Uringen-City.md) begins to vanish and reappear with increased frequency. |
 | 4708 | Lord [Martro Livondar](../Creatures/Individuals/Martro-Livondar.md) takes power in [Daggermark](../Places/River-Kingdoms/Daggermark-Realm.md), promising an era of reconstruction and glory, and survives three assassination attempts in his first week.<br>[Leonardo](Leonardo-Lebeda\) needs routine maintenance. [[Kairos]] is hired by the Lebeda family to repair him, and [[Djames]] is hired to find the adamantine needed as raw materials. [[Djames]] poisones a forest, and the [[elf]] nowadays known als [Lizzy](Lizzy-the-Leshby\) died, and was reborn as an Leshy. |
 | 4709 | [[Djames]] flees from [[Galt]]. [[Djames]] and [Lizzy](Lizzy-the-Leshby\) temporarily move to the [Lebeda](Brevoy-Nobility#Lebeda) family in [[Brevoy]]. |
+
+
+
 ## 4710
-## Calistril
+### Calistril
 | Day | Hyperlink | Event | Items found |
 | ---- | ---- | ---- | ---- |
 | 24 | [24 Calistril 4710](Session-0.md#24%20Calistril%204710) | [Lady Jamandi Aldori](Jamandi-Aldori) hosts a Grand Feast at her manor. She puts [out a call for adventurers to tame the Stolen Lands](The-expedition-for-the-Stolen-Lands), and promises a barony to anyone who can complete this mission.  | - Jade Cat<br>- Onyx Panther<br>- +1 Dagger |
