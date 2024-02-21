@@ -16,4 +16,4 @@ Surrounding the manor is a sprawling estate with well-maintained gardens and lus
 A Grand banquet is hosted by [[Jamandi-Aldori|Lady Jamandi]] and [[Ioseph-Sellemius|Ioseph Sellemius]], celebrating the start of the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]].
 
 ## [[Session-0#25 Calistril 4710|25 Calistril 470]]
-Aldori Manor is [[Attack-on-Lady-Jamandi-Aldoris-Manor|attacked in the early morning hours]]. Luckily, [[Lizzy-the-Leshby|Lizzy]], [[Djames]], [[Leonardo-Lebeda|Leonardo]], and [[Kairos]] manage to defeat most of the attackers. 
+Aldori Manor is [[Attack-on-Lady-Jamandi-Aldoris-Manor|attacked in the early morning hours]]. Luckily, [[Lizzy-the-Leshby|Lizzy]], [[Djames]], [[Leonardo|Leonardo]], and [[Kairos]] manage to defeat most of the attackers. 

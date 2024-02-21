@@ -9,14 +9,6 @@ aliases:
   - Half elf
   - Half-elvish
   - Half elvish
-  - half-elves
-  - half-elfs
-  - half elves
-  - half elfs
-  - half elf
-  - half-elvish
-  - half elvish
-  - half-elf
 ---
 # Half-elf
 [[Elf|Elves]] have long drawn the covetous gazes of other races. Their generous lifespans, magical affinity, and inherent grace each contribute to the admiration or bitter envy of their neighbors. Of all their traits, however, none so entrance their [[human]] associates as their beauty. Since the two races first came into contact with each other, [[Human|humans]] have held up [[Elf|elves]] as models of physical perfection, seeing in these fair folk idealized versions of themselves. For their part, many [[Elf|elves]] find [[Human|humans]] attractive despite their comparatively barbaric ways, and are drawn to the passion and impetuosity with which members of the younger race play out their brief lives.  

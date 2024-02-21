@@ -1,7 +1,6 @@
 ---
 tags:
   - Individual
-  - Dead
 aliases:
   - Choral Rogarvia
   - Choral the Conqueror

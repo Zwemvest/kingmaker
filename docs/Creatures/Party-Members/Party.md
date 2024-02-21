@@ -7,7 +7,7 @@ aliases:
 [[Kairos]]
 - [[Missy]]
 [[Djames]]
-[[Leonardo-Lebeda|Leonardo]]
+[[Leonardo|Leonardo]]
 [[Lizzy-the-Leshby|Lizzy]]
 - [[Gomi]]
 

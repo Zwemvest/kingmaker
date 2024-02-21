@@ -14,7 +14,7 @@ On [[Session-0#24%20Calistril%204710|24 Calistril 4710]], the [[party]] arrived 
 - met [[Harrim]]: A [[dwarf]] cleric of [[Groetus]]
 - met [[Linzi]]: A bard who interacts with [[Lizzy-the-Leshby|Lizzy]], [[Djames]], and [[Kairos]], exchanging stories and gifts.
 - met [[Jaethal]]: A pale and sober [[elf]] 
-- met [[Hannis-Drelev|Hannis Drelev]]: A [[Brevoy]] noble, and an old acquaintance of [[Leonardo-Lebeda|Leonardo]]
+- met [[Hannis-Drelev|Hannis Drelev]]: A [[Brevoy]] noble, and an old acquaintance of [[Leonardo|Leonardo]]
 - [[Linzi]] gifted [[Djames]] with a Jade Cat and an Onyx Panther as parting gifts.
 - [[Amiri]] offered [[Lizzy-the-Leshby|Lizzy]] a +1 Dagger as a token of gratitude.
 ## 25 Calistril 4710

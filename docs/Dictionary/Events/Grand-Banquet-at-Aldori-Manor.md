@@ -18,6 +18,6 @@ Other individuals the party conversed with include:
 4. [[Harrim]]: A [[dwarf]] cleric of [[Groetus]].
 5. [[Linzi]]: A bard who exchanged stories and gifts with members of the party.
 6. [[Jaethal]]: A pale and sober [[elf]].
-7. [[Hannis-Drelev|Hannis Drelev]]: A noble from [[Brevoy]] and an old acquaintance of [[Leonardo-Lebeda|Leonardo]] Lebeda.
+7. [[Hannis-Drelev|Hannis Drelev]]: A noble from [[Brevoy]] and an old acquaintance of [[Leonardo|Leonardo]] Lebeda.
 
 The party mostly discussed the political landscape of [[Brevoy]] and the challenges faced by adventurers in the [[Stolen-Lands|Stolen Lands]].

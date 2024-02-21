@@ -25,7 +25,7 @@ House Lebeda is a noble family of the [[Avistan|Avistani]] nation of [[Brevoy]].
 
 The Labeda family motto is "Success Through Grace" 
 
-[[Lander-Lebeda|Lander Lebeda]] is the current house head. His son, [[Leonardo-Lebeda|Leonardo Lebeda]], is the current heir.
+[[Lander-Lebeda|Lander Lebeda]] is the current house head. His son, [[Leonardo|Leonardo Lebeda]], is the current heir.
 ## Lodovka
 House Lodovka is a noble family of [[Brevoy|Brevoy]] with their headquarters on Acuben Isle on the [[Lake-of-Mists-and-Veils|Lake of Mists and Veils]]. They have traditionally been a power on the lake. Led by Lord Kozek Lodovka, both their fleet size and influence along the lake continue to increase. The fleet primarily catches fish and freshwater crabs
 

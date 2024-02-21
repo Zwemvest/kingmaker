@@ -35,6 +35,6 @@ aliases:
 - Barkskin
  - Lesser potion of fire resistance
  - Bronze key
-### [[../Creatures/Party-Members/Leonardo-Lebeda.md|Leonardo]]
+### [[Leonardo|Leonardo]]
 - Minor Healing Potion
 - +1 Longsword

@@ -3,8 +3,9 @@ tags:
   - Player
 aliases:
   - Djames
+  - Djames Sailor
 ---
-# Djames
+# Djames Sailor
 [[Human]] Bard
 
 Djames is a former official from a major city [[Galt]]. A major fire broke out and not enough people were present to extinguish it, causing a major revolt. Djames was almost executed, but managed to escape to [[Brevoy]]
