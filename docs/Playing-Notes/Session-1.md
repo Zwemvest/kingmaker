@@ -2,104 +2,149 @@
 Tag: Session
 ---
 # Session 1
-TODO: First Frost Giant in session 0 was an ogre, not a Frost Giant.
-
 ## 25 Calistril 4710
-The great hall looks much different than during the feast. Three tables have been turned up to the side - turned up to the southern door as a barricade. Blood and bodies line the floor. The guards gather at the barricades. Tapestries have been torn from the worn, trying to prevent smoke from rising into the great hall.
+The scene in the great hall is one of chaos and destruction, with tables turned into barricades and blood staining the floor. Guards stand vigilant, and the atmosphere is tense as the party recounts their encounter with assassins and frost giants. They explain their actions to a guard who immediately starts questioning them but eventually understands their predicament. After some persuasion, the guard introduces himself as [[Ivenzy]]. He is a tall man with grey eyes, short black hair, prominent eyebrows, and a short mustache.
 
-A guard questions us. We tell it that we were ambushed by assassins and frost giants. We mention a single frost giant got away. The guard gets angry at us for letting the frost giant go. We attempt to convince that we made a deal with the frost giant in the name of Jamandi Aldori, and that we had no choice in following a nobleman. He is finally convinced, and the guard introduces himself as Ivenzy, a tall man with grey eyes and a short cut black hear, and huge eyebrows with a short mustache. 
+[[Ivenzy]] informs the party of the situation: mercenaries and various types of giants have infiltrated the manor, forcing all guards to gather in the grand hall while [[Jamandi-Aldori|Lady Jamandi]] Aldori leads the effort to clear the rest of the building. Some attackers have fled into the west wing, while others went in the east wing where the party came from. Smoke billows from underneath closed doors, indicating fires raging behind.
 
-He tells us multiple mercenaries and giants got in (multiple types of ginats, not just frost giants). All guards were collected in the grand hall, and Jamandi moved on to clear the manor. A number of attackers fled into the west wing, the rest fled into the east wing (where we came from). 
+[[Djames]] fashions some primitive yet effective gas masks, to mitigate the effects of the smoke. The masks consisted of pieces of cloth soaked in water, which would then be tied around the faces of the wearers to act as a barrier against the smoke inhalation. 
 
-Heavy smoking is coming from underneath from underneath the closed doors to the hall and the staircase. The final door is to the toilets. It's clear that everything underneath is on fire. Djames prepares some primitative smoke masks for us, with cloth and some running water. Djames also provides guidance for Lizzy, who grows a large amount of branches and limbs, using them to cast the Slashing Gust spell. Waving her branches and limbs, she tries to clear the smoke. All flammable items have been removed from the hallway.
+[[Lizzy-the-Leshby|Lizzy]] uses a Slashing Gust to clear the rest of the smoke. When [[Lizzy-the-Leshby|Lizzy]] uses her Slashing Gust spell, her appearance changes in a remarkable way. Her limbs elongate and multiply, resembling a myriad of branches and tendrils. These new appendages sway and twist with a bizarre grace, almost as if they possess a life of their own. With each wave and motion, the branches and limbs generate powerful gusts of wind, slicing through the air with a sharp and cutting force. Leaves and debris whirl around her as the wind intensifies, creating a whirlwind effect that helps to disperse the smoke and clear the air. Meanwhile, [[Djames]] would scan the hallway for flammable objects, but sensed they had already been removed from this hallway. 
 
-We see the smoke clear up, and though the hall doesn't appear to be on fire, the bedroom doors get a lot of smoke into the hallway. We decide to check the several bedrooms for survivors, and to close off the bedrooms from smoke if we see that there's only fire in the rooms. We split up, Leonardo checking the first room, Djames and Lizzy the second, and Kairos the final.
+As the smoke began to dissipate, revealing a hall seemingly free of flames, our attention turned to the bedrooms adjacent to the corridor. Recognizing the potential danger for any survivors within, we resolved to investigate each room, closing off those engulfed in fire to contain the smoke.
 
-Kairos enters an open room, with a polished floor stained with smoke. Armored statue with a half elf woman, with a shield, other hand clenched over her heart. This Milani the Everbloom, a deity for those who fight against oppression, rewarding those who fight for the weaker and those who cannot defend herselves. Resting or meditating in the room for 1 minute counts a full rest.
+[[Leonardo]] took charge of examining the first room, while [[Djames]] and [[Lizzy-the-Leshby|Lizzy]] ventured into the second, leaving [[Kairos]] to explore a third chamber on her own. Most of the doors of the rooms had already burned away, and the room [[Kairos]] went into didn't seem to be on fire at all, being an open room connected to the hallway.
 
-Leonardo enters a room where everything already appears to be fully burned down, while Lizzy and Djames offer the biggest bedroom. As soon as they open the door, a raging fire flows into the great hall. Lizzy continues waving her branches and throws a waterskin to Djames. Djames sees the beds on fire, the door smoldering. Djames extinguishes the flames using the waterskin. 
+Inside the open room, [[Kairos]] encountered a solemn scene - a polished floor marred by smoke stains and an armored statue depicting a half-elf woman. This statue represented Milani the [[Everbloom]], a deity revered by those who championed the oppressed. 
 
-Finally, he walks up to Leonardo and hands over the waterskin to Leonardo, who also uses it to extinguish the flames in his room. Kairos enters a third room and begins extinguishing the flames, which successfully works at first, but she starts getting burned as she goes on. Lizzy continues to fan with her branches, but now walks into a room to extinguish the flames with her branches. She succeeds in extinguishing them somewhat. 
+Meanwhile, [[Leonardo]]'s investigation led him to a chamber already ravaged by fire, offering little hope of finding survivors.
 
-Djames begins to cast a Hymn of Healing on Kairos so that Kairos gains some temporary hit points every turn. Djames does this by writing heroic tales about the party, reading out loud, but Kairos is bewonderd by the obvious lies Djames is listing, wondering how Djames knows about her past. Djames ends by walking closer to the party. Leonardo walks to the party, and casts Guidance on Kairos. Kairos grabs her waterskin, tries to extinguish more flames, and empties it completely on the fire. She ends by stepping into the room to stomp out more fire, but burns herself in the process.
+In the largest bedroom, [[Djames]] and [[Lizzy-the-Leshby|Lizzy]] faced a sudden onslaught as they opened the door—a rush of flames surged into the hallway. [[Lizzy-the-Leshby|Lizzy]], undeterred, continued to manipulate her branches, attempting to stave off the advancing blaze. With quick thinking, [[Djames]] tossed a waterskin to [[Lizzy-the-Leshby|Lizzy]] and assessed the situation—the beds ablaze, the door smoldering. Acting swiftly, [[Djames]] utilized the water from the skin to douse the flames, preventing further escalation of the inferno.
 
-Lizzy continues to fan, and again fans out more flames. Djames sustains his words about Kairos'  actions. Kairos is still bewondered by Djames. Leonardo uses his prestidigitation to cool down the fire. Kairos stomps out the final fires in the room. 
+As [[Djames]] passed the waterskin to [[Leonardo]], each member of the party sprang into action to combat the encroaching flames. [[Kairos]], entering a fourth room, valiantly fought against the fire, but soon found herself inside a searing heat. [[Lizzy-the-Leshby|Lizzy]], wielding her branches like a makeshift extinguisher, joined the effort, managing to quell some of the flames within the room.
 
-Lizzy walks to the final room, and she waves her branches again. She also tries to guard against the fire, but her branches still burn a little bit. Leonardo extinguishes the fires in the fourth room, and the room is finally safe now. Kairos walks past Lizzy, into the final room, and tries to stomp out the fires, but sadly, doesn't achieve a lot, only burning herself in the process. Luckily, Djames'  magic protects Kairos. Djames sustains his writing.
+Meanwhile, [[Djames]] began channeling tales of heroism to bolster [[Kairos]]' resolve. Amidst the recitation, [[Kairos]] couldn't help but be puzzled by the embellished accounts of her past woven into [[Djames]]'s narrative, but was inspired by the grand epic that [[Djames]] appeared to be making up on the spot.
 
-Leonardo uses prestidigitation to extinguish the final flames. Djames, Leonardo, and Kairos enter the shrine of Milani, taking some time to refocus and pray to the Gods. Kairos prays to Pharasma, and Leonardo and Djames to Milnai herself. 
+As [[Leonardo]] approached the group, he bestowed his guidance upon [[Kairos]], empowering her efforts. Determined, [[Kairos]] seized her waterskin, pouring its contents onto the fire until it was depleted. Despite her valiant efforts, the flames continued to rage, and in her attempt to stamp them out, [[Kairos]] suffered burns of her own.
 
-Meanwhile, Lizzy enters the next hall and sees an unconscious Tartuccio. Lizzy hangs over him, very close with all the branches, and stabilizes Tartuccio. He soon returns to consciousness, very grateful to what Lizzy did, but also demands to be returned to the great hall. Lizzy supports him as they walk back to the great hall. Lizzy accidentally hurts Tartuccio a bit as Tartuccio gets mad at Lizzy for hurting her. As Tartuccio is mean, Lizzy starts crying. 
+As [[Lizzy-the-Leshby|Lizzy]] continued to fan the flames, [[Djames]]'s inspiring words spurred [[Kairos]] on, although she remained puzzled by the bard's knowledge of her past. [[Leonardo]], utilizing his prestidigitation, managed to cool down the fire, allowing [[Kairos]] to stomp out the remaining flames in her room.
 
-The rest of the party stops refocussing after a minute of meditation, and Tartuccio angrily walks through the halls as the party spots him, Lizzy still crying in the hall. Tartuccio calls us his little helpers and requests that we help him, as Leonardo asks him to shut up. Djames starts a beautiful rant and display of House Lebeda as Leonardo threathens Tartuccio. 
+With determination, [[Lizzy-the-Leshby|Lizzy]] proceeded to the final room, using her branches to combat the fire, albeit with some minor burns. [[Leonardo]] swiftly extinguished the flames in the fourth room, rendering it safe. [[Kairos]], undeterred by her previous injuries, attempted to extinguish the fires in the last room but struggled to make significant progress, sustaining further burns in the process. Fortunately, [[Djames]]'s protective magic shielded [[Kairos]] from harm as he continued his inspiring narrative.
 
-Tartuccio is not intimidated. He walks on, as Leonardo starts to prevent him from moving and Kairos plays a prank by casting Telekinetic Hand on his robe, throwing his robe over his eyes. 
+[[Leonardo]] employs his Prestidigitation magic to snuff out the lingering flames in the final room. Together, [[Djames]], [[Leonardo]], and [[Kairos]] make their way into the shrine of [[Milani]], taking a moment to recenter themselves and offer prayers to the gods. [[Kairos]] directs her prayers to [[Pharasma]], while [[Leonardo]] and [[Djames]] pay homage to [[Milani]], seeking guidance and protection in their endeavor.
 
-We walk on. We find Lizzy crying in a room, and Leonardo tries to comfort her. A single big bubble of green snot is on Lizzy's nostrils. Leonardo helps Lizzy up.
+As [[Lizzy-the-Leshby|Lizzy]] ventures into the next hall, her eyes fall upon the unconscious figure of [[Tartuccio]], sprawled on the ground as if attempting to flee one of the bedrooms. With a gentle touch of her branches, [[Lizzy-the-Leshby|Lizzy]] manages to stabilize him, coaxing him back to consciousness. However, the gratitude quickly dissipates as [[Tartuccio]]'s abrasive nature resurfaces, demanding to be escorted back to the great hall.
 
-Leonardo enters the first room, a beautifully decorated room with a pool table. Jaethal is tied down on one of the comfortable chairs. Leonardo yells, as he enters the room; " WHAT IN THE NAME OF HOUSE LEBEDA IS GOING ON?". A loud voice responds, "WHAT IS THIS, CAN'T YOU TELL I'M BUSY?" as Gomi floats over Leonardo's head. Leonardo encourages the entire party to join in for House Lebeda. In the room are three assailants. 
+Despite his sharp words, [[Lizzy-the-Leshby|Lizzy]] offers her support, aiding him as they make their way through the corridors. Inadvertently, a misstep causes [[Lizzy-the-Leshby|Lizzy]]'s branches to brush against [[Tartuccio]], eliciting a sharp reaction from him. In his frustration, [[Tartuccio]] lashes out at [[Lizzy-the-Leshby|Lizzy]], further upsetting her. Overwhelmed by the confrontation, [[Lizzy-the-Leshby|Lizzy]] finds herself succumbing to tears, the emotional strain of the situation taking its toll.
 
-Kairos enters a second room, a room filled with weapon racks and armor racks. Most are empty, but discarded pieces are strewn across the floor. 
+As the rest of the party concludes their moment of meditation, they emerge from the shrine to find [[Tartuccio]] storming through the halls, his demeanor still as confrontational as ever. [[Lizzy-the-Leshby|Lizzy]] remains in the hallway, tears staining her cheeks, as [[Tartuccio]]'s presence only adds to the tension.
 
-Kairos hears the first room being opened, walks back, and immediately spellstrikes on one assailant. The assailant retaliates, and then dies from the wounds that Kairos had inflicted. Another assailant walks up to Leonardo and attacks twice, making Leonardo temporarily flat-footed. 
+In a display of defiance, [[Tartuccio]] addresses the party, dubbing them his "little helpers" and demanding their assistance. [[Leonardo]], unwilling to entertain his demands, sternly instructs him to be silent, while [[Djames]] launches into an impassioned tirade extolling the virtues of House Lebeda.
 
-Djames starts to murmer on his writings again to Leondardo, starting a courageous anthem. Djames then casts Daze on another attacker. The attacker takes a mental jolt to the face. 
+Unfazed by the threats, [[Tartuccio]] continues on his way, prompting [[Leonardo]] and [[Kairos]] to step forward. [[Leonardo]] attempts to impede his progress, while [[Kairos]] plays a mischievous prank on [[Tartuccio]] with magic by casting Telekinetic Hand to throw his robe over his eyes.
 
-Leonardo attacks back to the attacker that initially attacked. He starts a brave anthem on House Lebeda's power, then makes a power attack on the attacker. He enters the room, walks over the pool table, and attacks again, but sadly misses. 
+As the party moves forward, they come across [[Lizzy-the-Leshby|Lizzy]], still visibly upset and crying in one of the rooms. [[Leonardo]], showing compassion, approaches her and attempts to offer comfort. He gently wipes away a single large bubble of green snot from [[Lizzy-the-Leshby|Lizzy]]'s nostrils before helping her to her feet, offering his support in this trying moment.
 
-Gomi enters the room and uses an Electric Arc attack. The attacker manages to mostly dodge, but still takes the brunt of an attack. Kairos enters Arcane Cascade, casts Time Sense to help with timing, and then makes a strike attack with her Elven Fauchard. Djames responds by demoralizing. We deal some non-lethal damage, and arrest the bandit by using manacles and a gag on him.
+From here, we find ourselves in a cross-roads between two rooms. [[Leonardo]] bursts into the first room, a lavishly decorated space featuring a pool table, only to find [[Jaethal]] tied to one of the plush chairs. Frustrated and alarmed, [[Leonardo]] demands an explanation, but a loud voice interrupts him, claiming to be busy. [[Gomi]], floating above [[Leonardo]]'s head, adds to the chaos. Undeterred, [[Leonardo]] rallies the party to stand together for House Lebeda's honor. Inside the room, three assailants await.
 
-We free up Jaethal, by removing the gag and the ropes that tie her up. Lizzy tries to heal up Jaethal by using her natural healing, but it fails to have any effect. 
+Meanwhile, [[Kairos]] steps into a second room cluttered with weapon and armor racks, most of them empty or in disarray. Hearing commotion from the neighboring room, [[Kairos]] swiftly returns to assist. She immediately engages one of the assailants with a spellstrike, dealing lethal blows that ultimately lead to the assailant's demise. However, another attacker turns their attention to [[Leonardo]], launching a swift assault that catches him off guard, leaving him temporarily vulnerable.
 
-Jaethal asks about the fire. We tell her that the fire is extinguished and the halls are safe, that she can return back to the great hall. Lizzy once again tries to point out a lack of heartbeat from Jaethal. We ask Jaethal to return to the great hall, and take the new prisoner with her. 
+[[Djames]] continues to lament on the successes of House Lebeda to inspire [[Leonardo]], as he casts Daze on one of the assailants to blast them with a mental shock. Meanwhile, [[Leonardo]] retaliates against the attacker who initially struck him, bolstered by [[Djames]]' courageous words. With a powerful swing, [[Leonardo]] strikes at the assailant, but unfortunately misses his mark after crossing the room.
 
-The next room has polished white tiles, and various trophy heads, including a stag, an owl, a worlf, and reptillian monsters. Kairos finds a Bloodseeker Talisman. Lizzy checks out more of the dead animals, but to no avail.
+[[Gomi]] joins the fray, unleashing an Electric Arc attack that the assailant narrowly evades, still taking some damage from the residual shock. [[Kairos]], employing Arcane Cascade and utilizing Time Sense to enhance her precision, delivers a precise strike with her [[Elf|Elven]] Fauchard. [[Djames]] contributes by attempting to demoralize the assailant further.
 
-We hear noises coming from the next room. Lizzy decides to send in Gomi to check the new room, so we open the room a little bit so Gomi can go in. Lizzy cautiously has Gomi look in. We spot two Frost Giants. Several of the assailants, ogres, and Aldori guards have already perished in better. Lizzy tries diplomacy with the giants, as Kairos and Leonardo rush in to attack.
+Working together, the party subdues the bandit, inflicting non-lethal damage and securing them with manacles and a gag to prevent further resistance.
 
-It's a large area, padded with walls and armors. Lady Jamandi is fighting two Frost Giants. As soon as we enter, another door opens and new assailants rush in. We prepare for combat. 
+After freeing [[Jaethal]] from her restraints, the party attempts to heal her using [[Lizzy-the-Leshby|Lizzy]]'s natural abilities, but unfortunately, there is no response. Concerned, [[Lizzy-the-Leshby|Lizzy]] notes the absence of a heartbeat from [[Jaethal]], indicating something unusual about her condition.
 
-Lizzy opens the combat with an Electric Arc attack. She attacks 2 of the attackers. Djames starts with a Command spell and orders one of the Frost Giants to drop their weapon. Jamandi attacks by chopping off one of the arms of a Frost Giant. Leonardo responds by running into combat and piercing with his greatsword. He strikes an assailant in his charge that just dies instantly. 
+[[Jaethal]] inquires about the fire situation, and upon learning that the halls are now safe, she agrees to return to the great hall. [[Lizzy-the-Leshby|Lizzy]] makes another observation about [[Jaethal]]'s lack of heartbeat, prompting the party to urge [[Jaethal]] to accompany them back to the main hall, along with the captured prisoner.
 
-Kairos runs in, casts a Shield spell, and enters Arcane Cascade. Visually, runes begin to appear and glow around Kairos in the air. One of the bandits runs towards Djames to attack, and strikes for a measly 4 damage. Another two attempt to flank Leonardo to attack him, but don't manage to inflict a lot of damage. 
+In the next room, the party discovers polished white tiles adorning the floor, along with an array of trophy heads mounted on the walls. Among the trophies are heads of a stag, an owl, a wolf, and various reptilian monsters. While exploring, [[Kairos]] uncovers a Bloodseeker Beak Talisman, a valuable find amidst the trophies. [[Lizzy-the-Leshby|Lizzy]], intrigued by the collection of dead animals, thoroughly examines them but doesn't find anything noteworthy.
 
-Lizzy uses a Needle Darts attack. She projects gold beads towards an attack that tries to attack Djames. Djames uses a Command spell to scare one of the attackers, commanding it to run away from combat. He begins to write, yelling out another courageous anthem towards Leonardo. 
+As the party cautiously approaches the next room, they hear noises emanating from within. [[Lizzy-the-Leshby|Lizzy]] decides to send in [[Gomi]] to scout the area, carefully opening the door just enough for the familiar to slip through. With bated breath, [[Lizzy-the-Leshby|Lizzy]] observes through [[Gomi]]'s eyes as they spot two Frost [[Giants]] engaged in battle. [[Kairos]] and [[Leonardo]] prepare their Runic Weapon spells, as they get ready to join in on the fray.
 
-Leonardo intimidates another bandit, demoralizes, and drills his weapon into an attacker, killing him. He then sweeps around and attacks the other bandit that was flanking him. He kills both attackers in one go.
+Inside the dueling arena, [[Jamandi-Aldori|Lady Jamandi]] Aldori is locked in combat with the towering Frost [[Giants]], her skills tested against their immense strength. Without hesitation, [[Kairos]] and [[Leonardo]] rush in to join the fray, ready to lend their aid to their noble leader.
 
-Kairos teleports through the rune and uses a Spellstrike. Several claws seemingly appear from different timelines, as all the runes on Kairos' body glow and she strikes for a massive critical hit. On her body, we find Trackers Goggles and a +1 Greataxe, and chainmail, 4 lesser healing potions, a jade and pearl necklace (worth 20 gp), silver ring (worth 30gp). We also find 5 minor healing potions. 
+The arena is vast, its walls padded and adorned with various weapons and armors, providing ample cover for the intense battle unfolding within. Despite the formidable foes already present, the arrival of new assailants through an adjoining door signals that the danger is far from over, prompting the party to brace themselves for yet another round of combat. 
 
-We look upon a beautiful great window that looks out over Northern Brevoy. We return all guard pay to Jamandi. 
+As the chaos unfolds in the dueling arena, amidst the clash of swords and the roar of giants, [[Jamandi-Aldori|Lady Jamandi]] Aldori's commanding voice cuts through the tumult, directing the party's attention to a formidable figure among the assailants. Clad in black chainmail and wielding a massive battle-axe with deadly precision, this woman stands out as the leader of the [[Black-Tears|Black Tears]], a group notorious for their nefarious deeds. We would later find out her name is [[Volodmyra]], and she is the leader of the attackers, a group called the [[Black-Tears|Black Tears]].
 
-Jamandi Aldori gives each of us 2 lesser healing potions and 50 gold per person. 
+As the battle unfolds in the dueling arena, [[Lizzy-the-Leshby|Lizzy]] takes the initiative by unleashing a crackling Electric Arc, targeting two of the attackers with bolts of lightning. Meanwhile, [[Djames]] employs a Command spell, compelling one of the Frost [[Giants]] to relinquish its weapon, momentarily disrupting its offensive capabilities.
 
-We move back to the great hall. The surviving heroes are present, and it appears a lot of the staff has restored parts of the manor. Jamandi speeches to us, saying this attack will not dissuade her. She bestows 4 charters
+Responding swiftly to the chaos, [[Jamandi-Aldori|Lady Jamandi]] Aldori demonstrates her formidable prowess by severing the arm of a Frost Giant with a decisive blow from her weapon. [[Leonardo]] charges into the fray with his greatsword, effortlessly dispatching an assailant in a single powerful strike.
 
-- Iron Wraiths: Glebon Uplands, defeat the Tiger Lords, open diplomatic relations with Pitax
-- Baron Hannis Drelev: Hooktongue Slough, secure the east Sellen River
-- Maeger Varn: Nomen Heights, town with a Varnling host, Aldori dueling school. Alliance with the centaurs. 
-- Lebeda Expedition: Greenbelt and Narlmarches. 
+[[Kairos]] joins the melee, erecting a protective Shield spell around herself before unleashing a cascade of arcane energy, surrounded herself by shimmering runes that glow with otherworldly power. [[Djames]] employs another Command spell to instil fear in an assailant, compelling it to flee from the battle, and continues to support his allies, [[Djames]] by unleashing another another inspiring anthem, rallying [[Leonardo]] with words of courage as the battle rages on in the dueling arena.
 
-Jamandi Aldori suggests we can start best at a trading post hit particularly hard by bandits.
+With steely determination, [[Leonardo]] unleashes a fearsome display of intimidation, causing one of the [[bandits]] to falter in fear before swiftly dispatching him with a lethal blow from his weapon. In a fluid motion, he pivots to engage another assailant, delivering a devastating strike that swiftly ends their threat.
 
-Djames enters Restov to buy new high fashion clothing. Lizzy orders a new dress and new robes. Djames also sends a letter to Lander Lebeda, using his secret code words to allude to their secret relationship. 
+Meanwhile, [[Kairos]] taps into the arcane energies swirling around her, teleporting through the runes adorning her body to unleash a Spellstrike of unparalleled power. As her strikes connect, it seems as though claws from different timelines converge, guided by the glowing runes, culminating in a devastating critical hit that leaves a significant impact on their foe. [[Lizzy-the-Leshby|Lizzy]] finishes the assailant off. 
 
-We sell our loot in Restov, and we buy a donkey pack mule 
+Upon searching the body of [[Volodmyra]], the party discovers several valuable items:
+
+1. Trackers Goggles
+2. +1 Greataxe
+3. Chainmail
+4. 4 lesser healing potions
+5. 5 minor healing potions
+6. A jade and pearl necklace (worth 20 gp)
+7. A silver ring (worth 30 gp)
+
+The party decides to divide the potions they found among themselves. This ensures that each member of the party has a basic supply of healing potions to use as needed during their adventures in the [[Stolen-Lands|Stolen Lands]].
+
+As the party takes a moment to catch their breath and survey their surroundings, they are drawn to a magnificent window that offers a breathtaking view of Northern [[Brevoy]]. The first light of dawn begins to peek over the horizon, casting a warm glow over the city of [[Restov]]. With the sun's gentle ascent, the city gradually comes to life, its buildings and streets bathed in the soft morning light. It's a serene and peaceful sight, a moment of tranquility amidst the chaos and turmoil they've faced.
+
+After wrapping up her affairs, [[Jamandi-Aldori|Lady Jamandi]] Aldori extends her gratitude to the party for their steadfast defense of the manor. In a reciprocal gesture, the party returns the safeguarded guard wages to [[Jamandi-Aldori|Lady Aldori]], reinforcing their commitment to aiding and protecting the interests of House Aldori and the stability of the region.
+
+[[Jamandi-Aldori|Lady Jamandi]] Aldori generously distributes rewards to each member of the party as a token of appreciation for their valorous efforts in safeguarding the manor. Each member receives two lesser healing potions to aid in their future endeavors, along with a sum of 50 gold coins, further recognizing their contributions and dedication to the cause.
+
+Gathering in the great hall after several hours, we witness the impressive efficiency of the manor's staff in restoring order and tidying up the aftermath of the attack. [[Jamandi-Aldori|Lady Jamandi]] addresses the assembled survivors, her resolve unwavering despite the recent turmoil. She emphasizes that this attack will not deter her from her mission and the vision she holds for the future.
+
+As a gesture of her unwavering resolve, [[Jamandi-Aldori|Jamandi Aldori]] stresses that it's time to send four different groups into the [[Stolen-Lands|Stolen Lands]]. 
+
+- **[[Iron-Wraiths|Iron Wraiths]]**: Tasked with operating in the Glebon Uplands, their mission involves defeating the [[Tiger-Lords|Tiger Lords]], a formidable adversary, and establishing diplomatic relations with Pitax, a crucial diplomatic endeavor.
+- **Baron [[Hannis-Drelev|Hannis Drelev]]**: Given the responsibility of securing the [[Hooktongue-Slough|Hooktongue Slough]] region, Baron Drelev's mission focuses on establishing control over the eastern [[Sellen-River|Sellen River]], a strategic waterway vital for trade and defense.
+- **[[Maegar-Varn|Maegar Varn]]**: Stationed in the [[Nomen-Heights|Nomen Heights]], [[Maegar-Varn|Maegar Varn]] oversees the development of a town fortified by a Varnling host. Additionally, his mission involves establishing an alliance with the centaurs and overseeing the operations of an Aldori dueling school, aiming to foster martial prowess and unity.
+- **Lebeda Expedition**: Tasked with exploring and pacifying the Greenbelt and [[Narlmarches]] regions, the Lebeda Expedition aims to establish a presence in these untamed wilderness areas, paving the way for future settlement and expansion under the banner of House Lebeda.
+
+[[Jamandi-Aldori|Jamandi Aldori]] recommends that the party begin their endeavors at a trading post that has been severely affected by bandit activity. This suggests that restoring order and security to this trading post would not only serve as a crucial first step in stabilizing the region but also demonstrate the party's capability in dealing with threats to commerce and safety, laying the groundwork for further expansion and development.
+
+Now that [[Aldori-Manor|Aldori Manor]] is safe, we catch a few hours more sleep. In the morning, [[Kairos]] heads into [[Restov]] to sell different parts of bandit loot. [[Djames]] and [[Lizzy-the-Leshby|Lizzy]] also head into [[Restov]]; [[Djames]] with the intention of purchasing new high-fashion clothing, while [[Lizzy-the-Leshby|Lizzy]] places orders for a new dress and robes. Additionally, [[Djames]] sends a coded letter to [[Lander-Lebeda|Lander Lebeda]], using secret phrases to hint at their clandestine connection.
+
+[[Kairos]] also invests in a donkey pack mule to assist with transportation and carrying supplies on their upcoming ventures.
+
+### Summary
+- Met [[Ivenzy]]
+- Extinguished flames
+- Rescued [[Tartuccio]]
+- Rescued [[Jaethal]]
+- Helped [[Jamandi-Aldori|Jamandi Aldori]] defeat Frost [[Giants]] and the [[Black-Tears|Black Tears]]
+- Returned soldier wages and received a reward from [[Jamandi-Aldori|Jamandi Aldori]]
+- [[Kairos]] found a Bloodseeker Beak Talisman
+- We found some treasure, with a 50gp value
+- Sold loot, bought donkey
+- Each party member found 1 lesser healing potion and 1 minor healing potion. We got another 2 lesser healing potions from [[Jamandi-Aldori|Lady Jamandi]] Aldori. 
+- Found some chainmail
+- Found a +1 Greataxe, which [[Kairos]] took
+- Found Tracking Goggles
 ## 28 Calistril 4710
-We take a map of the area, nothing down the Rostland Hinterlands, Oleg's Trading Post, the Narlmarches, the Greenbelt, Crooked Falls, Nivakta's Crossing, the Dunsward, the Nomen Heights, the Tors of Levenies, and Restov.
+Armed with a detailed map of the region, the party notes key regions in the [[Stolen-Lands|Stolen Lands]], such as the [[Narlmarches]], the [[Greenbelt]], the [[Nomen-Heights|Nomen Heights]], the [[Tors-of-Levenies|Tors of Levenies]], and the [[Dunsward]]. We also mark the [[Rostland]] Hinterlands, of which [[Olegs-Trading-Post|Oleg's Trading Post]] is a part. Our initial travels towards [[Olegs-Trading-Post|Oleg's Trading Post]] will take us past [[Nivaktas-Crossing|Nivakta's Crossing]], and the [[Crooked-Falls|Crooked Falls]]. 
 
-Jamandi Aldori sent advance notice to Oleg's trading post, notifying Oleg, his wife Svetlana, and the other inhabitants of our probable arrival there. We arrive there after 3 days of travel.
+With advance notice from [[Jamandi-Aldori|Jamandi Aldori]], [[Olegs-Trading-Post|Oleg's Trading Post]] was prepared for the party's arrival. Accompanied by the traders, we journeyed downstream along the [[Shrike-River|Shrike River]]. After three days of travel, we finally arrived at [[Olegs-Trading-Post|Oleg's Trading Post]], where [[Oleg]], his wife [[Svetlana]], and the other inhabitants were expecting our arrival.
 
-We are welcomed by Svetlana, who welcomes us in, saying the stew and bread are already on the stove. We hear hammering from the roof of the trading post. We sit down outside, near the fire. Oleg stops his work, and moves down from the trading post. 
+Upon our arrival at [[Olegs-Trading-Post|Oleg's Trading Post]], we are warmly welcomed by [[Svetlana]], who invites us inside, mentioning that stew and bread are already cooking on the stove. As we settle down outside near the fire, we hear the sound of hammering coming from the roof of the trading post. [[Oleg]] pauses his work and descends from the trading post to join us.
 
-Oleg welcomes us in a short, almost rude manner, asking us if we're to help with the bandits. Kairos makes a snide comment that we're here to help *against* the bandits. Oleg does not appreciate this joke, and Djames apologizes. Djames and Kairos explain our mission here, saying we've been sent by Jamandi Aldori. 
+[[Oleg]] welcomes us with a brusque tone, inquiring if we're here to assist with the bandit situation. [[Kairos]] attempts a jest about being here to help _against_ the [[bandits]], which [[Oleg]] doesn't find amusing. [[Djames]] quickly offers an apology on behalf of the group. Both [[Djames]] and [[Kairos]] then proceed to explain our mission, clarifying that we've been dispatched by [[Jamandi-Aldori|Jamandi Aldori]].
 
-Djames mentions again that we've been meaning to start a society, which Oleg does not seem to appreciate. Kairos also notes that this would mean more trade for Oleg. Oleg is not impressed, noting he mostly needs help against the bandits asking for "taxes". Lizzy offers to help repairing the housing in Oleg's Trading Post. Oleg is again not impressed.
+[[Djames]] reiterates our intention to bring civilization to the [[Stolen-Lands|Stolen Lands]], a sentiment that [[Oleg]] appears to dismiss. [[Kairos]] chimes in, highlighting the potential increase in trade such civilization might bring to [[Oleg]]. However, [[Oleg]] remains unimpressed, emphasizing his immediate need for assistance against the [[bandits]] demanding "taxes". Despite [[Lizzy-the-Leshby|Lizzy]]'s offer to aid in repairing the housing, [[Oleg]] doesn't seem swayed by our goodwill gestures. [[Oleg]] emphasizes that he relocated to a remote and quiet area of [[Rostland]] precisely for the tranquility and solitude it offers.
 
-Kairos asks about his bandit problem. Oleg mentions that bandits arrive around once per month. Every month, they've arrived at the first day of the month, in the first hour of daylight. Leonardo asks for more information about the amount of bandits and soldiers coming in, like their numbers and how many arms they're bringing. They first came with a few dozen, but every month, came with less people.  
+[[Kairos]] inquires about [[Oleg]]'s bandit problem, prompting [[Oleg]] to explain that the [[bandits]] typically arrive once a month, consistently on the first day of the month, precisely at the crack of dawn. When [[Leonardo]] probes for further details regarding the size and armament of the bandit groups, [[Oleg]] reveals that initially, they arrived with a few dozen individuals, but over time, their numbers have dwindled with each subsequent visit.
 
-To fortify the trading post, we decide to dig Spike Traps, and to trigger them with a Timber cantrip from Lizzy. Djames and Oleg will temporarily distract or hamper the bandits before they attack. Finally, we'll move the chart so the bandits will have no choice other than to move towards the spike trap. We'll place hot sand in a big kettle above the entrance too, so we have a second set of traps we can use for reinforcements.
+To fortify the trading post, the group decides on a strategic plan. They opt to dig Spike Traps around the perimeter, which will be triggered by [[Lizzy-the-Leshby|Lizzy]]'s Timber cantrip. [[Djames]] and [[Oleg]] will collaborate to create distractions or obstacles to hinder the [[bandits]] before they launch their attack. Additionally, they plan to strategically position the carts to funnel the [[bandits]] towards the spike traps. Furthermore, they intend to prepare a kettle of hot sand above the entrance to the trading post as a secondary trap that can be deployed against any reinforcements. This comprehensive strategy aims to maximize the trading post's defenses and repel the bandit threat effectively.
 
-We work the entire day to build the traps, and when they finally come, they prove more effective than we though. Immediately two bandits are crushed under a tree, another one dies in the spike trap, and we capture a fourth, named Happs Bydon. We get him from the spike trap, tie him up in ropes, and interrogate him to ask who he works for. He tells us Kressle will come and get us. 
+The group dedicates the entire day to constructing the traps, and when the [[bandits]] finally arrive, the traps prove to be more effective than anticipated. In a swift turn of events, two [[bandits]] are crushed by a falling tree, another falls victim to the spike trap, while a fourth, identified as [[Happs Bydon]], is captured alive. They swiftly secure [[Happs Bydon]], binding him with ropes, and commence interrogation to gather information about their adversaries. [[Happs Bydon]] reveals that they are aligned with a woman named [[Kressle]], who he warns will soon retaliate against them.
 
-As we threaten Happs, he gets more and more pissed off, asking us what army we'll bring. Kairos punches him in the face, while Lizzy, Leonardo, and Djames interrogate him. He tells us that Kressle is coming, but he works for another. Djames asks him where his stronghold is. He repeats that Kressle is coming. We tell the bandit that we're not afraid of her. 
+As the interrogation intensifies, Happs becomes increasingly agitated, defying the group's threats and demanding to know the strength of their army. [[Kairos]] responds by delivering a swift punch to his face, asserting dominance. Meanwhile, [[Lizzy-the-Leshby|Lizzy]], [[Leonardo]], and [[Djames]] continue pressing him for information about his employer and the location of their stronghold. Despite their efforts, Happs remains obstinate, repeatedly insisting that [[Kressle]] will soon arrive. Unfazed by his defiance, the party reiterates their fearlessness and determination to confront [[Kressle]].
+### Summary
+- Took three days to travel to [[Olegs-Trading-Post|Olegs Trading Post]]
+- Met [[Oleg]] and [[Svetlana]]
+- Defeated several [[bandits]] and captured and interrogated [[Happs Bydon]]

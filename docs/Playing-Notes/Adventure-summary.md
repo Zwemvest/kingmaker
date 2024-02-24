@@ -34,3 +34,27 @@ Starting in the early morning of [[Session-0#25 Calistril 4710|25 Calistril 4710
 - Found various armors and weapons in different chambers
 - [[Kairos]] found a Tanglefoot Bag
 - Found 800 gold intended as wages for the [[Aldori-Manor|Aldori Manor]] guards
+
+After the above, we entered the great hall and met [[Ivenzy]]. We then battled flames, rescued both [[Tartuccio]] and [[Jaethal]], and aided [[Jamandi-Aldori|Lady Jamandi]] Aldori in vanquishing Frost [[Giants]] and the [[Black-Tears|Black Tears]]. Jamandi thanked us, gave us some rewards, and sent 
+
+### Summary
+- Met [[Ivenzy]] 
+- Extinguished flames 
+- Rescued [[Tartuccio]] 
+- Rescued [[Jaethal]] 
+- Helped [[Jamandi-Aldori|Jamandi Aldori]] defeat Frost [[Giants]] and the [[Black-Tears|Black Tears]] 
+- Returned soldier wages and received a reward from [[Jamandi-Aldori|Jamandi Aldori]]
+- [[Kairos]] found a Bloodseeker Beak Talisman 
+- We found some treasure, with a 50gp value 
+- Sold loot, bought donkey 
+- Each party member found 1 lesser healing potion and 1 minor healing potion. We got another 2 lesser healing potions from [[Jamandi-Aldori|Lady Jamandi]] Aldori. 
+- Found some chainmail 
+- Found a +1 Greataxe, which [[Kairos]] took 
+- Found Tracking Goggles
+
+## 28 Calistril 4710
+Reached [[Olegs-Trading-Post|Oleg's Trading Post]] and dug traps so we could defend it from [[bandits]]. 
+### Summary
+- Took three days to travel to [[Olegs-Trading-Post|Oleg's Trading Post]]
+- Met [[Oleg]] and [[Svetlana]]
+- Defeated several [[bandits]] and captured and interrogated [[Happs Bydon]]

@@ -6,10 +6,9 @@ aliases:
 ## Party
 - 67 bolts
 
-
-| Item | Amount | Individual gold price | Individual Bulk |
-| ---- | ------ | --------------------- | --------------- |
-|      |        |                       |                 |
+| Item             | Amount | Individual gold price | Individual Bulk |
+| ---------------- | ------ | --------------------- | --------------- |
+| Trackers Goggles | 1      | 60                    | -               |
 ## Party Cash
 - 192 gold, 58 silver
 ### Party inventory
