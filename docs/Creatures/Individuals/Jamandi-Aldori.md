@@ -9,7 +9,9 @@ aliases:
 # Jamandi Aldori
 Jamandi [[Aldori-Swordlords|Aldori]], [[Aldori-Swordlords|Swordlord]] of [[Restov]], is a famed [[half-elf]] practitioner of the [[Aldori-Swordlords|Aldori]] school of dueling. She heavily advocates for [[Restov]] to expand their power to reduce, or even eliminate, their dependence on [[Brevoy]].
 
-Jamandi Aldori is the current head of the [[Aldori-Swordlords|Aldori Swordlords]] in [[Brevoy]], and a major leader of the separatist movement. She is well-acquainted with the Restovic gentry and has an adopted son named Kassil who she has trained in the sword. 
+Jamandi Aldori's upbringing in [[Restov]] could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and frustration with “meddling” from the north increasingly pushed her away from the aristocratic lifestyle. She quickly mastered the art of the Aldori sword, and over the years has become one of [[Restov]]'s most well-known [[Aldori-Swordlords|swordlords]], in part due to her skill in dueling, but of late as a result of her increasingly obvious pushes to expand [[Restov]]'s power in directions that minimize reliance upon the rest of [[Brevoy]]. Beyond organizing the push into the [[Stolen-Lands|Stolen Lands]] and her desire to foster a new ally to the south, she hopes some day to found additional dueling schools beyond [[Brevoy]]'s borders where the Aldori style can be taughta pursuit that not all of her peers equally approve of.
+
+Jamandi Aldori is the current Swordlord of Restov of the [[Aldori-Swordlords|Aldori Swordlords]] in [[Brevoy]], and a major leader of the separatist movement. She is well-acquainted with the Restovic gentry and has an adopted son named Kassil who she has trained in the sword. 
 
 During her youth, Jamandi was involved in an ill-fated mission to the [[Stolen-Lands|Stolen Lands]] to dispose of a bandit gang. Although the group succeeded in uprooting the gang and killing it's monstrous leader, most of the group died with Jamandi and Ezvanki Keeg being the only survivors.
 
