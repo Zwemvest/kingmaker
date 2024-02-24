@@ -4,37 +4,40 @@ aliases:
 ---
 <font style="color:orangered">This page only tracks flavor items we've picked up along the way. It is not a substitute for personal inventory tracking.</font> 
 ## Party
-- 5x Handcrossbow
 - 67 bolts
-- 7x Studded leather armor
-- 18x Dagger
-- a glaive
-- a suit of half-plate armor
-- 3x suit of gore-stained chainmail armor
-- battle axe
-- 4x longsword
-- a crossbow
-- a blood-smeared coyote cloak
-## Party Cash
 
-- 61 gold, 48 silver
+
+| Item | Amount | Individual gold price | Individual Bulk |
+| ---- | ------ | --------------------- | --------------- |
+|      |        |                       |                 |
+## Party Cash
+- 192 gold, 58 silver
 ### Party inventory
 ### [Kairos](../Creatures/Party-Members/Kairos.md)
-- 2 Minor Healing Potion
+- 4 Minor Healing Potion
+- 1 Lesser Healing Potion
+- +1 Greataxe
 - Onyx Panther
 - Tanglefoot Bag
+- a blood-smeared coyote cloak
 ### [[../Creatures/Party-Members/Lizzy-the-Leshby.md|Lizzy]]
-- Minor Healing Potion
-- Lesser Healing Potion
+- 2 Minor Healing Potion
+- 2 Lesser Healing Potion
 - Jade Cat
 - +1 Dagger
 - Scroll of Inkshot
 ### [[Djames]]
-- Minor Healing Potion 
-- Lesser Healing Potion
+- 2 Minor Healing Potion 
+- 2 Lesser Healing Potion 
 - Barkskin
  - Lesser potion of fire resistance
+ - Clothing (High-Fashion Fine)
  - Bronze key
 ### [[Leonardo|Leonardo]]
-- Minor Healing Potion
-- +1 Longsword
+- 2 Minor Healing Potion
+- 1 Lesser Healing Potion
+- +1 Longsword 
+- Spellheart
+
+
+Pack Animal (Donkey, 18 bulk)
