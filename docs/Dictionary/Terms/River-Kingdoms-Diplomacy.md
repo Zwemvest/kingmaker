@@ -2,7 +2,7 @@
 tags:
   - Notion
 aliases:
-  - Diplomacy in the [[River-Kingdoms|River Kingdoms]]
+  - Diplomacy in the River Kingdoms
 ---
 # Diplomacy in the River Kingdoms
 Many a roving eye has looked at the fine pastures and fields of the [[River-Kingdoms|River Kingdoms]] with intent to claim them. The pickings look easy, but the doing has proven difficult. Rulers in the [[River-Kingdoms|River Kingdoms]] are fractious neighbors, but common enemies bind them like sovereign glue.

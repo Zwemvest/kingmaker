@@ -1,4 +1,4 @@
----
+[[Bandits|bandit]]---
 tags:
   - Session
 ---

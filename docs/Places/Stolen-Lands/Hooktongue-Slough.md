@@ -14,7 +14,7 @@ Beyond the [[Narlmarches]] sink the lowlands of the [[Stolen-Lands|Stolen Lands]
 Rumor holds that the [[Aldori-Swordlords|swordlords]] sent actual [[Brevoy|Brevic]] government agents into this swampy area.
 
 ## [[Session-1#25 Calistril 4710|25 Calistril 4710]]
-Jamadi Aldori formally extends a mission for Hannis Drelev in the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]. Given the responsibility of securing the [[Hooktongue-Slough|Hooktongue Slough]] region, Baron Drelev's mission focuses on establishing control over the eastern [[Sellen-River|Sellen River]], a strategic waterway vital for trade and defense.
+Jamadi Aldori formally extends a mission for [[Hannis-Drelev|Hannis Drelev]] in the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]. Given the responsibility of securing the [[Hooktongue-Slough|Hooktongue Slough]] region, Baron Drelev's mission focuses on establishing control over the eastern [[Sellen-River|Sellen River]], a strategic waterway vital for trade and defense.
 ## Sites
 * [[Lake-Hooktongue|Lake Hooktongue]]
 ## Part of

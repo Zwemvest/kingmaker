@@ -13,5 +13,5 @@ As the leader of [[Restov]], Ioseph Sellemius is a shrewd and influential figure
 Together with his close ally [[Jamandi-Aldori|Jamandi Aldori]], he organized a great banquet at [[Aldori-Manor|Aldori Manor]] to seek contenders for a baron title in an [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]. The party was present at this banquet, but did not get the opportunity to speak to him. 
 
 ## [[Session-1#25 Calistril 4710|25 Calistril 4710]]
-As with Jamandi Aldori, Ioseph was grateful to the party for rescuing Aldori Manor from the attackers of the [[Black-Tears|Black Tears]]
+As with [[Jamandi-Aldori|Jamandi Aldori]], Ioseph was grateful to the party for rescuing [[Aldori-Manor|Aldori Manor]] from the attackers of the [[Black-Tears|Black Tears]]
 

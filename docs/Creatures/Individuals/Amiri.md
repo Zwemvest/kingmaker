@@ -18,4 +18,4 @@ She was captured in battle with [[Harrim]] and [[Valerie]] by a [[Giants#Frost G
 \+ [[Djames]]: Enjoyed the tall tales during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
 \+ Rescued from a Frost Gaint
 \-- [[Lizzy-the-Leshby|Lizzy]]: Let a Frost Giant go against all reasoning 
-\- Did not stop Lizzy from letting a Frost Giant go
+\- Did not stop [[Lizzy-the-Leshby|Lizzy]] from letting a Frost Giant go

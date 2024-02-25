@@ -12,5 +12,5 @@ During the [[Attack-on-Lady-Jamandi-Aldoris-Manor|Attack on Lady Jamandi Aldori'
 He is distrusting and slightly angry that the party has let a Frost Giant leave unharmed, though he later appreciates the help from the party in clearing out the manor from the attacking [[Black-Tears|Black Tears]]. 
 ### Likely party attitude:
 \- Let a Frost Giant leave peacefully
-\+ Cleared out the manor from bandits of the [[Black-Tears|Black Tears]]
+\+ Cleared out the manor from [[bandits]] of the [[Black-Tears|Black Tears]]
 \+ Extinguished fires in the manor
