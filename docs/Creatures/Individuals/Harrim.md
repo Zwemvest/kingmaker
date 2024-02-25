@@ -12,3 +12,8 @@ We met him during the start of the [[The-expedition-for-the-Stolen-Lands|Expedit
 
 ## [[Session-0#25 Calistril 4710|25 Calistril 4710]]
 He was captured in battle with [[Amiri]] and [[Valerie]] by a [[Giants#Frost Giants|Frost Giant]]. [[Lizzy-the-Leshby|Lizzy]] would later negotiate a parlay between the Frost Giant, and the party plus Harrim, [[Valerie]], and [[Amiri]]. [[Harrim]] was pragmatic about this deal, and didn't particularly seem to care that the party let a [[Giants#Frost Giants|Frost Giant]] go. 
+### Likely party attitude:
+\+ Were tolerant of tales of [[Groetus]]
+\+ [[Djames]]: Enjoyed the tall tales during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
+\+ Rescued from a Frost Gaint
+\~ Let a Frost Giant go

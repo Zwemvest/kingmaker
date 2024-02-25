@@ -2,7 +2,7 @@
 tags:
   - Notion
 aliases:
-  - Diplomacy in the River Kingdoms
+  - Diplomacy in the [[River-Kingdoms|River Kingdoms]]
 ---
 # Diplomacy in the River Kingdoms
 Many a roving eye has looked at the fine pastures and fields of the [[River-Kingdoms|River Kingdoms]] with intent to claim them. The pickings look easy, but the doing has proven difficult. Rulers in the [[River-Kingdoms|River Kingdoms]] are fractious neighbors, but common enemies bind them like sovereign glue.
@@ -16,7 +16,7 @@ The nations surrounding the [[River-Kingdoms|River Kingdoms]] absorb and mirror 
 King [[Brevoy-Nobility#Surtova|Surtova]] is embroiled in a pending civil war and wary of turmoil in the [[River-Kingdoms|River Kingdoms]] spilling over into his lands. To provide a buffer between his country and [[Pitax-Realm|Pitax]], he encourages ambitious folk to settle in the broad strip of land bordering [[Brevoy]] and the [[River-Kingdoms|River Kingdoms]], called the [[Stolen-Lands|Stolen Lands]]. [[Brevoy-Nobility#Surtova|Surtova]] hopes that by founding small colonies there, the “kings” of these realms will deal with aggressive Lord [[Castruccio-Irovetti|Irovetti]] of [[Pitax-Realm|Pitax]], or at least slow down any invasion force before it gets to [[Brevoy]].
 
 ### Galt
-About once a generation, a [[Galt|Galtan]] leader decides to enforce some ancient treaty or deed entitling him to a swath of [[River-Kingdoms|River Kingdoms]] territory. Since [[Galt]] doesn’t border any of the well-established realms, the offensive usually overruns an independent lord’s stake. [[Galt]] is in such a calamitous state that these forays never permanently enlarge [[Galt|Galtan]] holdings. But even in less tempestuous times, Galtans haven't held the land for long, always losing their grip to some bandit king or charismatic rebel.
+About once a generation, a [[Galt|Galtan]] leader decides to enforce some ancient treaty or deed entitling him to a swath of [[River-Kingdoms|River Kingdoms]] territory. Since [[Galt]] doesn’t border any of the well-established realms, the offensive usually overruns an independent lord’s stake. [[Galt]] is in such a calamitous state that these forays never permanently enlarge [[Galt|Galtan]] holdings. But even in less tempestuous times, Galtans haven't held the land for long, always losing their grip to some [[Bandits|bandit]] king or charismatic rebel.
  
 Just to make sure this remains the case, the lords of [[Gralton-Realm|Gralton]] (who are mainly exiles from [[Galt]]) quietly supply mercenaries and aid to defenders in the [[River-Kingdoms|River Kingdoms]], without directly appearing to be involved; they do not wish to be hounded by their enemies and errors from the homeland any more than they already are. The only Galtans who have occupied a kingdom for any length of time are those in [[Gralton-Realm|Gralton]], and then only as their own fiefdom, not actually as an arm of [[Galt]]. The [[Oakstewards]] of [[Sevenarches-Realm|Sevenarches]] claim this is the legacy of the [[Elf|elven]] chaos-land that the [[River-Kingdoms|River Kingdoms]] were in millennia past.
 

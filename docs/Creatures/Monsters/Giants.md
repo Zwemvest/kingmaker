@@ -23,3 +23,10 @@ Frost giants are among the most feared of the giants, as they are highly aggress
 These giants live almost entirely by raiding and hunting. Roughly half of their population lives in small nomadic bands or tribes, while the rest settle down in abandoned castles or caves. They are known to often ally with fearsome winter wolves and, though they tend to dominate such alliances, frost giants must be careful not to antagonise their lupine allies as they have been known to tear giants that upset them limb from limb.
 
 Frost Giants often have a weakness to fire. Some [[Realm-of-the-Mammoth-Lords|Kellid]], like [[Amiri]], hunt Frost Giants.
+
+## [[Session-0#25 Calistril 4710|25 Calistril 4710]]
+An family of three frost giant was present during the [[Attack-on-Lady-Jamandi-Aldoris-Manor|Attack on Lady Jamandi Aldori's Manor]], being brought by the [[Black-Tears|Black Tears]]. 
+
+The first frost giant had cornered [[Amiri]], [[Harrim]], and [[Valerie]], but sustained heavy injuries in the fight. [[Lizzy-the-Leshby|Lizzy]] would later heal it up and negotiate with it to leave [[Aldori-Manor|Aldori Manor]]. 
+
+The second and third were in the dueling halls of [[Aldori-Manor|Aldori Manor]]. [[Djames]] uses a Command spell on one to have it disarm itself, while [[Jamandi-Aldori|Lady Jamandi Aldori]] slew the two frost giants. 

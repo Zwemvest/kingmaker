@@ -1,7 +1,7 @@
 ---
 tags:
   - Player
-aliases:
+aliases: []
 ---
 # Party
 [[Kairos]]

@@ -14,3 +14,8 @@ The party has gotten to know Linzi through conversations during their adventures
 
 ## [[Session-0#25 Calistril 4710|25 Calistril 4710]]
 Linzi would later be captured by a [[Giants#Frost Giants|Frost Giant]], but Linzi managed to blind him. However, Linzi was cornered until the party managed to kill the [[Giants#Frost Giants|Frost Giant]] and free her. As a "thank you", she gifted [[Lizzy-the-Leshby|Lizzy]] with a Scroll of Inkshot. 
+
+### Likely party attitude:
+\++ [[Djames]]: Enjoyed his tall tales 
+\++ [[Lizzy-the-Leshby|Lizzy]]: Enjoyed her presence during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
+\++ Rescued from an [[ogre]]

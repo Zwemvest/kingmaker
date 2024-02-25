@@ -13,3 +13,9 @@ Lander Lebeda is the house head of [[Brevoy-Nobility#Lebeda|House Lebeda]], one 
 [[Djames]] is his lover and a trustee, and he's asked [[Djames]] to accompany his son in the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]. 
 
 He has hired [[Kairos]] in the past, and is paying her to accompany his son in the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]. 
+
+### Likely party attitude:
+\+++ [[Leonardo|Leonardo Lebeda]]: My son and heir
+\+++ [[Djames]]: A loyal friend, a close lover, and in all ways a trustee
+\+[[Kairos]]: has worked for the family in the past
+\+ Sent us to the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]] to join the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]

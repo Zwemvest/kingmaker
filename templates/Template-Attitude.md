@@ -1,0 +1,3 @@
+### Likely party attitude:
+\+ 
+\-

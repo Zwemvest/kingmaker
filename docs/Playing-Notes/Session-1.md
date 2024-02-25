@@ -3,9 +3,9 @@ Tag: Session
 ---
 # Session 1
 ## 25 Calistril 4710
-The scene in the great hall is one of chaos and destruction, with tables turned into barricades and blood staining the floor. Guards stand vigilant, and the atmosphere is tense as the party recounts their encounter with assassins and frost giants. They explain their actions to a guard who immediately starts questioning them but eventually understands their predicament. After some persuasion, the guard introduces himself as [[Ivenzy]]. He is a tall man with grey eyes, short black hair, prominent eyebrows, and a short mustache.
+The scene in the great hall is one of chaos and destruction, with tables turned into barricades and blood staining the floor. Guards stand vigilant, and the atmosphere is tense as the party recounts their encounter with assassins and frost giants. They explain their actions to a guard who immediately starts questioning them but eventually understands their predicament. After some persuasion, the guard introduces himself as [[Ivenzi]]. He is a tall man with grey eyes, short black hair, prominent eyebrows, and a short mustache.
 
-[[Ivenzy]] informs the party of the situation: mercenaries and various types of giants have infiltrated the manor, forcing all guards to gather in the grand hall while [[Jamandi-Aldori|Lady Jamandi]] Aldori leads the effort to clear the rest of the building. Some attackers have fled into the west wing, while others went in the east wing where the party came from. Smoke billows from underneath closed doors, indicating fires raging behind.
+[[Ivenzi]] informs the party of the situation: mercenaries and various types of giants have infiltrated the manor, forcing all guards to gather in the grand hall while [[Jamandi-Aldori|Lady Jamandi]] Aldori leads the effort to clear the rest of the building. Some attackers have fled into the west wing, while others went in the east wing where the party came from. Smoke billows from underneath closed doors, indicating fires raging behind.
 
 [[Djames]] fashions some primitive yet effective gas masks, to mitigate the effects of the smoke. The masks consisted of pieces of cloth soaked in water, which would then be tied around the faces of the wearers to act as a barrier against the smoke inhalation. 
 
@@ -15,7 +15,7 @@ As the smoke began to dissipate, revealing a hall seemingly free of flames, our 
 
 [[Leonardo]] took charge of examining the first room, while [[Djames]] and [[Lizzy-the-Leshby|Lizzy]] ventured into the second, leaving [[Kairos]] to explore a third chamber on her own. Most of the doors of the rooms had already burned away, and the room [[Kairos]] went into didn't seem to be on fire at all, being an open room connected to the hallway.
 
-Inside the open room, [[Kairos]] encountered a solemn scene - a polished floor marred by smoke stains and an armored statue depicting a half-elf woman. This statue represented Milani the [[Everbloom]], a deity revered by those who championed the oppressed. 
+Inside the open room, [[Kairos]] encountered a solemn scene - a polished floor marred by smoke stains and an armored statue depicting a half-elf woman. This statue represented [[Milani]] the [[Everbloom]], a deity revered by those who championed the oppressed. 
 
 Meanwhile, [[Leonardo]]'s investigation led him to a chamber already ravaged by fire, offering little hope of finding survivors.
 
@@ -53,7 +53,7 @@ Meanwhile, [[Kairos]] steps into a second room cluttered with weapon and armor r
 
 [[Gomi]] joins the fray, unleashing an Electric Arc attack that the assailant narrowly evades, still taking some damage from the residual shock. [[Kairos]], employing Arcane Cascade and utilizing Time Sense to enhance her precision, delivers a precise strike with her [[Elf|Elven]] Fauchard. [[Djames]] contributes by attempting to demoralize the assailant further.
 
-Working together, the party subdues the bandit, inflicting non-lethal damage and securing them with manacles and a gag to prevent further resistance.
+Working together, the party subdues the [[Bandits|bandit]], inflicting non-lethal damage and securing them with manacles and a gag to prevent further resistance.
 
 After freeing [[Jaethal]] from her restraints, the party attempts to heal her using [[Lizzy-the-Leshby|Lizzy]]'s natural abilities, but unfortunately, there is no response. Concerned, [[Lizzy-the-Leshby|Lizzy]] notes the absence of a heartbeat from [[Jaethal]], indicating something unusual about her condition.
 
@@ -80,7 +80,6 @@ With steely determination, [[Leonardo]] unleashes a fearsome display of intimida
 Meanwhile, [[Kairos]] taps into the arcane energies swirling around her, teleporting through the runes adorning her body to unleash a Spellstrike of unparalleled power. As her strikes connect, it seems as though claws from different timelines converge, guided by the glowing runes, culminating in a devastating critical hit that leaves a significant impact on their foe. [[Lizzy-the-Leshby|Lizzy]] finishes the assailant off. 
 
 Upon searching the body of [[Volodmyra]], the party discovers several valuable items:
-
 1. Trackers Goggles
 2. +1 Greataxe
 3. Chainmail
@@ -101,19 +100,19 @@ Gathering in the great hall after several hours, we witness the impressive effic
 
 As a gesture of her unwavering resolve, [[Jamandi-Aldori|Jamandi Aldori]] stresses that it's time to send four different groups into the [[Stolen-Lands|Stolen Lands]]. 
 
-- **[[Iron-Wraiths|Iron Wraiths]]**: Tasked with operating in the Glebon Uplands, their mission involves defeating the [[Tiger-Lords|Tiger Lords]], a formidable adversary, and establishing diplomatic relations with Pitax, a crucial diplomatic endeavor.
+- **[[Iron-Wraiths|Iron Wraiths]]**: Tasked with operating in the [[Glenebon-Uplands|Glenebon Uplands]], their mission involves defeating the [[Tiger-Lords|Tiger Lords]], a formidable adversary, and establishing diplomatic relations with Pitax, a crucial diplomatic endeavor.
 - **Baron [[Hannis-Drelev|Hannis Drelev]]**: Given the responsibility of securing the [[Hooktongue-Slough|Hooktongue Slough]] region, Baron Drelev's mission focuses on establishing control over the eastern [[Sellen-River|Sellen River]], a strategic waterway vital for trade and defense.
 - **[[Maegar-Varn|Maegar Varn]]**: Stationed in the [[Nomen-Heights|Nomen Heights]], [[Maegar-Varn|Maegar Varn]] oversees the development of a town fortified by a Varnling host. Additionally, his mission involves establishing an alliance with the centaurs and overseeing the operations of an Aldori dueling school, aiming to foster martial prowess and unity.
-- **Lebeda Expedition**: Tasked with exploring and pacifying the Greenbelt and [[Narlmarches]] regions, the Lebeda Expedition aims to establish a presence in these untamed wilderness areas, paving the way for future settlement and expansion under the banner of House Lebeda.
+- **Lebeda Expedition**: Tasked with exploring and pacifying the [[Greenbelt]] and [[Narlmarches]] regions, the Lebeda Expedition aims to establish a presence in these untamed wilderness areas, paving the way for future settlement and expansion under the banner of House Lebeda.
 
-[[Jamandi-Aldori|Jamandi Aldori]] recommends that the party begin their endeavors at a trading post that has been severely affected by bandit activity. This suggests that restoring order and security to this trading post would not only serve as a crucial first step in stabilizing the region but also demonstrate the party's capability in dealing with threats to commerce and safety, laying the groundwork for further expansion and development.
+[[Jamandi-Aldori|Jamandi Aldori]] recommends that the party begin their endeavors at a trading post that has been severely affected by [[Bandits|bandit]] activity. This suggests that restoring order and security to this trading post would not only serve as a crucial first step in stabilizing the region but also demonstrate the party's capability in dealing with threats to commerce and safety, laying the groundwork for further expansion and development.
 
-Now that [[Aldori-Manor|Aldori Manor]] is safe, we catch a few hours more sleep. In the morning, [[Kairos]] heads into [[Restov]] to sell different parts of bandit loot. [[Djames]] and [[Lizzy-the-Leshby|Lizzy]] also head into [[Restov]]; [[Djames]] with the intention of purchasing new high-fashion clothing, while [[Lizzy-the-Leshby|Lizzy]] places orders for a new dress and robes. Additionally, [[Djames]] sends a coded letter to [[Lander-Lebeda|Lander Lebeda]], using secret phrases to hint at their clandestine connection.
+Now that [[Aldori-Manor|Aldori Manor]] is safe, we catch a few hours more sleep. In the morning, [[Kairos]] heads into [[Restov]] to sell different parts of [[Bandits|bandit]] loot. [[Djames]] and [[Lizzy-the-Leshby|Lizzy]] also head into [[Restov]]; [[Djames]] with the intention of purchasing new high-fashion clothing, while [[Lizzy-the-Leshby|Lizzy]] places orders for a new dress and robes. Additionally, [[Djames]] sends a coded letter to [[Lander-Lebeda|Lander Lebeda]], using secret phrases to hint at their clandestine connection.
 
 [[Kairos]] also invests in a donkey pack mule to assist with transportation and carrying supplies on their upcoming ventures.
 
 ### Summary
-- Met [[Ivenzy]]
+- Met [[Ivenzi]]
 - Extinguished flames
 - Rescued [[Tartuccio]]
 - Rescued [[Jaethal]]
@@ -129,22 +128,25 @@ Now that [[Aldori-Manor|Aldori Manor]] is safe, we catch a few hours more sleep.
 ## 28 Calistril 4710
 Armed with a detailed map of the region, the party notes key regions in the [[Stolen-Lands|Stolen Lands]], such as the [[Narlmarches]], the [[Greenbelt]], the [[Nomen-Heights|Nomen Heights]], the [[Tors-of-Levenies|Tors of Levenies]], and the [[Dunsward]]. We also mark the [[Rostland]] Hinterlands, of which [[Olegs-Trading-Post|Oleg's Trading Post]] is a part. Our initial travels towards [[Olegs-Trading-Post|Oleg's Trading Post]] will take us past [[Nivaktas-Crossing|Nivakta's Crossing]], and the [[Crooked-Falls|Crooked Falls]]. 
 
-With advance notice from [[Jamandi-Aldori|Jamandi Aldori]], [[Olegs-Trading-Post|Oleg's Trading Post]] was prepared for the party's arrival. Accompanied by the traders, we journeyed downstream along the [[Shrike-River|Shrike River]]. After three days of travel, we finally arrived at [[Olegs-Trading-Post|Oleg's Trading Post]], where [[Oleg]], his wife [[Svetlana]], and the other inhabitants were expecting our arrival.
+With advance notice from [[Jamandi-Aldori|Jamandi Aldori]], [[Olegs-Trading-Post|Oleg's Trading Post]] was prepared for the party's arrival. Accompanied by the traders, we journeyed downstream along the [[Shrike-River|Shrike River]]. After three days of travel, we finally arrived at [[Olegs-Trading-Post|Oleg's Trading Post]], where [[Oleg-Leveton|Oleg Leveton]], his wife [[Svetlana-Leveton|Svetlana Leveton]], and the other inhabitants were expecting our arrival.
 
-Upon our arrival at [[Olegs-Trading-Post|Oleg's Trading Post]], we are warmly welcomed by [[Svetlana]], who invites us inside, mentioning that stew and bread are already cooking on the stove. As we settle down outside near the fire, we hear the sound of hammering coming from the roof of the trading post. [[Oleg]] pauses his work and descends from the trading post to join us.
+Upon our arrival at [[Olegs-Trading-Post|Oleg's Trading Post]], we are warmly welcomed by [[Svetlana-Leveton|Svetlana Leveton]], who invites us inside, mentioning that stew and bread are already cooking on the stove. As we settle down outside near the fire, we hear the sound of hammering coming from the roof of the trading post. [[Oleg-Leveton|Oleg]] pauses his work and descends from the trading post to join us.
 
-[[Oleg]] welcomes us with a brusque tone, inquiring if we're here to assist with the bandit situation. [[Kairos]] attempts a jest about being here to help _against_ the [[bandits]], which [[Oleg]] doesn't find amusing. [[Djames]] quickly offers an apology on behalf of the group. Both [[Djames]] and [[Kairos]] then proceed to explain our mission, clarifying that we've been dispatched by [[Jamandi-Aldori|Jamandi Aldori]].
+[[Oleg-Leveton|Oleg]] welcomes us with a brusque tone, inquiring if we're here to assist with the [[Bandits|bandit]] situation. [[Kairos]] attempts a jest about being here to help _against_ the [[bandits]], which [[Oleg-Leveton|Oleg]] doesn't find amusing. [[Djames]] quickly offers an apology on behalf of the group. Both [[Djames]] and [[Kairos]] then proceed to explain our mission, clarifying that we've been dispatched by [[Jamandi-Aldori|Jamandi Aldori]].
 
-[[Djames]] reiterates our intention to bring civilization to the [[Stolen-Lands|Stolen Lands]], a sentiment that [[Oleg]] appears to dismiss. [[Kairos]] chimes in, highlighting the potential increase in trade such civilization might bring to [[Oleg]]. However, [[Oleg]] remains unimpressed, emphasizing his immediate need for assistance against the [[bandits]] demanding "taxes". Despite [[Lizzy-the-Leshby|Lizzy]]'s offer to aid in repairing the housing, [[Oleg]] doesn't seem swayed by our goodwill gestures. [[Oleg]] emphasizes that he relocated to a remote and quiet area of [[Rostland]] precisely for the tranquility and solitude it offers.
+[[Djames]] reiterates our intention to bring civilization to the [[Stolen-Lands|Stolen Lands]], a sentiment that [[Oleg-Leveton|OIeg]] appears to dismiss. [[Kairos]] chimes in, highlighting the potential increase in trade such civilization might bring to [[Oleg-Leveton|Oleg]]. However, [[Oleg-Leveton|Oleg]] remains unimpressed, emphasizing his immediate need for assistance against the [[bandits]] demanding "taxes". Despite [[Lizzy-the-Leshby|Lizzy]]'s offer to aid in repairing the housing, [[Oleg-Leveton|Oleg]] doesn't seem swayed by our goodwill gestures. [[Oleg-Leveton|Oleg]] emphasizes that he relocated to a remote and quiet area of [[Rostland]] precisely for the tranquility and solitude it offers.
 
-[[Kairos]] inquires about [[Oleg]]'s bandit problem, prompting [[Oleg]] to explain that the [[bandits]] typically arrive once a month, consistently on the first day of the month, precisely at the crack of dawn. When [[Leonardo]] probes for further details regarding the size and armament of the bandit groups, [[Oleg]] reveals that initially, they arrived with a few dozen individuals, but over time, their numbers have dwindled with each subsequent visit.
+[[Kairos]] inquires about [[Oleg-Leveton|Oleg]]'s [[Bandits|bandit]] problem, prompting [[Oleg-Leveton|Oleg]] to explain that the [[bandits]] typically arrive once a month, consistently on the first day of the month, precisely at the crack of dawn. When [[Leonardo]] probes for further details regarding the size and armament of the [[Bandits|bandit]] groups, [[Oleg-Leveton|Oleg]] reveals that initially, they arrived with a few dozen individuals, but over time, their numbers have dwindled with each subsequent visit.
 
-To fortify the trading post, the group decides on a strategic plan. They opt to dig Spike Traps around the perimeter, which will be triggered by [[Lizzy-the-Leshby|Lizzy]]'s Timber cantrip. [[Djames]] and [[Oleg]] will collaborate to create distractions or obstacles to hinder the [[bandits]] before they launch their attack. Additionally, they plan to strategically position the carts to funnel the [[bandits]] towards the spike traps. Furthermore, they intend to prepare a kettle of hot sand above the entrance to the trading post as a secondary trap that can be deployed against any reinforcements. This comprehensive strategy aims to maximize the trading post's defenses and repel the bandit threat effectively.
+To fortify the trading post, the group decides on a strategic plan. They opt to dig Spike Traps around the perimeter, which will be triggered by [[Lizzy-the-Leshby|Lizzy]]'s Timber cantrip. [[Djames]] and [[Oleg-Leveton|Oleg]] will collaborate to create distractions or obstacles to hinder the [[bandits]] before they launch their attack. Additionally, they plan to strategically position the carts to funnel the [[bandits]] towards the spike traps. Furthermore, they intend to prepare a kettle of hot sand above the entrance to the trading post as a secondary trap that can be deployed against any reinforcements. This strategy aimed to maximize the trading post's defenses and repel the [[Bandits|bandit]] threat effectively.
 
-The group dedicates the entire day to constructing the traps, and when the [[bandits]] finally arrive, the traps prove to be more effective than anticipated. In a swift turn of events, two [[bandits]] are crushed by a falling tree, another falls victim to the spike trap, while a fourth, identified as [[Happs Bydon]], is captured alive. They swiftly secure [[Happs Bydon]], binding him with ropes, and commence interrogation to gather information about their adversaries. [[Happs Bydon]] reveals that they are aligned with a woman named [[Kressle]], who he warns will soon retaliate against them.
+We also asked [[Oleg-Leveton|Oleg]] and [[Svetlana-Leveton|Svetlana]] to remain as far back into the safest room of [[Olegs-Trading-Post|Oleg's Trading Post]] as they could, but both refused. Though [[Oleg-Leveton|Oleg]] agreed that [[Svetlana-Leveton|his wife]] should be kept safe, he thought it'd be suspicious to the [[bandits]] if he and [[Svetlana-Leveton|Svetlana]] weren't present. 
+### Summary
+- Took three days to travel to [[Olegs-Trading-Post|Olegs Trading Post]]
+- Met [[Oleg-Leveton|Oleg Leveton]] and [[Svetlana-Leveton|Svetlana Leveton]]
+## 1 Pharast 4710
+The group dedicates the entire day to constructing the traps, and when the [[bandits]] finally arrive, the traps prove to be more effective than anticipated. In a swift turn of events, two [[bandits]] are crushed by a falling tree, another falls victim to the spike trap, while a fourth, identified as [[Happs-Bydon|Happs Bydon]], is captured alive. They swiftly secure [[Happs-Bydon|Happs Bydon]], binding him with ropes, and commence interrogation to gather information about their adversaries. [[Happs-Bydon|Happs Bydon]] reveals that they are aligned with a woman named [[Kressle]], who he warns will soon retaliate against them.
 
 As the interrogation intensifies, Happs becomes increasingly agitated, defying the group's threats and demanding to know the strength of their army. [[Kairos]] responds by delivering a swift punch to his face, asserting dominance. Meanwhile, [[Lizzy-the-Leshby|Lizzy]], [[Leonardo]], and [[Djames]] continue pressing him for information about his employer and the location of their stronghold. Despite their efforts, Happs remains obstinate, repeatedly insisting that [[Kressle]] will soon arrive. Unfazed by his defiance, the party reiterates their fearlessness and determination to confront [[Kressle]].
 ### Summary
-- Took three days to travel to [[Olegs-Trading-Post|Olegs Trading Post]]
-- Met [[Oleg]] and [[Svetlana]]
-- Defeated several [[bandits]] and captured and interrogated [[Happs Bydon]]
+- Defeated several [[bandits]] and captured and interrogated [[Happs-Bydon|Happs Bydon]]

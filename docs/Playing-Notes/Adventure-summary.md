@@ -35,10 +35,10 @@ Starting in the early morning of [[Session-0#25 Calistril 4710|25 Calistril 4710
 - [[Kairos]] found a Tanglefoot Bag
 - Found 800 gold intended as wages for the [[Aldori-Manor|Aldori Manor]] guards
 
-After the above, we entered the great hall and met [[Ivenzy]]. We then battled flames, rescued both [[Tartuccio]] and [[Jaethal]], and aided [[Jamandi-Aldori|Lady Jamandi]] Aldori in vanquishing Frost [[Giants]] and the [[Black-Tears|Black Tears]]. Jamandi thanked us, gave us some rewards, and sent 
+After the above, we entered the great hall and met [[Ivenzi]]. We then battled flames, rescued both [[Tartuccio]] and [[Jaethal]], and aided [[Jamandi-Aldori|Lady Jamandi]] Aldori in vanquishing Frost [[Giants]] and the [[Black-Tears|Black Tears]]. Jamandi thanked us, gave us some rewards, and sent 
 
 ### Summary
-- Met [[Ivenzy]] 
+- Met [[Ivenzi]] 
 - Extinguished flames 
 - Rescued [[Tartuccio]] 
 - Rescued [[Jaethal]] 
@@ -53,8 +53,12 @@ After the above, we entered the great hall and met [[Ivenzy]]. We then battled f
 - Found Tracking Goggles
 
 ## 28 Calistril 4710
-Reached [[Olegs-Trading-Post|Oleg's Trading Post]] and dug traps so we could defend it from [[bandits]]. 
+We reached [[Olegs-Trading-Post|Oleg's Trading Post]] on [[Session-1#28 Calistril 4710|28 Calistril 4710]], meeting [[Oleg-Leveton|Oleg Leveton]] and his wife [[Svetlana-Leveton|Svetlana Leveton]]. They explained their problems with local [[bandits]], so we promised to help them. 
 ### Summary
 - Took three days to travel to [[Olegs-Trading-Post|Oleg's Trading Post]]
-- Met [[Oleg]] and [[Svetlana]]
-- Defeated several [[bandits]] and captured and interrogated [[Happs Bydon]]
+- Met [[Oleg-Leveton|Oleg Leveton]] and [[Svetlana-Leveton|Svetlana Leveton]]
+
+## 1 Pharast 4710
+There was a [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]], but we quickly incapacitated 3 [[bandits]] with our traps. We captured [[Happs-Bydon|Happs Bydon]] and interrogated him. 
+### Summary
+- Defeated several [[bandits]] and captured and interrogated [[Happs-Bydon|Happs Bydon]]

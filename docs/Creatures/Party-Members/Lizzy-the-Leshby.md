@@ -8,7 +8,7 @@ aliases:
 # Lizzy Leshby of the Deep Forest
 [[Half-Elf]] Leshy Witch (Wildling Steward)
 
-[[Djames]] is Lizzy's best \<placeholder\>. As far as you ask Lizzy, [[Djames]] always speaks the truth. According to Djames, her full name is Lizziona Leshby of the Deep Forest.
+[[Djames]] is Lizzy's best \<placeholder\>. As far as you ask Lizzy, [[Djames]] always speaks the truth. According to [[Djames]], her full name is Lizziona Leshby of the Deep Forest.
 
 Lizzy has a raccoon named [[Gomi]]. Lizzy's full name appears to be Lizziona Leshby of the Deep Forest, but this is unconfirmed and could be more unreliable information from [[Djames]]. 
 

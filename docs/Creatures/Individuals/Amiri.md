@@ -14,3 +14,8 @@ We met her during the start of the [[The-expedition-for-the-Stolen-Lands|Expedit
 
 ## [[Session-0#25 Calistril 4710|25 Calistril 4710]]
 She was captured in battle with [[Harrim]] and [[Valerie]] by a [[Giants#Frost Giants|Frost Giant]]. [[Lizzy-the-Leshby|Lizzy]] would later negotiate a parlay between the Frost Giant, and the party plus [[Harrim]], [[Valerie]], and Amiri. Amiri did not appreciate this, believing Frost [[Giants]] cannot be trusted, and came to regret giving her a dagger. 
+### Likely party attitude:
+\+ [[Djames]]: Enjoyed the tall tales during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
+\+ Rescued from a Frost Gaint
+\-- [[Lizzy-the-Leshby|Lizzy]]: Let a Frost Giant go against all reasoning 
+\- Did not stop Lizzy from letting a Frost Giant go
