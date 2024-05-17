@@ -2,5 +2,7 @@
   "selectedTab": 0,
   "sortOrder": 1,
   "reducedIndices": [],
-  "ignoredFolders": []
+  "ignoredFolders": [
+    "smart-chats"
+  ]
 }

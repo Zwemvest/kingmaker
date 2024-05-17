@@ -8,5 +8,8 @@
   "dataview",
   "obsidian-regex-replace",
   "webpage-html-export",
-  "obsidian-dangling-links"
+  "obsidian-dangling-links",
+  "copilot",
+  "find-unlinked-files",
+  "obsidian-textgenerator-plugin"
 ]

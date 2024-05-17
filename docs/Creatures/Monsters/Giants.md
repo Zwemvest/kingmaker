@@ -9,9 +9,6 @@ Giants are massive humanoid creatures who live in remote regions throughout the 
 
 Though potentially able to speak many languages, giants also have a common language known simply as Giant or Jotun. The language of the giants that exists today is a mixture of Cyclops and Thassilonian. First used by the giant slaves of the runelords in the time before Earthfall, it spread to the rest of [[Golarion]] after the destruction of that realm.
 ## Frost Giants
-
-^72bc13
-
 Frost giants are remorseless marauders who pillage and plunder from those who dare to live near them in desolate, frigid lands. Their clans range from extremely territorial hunters who claim an expanse of tundra and defend it at all costs to nomadic hordes that roam icy slopes in search of settlements to conquer. Frost giant clans are ruled by those who exhibit the greatest ferocity and prowess in battle—massive brutes who proclaim themselves jarl and demand absolute obedience from their followers. If at any time a frost giant wishes to be a jarl, all they must do is issue a challenge to the current jarl and face off in mortal combat, after which the reigning champion continues leading the clan or the victorious challenger assumes control.
 
 Frost giants live in frostbitten realms, and their appearance is reflective of a people weathered and hardened by relentless snowstorms and freezing temperatures. They often wear metal armor adorned with the furs, skin, teeth, and tusks of slain beasts and heft weapons as long as dining tables. Their flesh ranges from pale blue to shale gray, and their hair is typically a dingy white or dirty yellow color. As they are impervious to cold, they tend to frequent [[Avistan]]'s northern latitudes. They are particularly common in the witch realm of Irrisen and near the Crown of the World.
@@ -30,3 +27,15 @@ An family of three frost giant was present during the [[Attack-on-Lady-Jamandi-A
 The first frost giant had cornered [[Amiri]], [[Harrim]], and [[Valerie]], but sustained heavy injuries in the fight. [[Lizzy-the-Leshby|Lizzy]] would later heal it up and negotiate with it to leave [[Aldori-Manor|Aldori Manor]]. 
 
 The second and third were in the dueling halls of [[Aldori-Manor|Aldori Manor]]. [[Djames]] uses a Command spell on one to have it disarm itself, while [[Jamandi-Aldori|Lady Jamandi Aldori]] slew the two frost giants. 
+
+| **Feature**    | **Description**                                                                                          |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| **Type**       | Humanoid                                                                                                 |
+| **Risk**       | Typically poses a high threat due to their size and strength                                             |
+| **Habitat**    | Often found in mountainous regions, caves, and remote wilderness areas                                   |
+| **Behavior**   | Usually social within their own kind, often living in tribes or clans; can be territorial and aggressive |
+| **Perception** | Good perception, allowing them to detect intruders and potential threats from a distance                 |
+| **Stealth**    | Generally not stealthy due to their large size                                                           |
+| **Speed**      | Moderate to slow speed; their size allows for covering large distances with fewer steps                  |
+| **Attacks**    | Known for their immense physical strength, capable of dealing massive damage with melee attacks          |
+| **Defenses**   | Strong natural resilience due to their size and often thick, tough skin                                  |

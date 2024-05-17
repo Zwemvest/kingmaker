@@ -8,6 +8,8 @@ aliases:
 ## Party Cash
 - 184 gold, 58 silver
 ### Party inventory
+- Bristles, hides, bones from 2 boars
+- Meat for 200 meals
 ### [Kairos](../Creatures/Party-Members/Kairos.md)
 - 4 Minor Healing Potion
 - 1 Lesser Healing Potion

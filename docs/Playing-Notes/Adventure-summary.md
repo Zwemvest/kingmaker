@@ -59,6 +59,12 @@ We reached [[Olegs-Trading-Post|Oleg's Trading Post]] on [[Session-1#28 Calistri
 - Met [[Oleg-Leveton|Oleg Leveton]] and [[Svetlana-Leveton|Svetlana Leveton]]
 
 ## 1 Pharast 4710
-There was a [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]], but we quickly incapacitated 3 [[bandits]] with our traps. We captured [[Happs-Bydon|Happs Bydon]] and interrogated him. 
+There was a [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]], but we quickly incapacitated 3 [[bandits]] with our traps. We captured [[Happs-Bydon|Happs Bydon]] and interrogated him. [[Happs-Bydon|Happs]] broke down and revealed the existence of a [[Bandits|bandit]] camp further south, near [[Tuskwater]]. We left and headed there. 
 ### Summary
 - Defeated several [[bandits]] and captured and interrogated [[Happs-Bydon|Happs Bydon]]
+- [[Happs-Bydon|Happs]] was imprisoned under [[Oleg-Leveton|Oleg]]'s supervision
+- Acquired a map
+- Encountered and fought two thylacines; [[Kairos]], [[Leonardo]], and [[Lizzy-the-Leshby|Lizzy]] engaged in battle.
+- Made camp, healed up, foraged, and camouflaged
+- Were attacked in the night by two boars; fought them off, healed up, and returned to sleep
+- Collected bristles, hides, bones, and enough meat for 200 meals 
