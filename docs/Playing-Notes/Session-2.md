@@ -10,7 +10,7 @@ aliases:
 
 We purchased a simple map from [[Oleg-Leveton|Oleg]] for one gold piece. [[Oleg-Leveton|Oleg]] also mentioned that his trading post could supply most items that are easily available from [[Restov]], but that he'd need time and money to fullfil more complex requests, and had significant difficulty acquiring rare items.
  
-`[[[[Olegs-Trading-Post|Oleg's Trading Post]]|[[Oleg-Leveton|Oleg]]'s Trading Post]] is rated at level 3, and can supply any common items up to level 3, needs time to procure uncommon items, and has difficulty acquiring rare items.`
+`Oleg's Trading Post is rated at level 3, and can supply any common items up to level 3, needs time to procure uncommon items, and has difficulty acquiring rare items.`
  
 Knowing that each hex on the map represented 12 miles, and that we travelled at 2.5 miles per hour, we calculated that we could cover about two hexes per day. [[Leonardo]] doffed his armor before we set off. We left [[Olegs-Trading-Post|Oleg's Trading Post]] around noon.
 
