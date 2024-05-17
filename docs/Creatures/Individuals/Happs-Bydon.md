@@ -12,3 +12,4 @@ During the [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading
 \- Is a [[Bandits|bandit]], unwilling to work with pesky adventurers 
 \- Captured me in a pit trap
 \- Did not like interrogation
+\- Works for [[Kressle]] from the Thorn River Camp
