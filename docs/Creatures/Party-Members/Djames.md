@@ -4,6 +4,7 @@ tags:
 aliases:
   - Djames
   - Djames Sailor
+  - Fred van der Meer
 ---
 # Djames Sailor
 [[Human]] Bard

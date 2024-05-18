@@ -11,7 +11,6 @@ The [[../Stolen-Lands/Thorn-River.md|Thorn River]] Camp is a small camp or settl
 ## Part of
 [[../Stolen-Lands/Thorn-River.md|Thorn River]]
 
-
 | Properties    | Description |
 | ------------- | ----------- |
-| Grid location | TB-3        |
+| Grid location | TW-3        |

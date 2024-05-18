@@ -31,6 +31,7 @@ In the middle of the night, [[Gomi]] flew over us to warn of two [[boars]] appro
 The [[boars]] then targeted [[Lizzy-the-Leshby|Lizzy]], who fought back from atop a rock while the [[boars]] attacked the base. [[Kairos]] used a spellstrike to attack the [[Boars|boar]] near her, allowing [[Leonardo]] to finish it off. [[Lizzy-the-Leshby|Lizzy]] attempted an Inkshot but missed. [[Kairos]] moved closer, recharged her spellstrike, and cast Shield on herself. The remaining [[Boars|boar]] charged around a giant rock to attack [[Kairos]] but missed. [[Leonardo]] then moved in to attack, and [[Lizzy-the-Leshby|Lizzy]] used Electric Arc to finish off the [[Boars|boar]].
 
 After the battle, [[Kairos]]' tent was toast, so she needed some time to set it up again. Besides repairing the damage to the camp, we also spent some time healing before returning to bed. We collected the [[boars]]' bristles, hides, bones, and enough meat for 100 meals per [[Boars|boar]].
+
 ### Summary
 - [[Happs-Bydon|Happs]] was imprisoned under [[Oleg-Leveton|Oleg]]'s supervision
 - Acquired a map
