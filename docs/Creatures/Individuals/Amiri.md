@@ -19,3 +19,5 @@ She was captured in battle with [[Harrim]] and [[Valerie]] by a [[Giants#Frost G
 \+ Rescued from a Frost Gaint
 \-- [[Lizzy-the-Leshby|Lizzy]]: Let a Frost Giant go against all reasoning 
 \- Did not stop [[Lizzy-the-Leshby|Lizzy]] from letting a Frost Giant go
+
+![[Portrait_Amiri.webp|300]]

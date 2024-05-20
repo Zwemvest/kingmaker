@@ -19,8 +19,10 @@ After a three day travel to [[Olegs-Trading-Post|Oleg's Trading Post]], Oleg spo
 
 Oleg told the party he wasn't interested in what they were bringing to his trading post - he didn't want attention, gold or more travellers, he merely wanted to be kept alone. A new kingdom to the south would not be in his interests. 
 ## [[Session-1#1 Pharast 4710|1 Pharast 4710]]
-The party saved [[Olegs-Trading-Post|Oleg's Trading Post]] from the [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]]. 
+The party saved [[Olegs-Trading-Post|Oleg's Trading Post]] from the [[Stag-Lord-Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]]. 
 
 ### Likely party attitude:
 \- Not interested in the interests of [[Brevoy]], the [[Aldori-Swordlords|Aldori Swordlords]], or those who work for them.
-\+ Rescued [[Olegs-Trading-Post|Olegs Trading Post]] from a [[Bandits|bandit]] attack.
+\+ Rescued [[Olegs-Trading-Post|Olegs Trading Post]] from a [[Stag-Lord-Bandits\|Stag Lord's Bandit]] attack.
+
+![[Portrait_Oleg.webp|300]]

@@ -20,3 +20,5 @@ When he found the party, he again demanded that they'd treat him like their boss
 \- [[Kairos]]: played an immature prank on me
 \- [[Leonardo]]: childishly tried to prevent me from leaving 
 \- Did not want to help carry me from my room to the grand hall, where the guards were. 
+
+![[Portrait_Tartuccio.webp|300]]

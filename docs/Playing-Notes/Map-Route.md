@@ -24,7 +24,7 @@ Travels (light-blue line)
 | Location | [[Stolen-Lands\|Stolen Lands]], [[Outskirts]], [[Olegs-Trading-Post\|Oleg's Trading Post]]                                                                                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Date     | [[Session-1#28 Calistril 4710\|28 Calistril 4710]] - [[Session-1#1 Pharast 4710\|1 Pharast 4710]]                                                                                                             |
-| Events   | [[Bandit-attack-on-Olegs-Trading-Post\|Bandit attack on Oleg's Trading Post]] |
+| Events   | [[Stag-Lord-Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]] |
 
 | Location | [[Stolen-Lands\|Stolen Lands]], [[Greenbelt]], travelling from [[Olegs-Trading-Post\|Oleg's Trading Post]] to [[Tuskwater]]                                                                                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

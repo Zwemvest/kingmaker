@@ -14,7 +14,7 @@ Svetlana is mild-mannered and approachable. She never raises her voice other tha
 ## [[Session-1#28 Calistril 4710|28 Calistril 4710]]
 After a three day travel from [[Restov]] to [[Olegs-Trading-Post|Oleg's Trading Post]], Svetlana was the first face the [[party]] saw on their journey into the wilds. She warmly welcomed the party with a broth and soup.
 ## [[Session-1#1 Pharast 4710|1 Pharast 4710]]
-The party saved [[Olegs-Trading-Post|Oleg's Trading Post]] from the [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]]
+The party saved [[Olegs-Trading-Post|Oleg's Trading Post]] from the [[Stag-Lord-Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]]
 ### Likely party attitude:
 \+ Kindly
-\+ Rescued [[Olegs-Trading-Post|Olegs Trading Post]] from a [[Bandits|bandit]] attack.
+\+ Rescued [[Olegs-Trading-Post|Olegs Trading Post]] from a [[Stag-Lord-Bandits\|Stag Lord's Bandit]] attack.

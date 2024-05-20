@@ -15,6 +15,6 @@ He commands a large band of [[bandits]] and outlaws who terrorize the region, en
 
 In recent years, the Stag Lord has turned to the bottle. His drunkness means he's not half of who or what he used to be, and has turned into a irrational leader. Rumours go that he recently punched a horse for spitting. This has shaken the loyalty of a lot of the [[Stag-Lord-Bandits|Stag Lord's Bandits]]  - but even drunk out of his mind, a lot of the [[Stag-Lord-Bandits|Stag Lord's Bandits]] still fear him. 
 
-He operates from a fortified base known as the Stag Lord's Fort, which is heavily defended and strategically positioned. The fort serves as a central hub for his operations and a place where he stores his loot.
+He operates from a fortified base known as the [[Stag-Lords-Fort|Stag Lord's Fort]], which is heavily defended and strategically positioned. The fort serves as a central hub for his operations and a place where he stores his loot.
 
-![[staglord.png|300]] 
+![[Portrait_staglord.png|300]] 

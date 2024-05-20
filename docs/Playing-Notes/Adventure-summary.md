@@ -53,18 +53,28 @@ After the above, we entered the great hall and met [[Ivenzi]]. We then battled f
 - Found Tracking Goggles
 
 ## 28 Calistril 4710
-We reached [[Olegs-Trading-Post|Oleg's Trading Post]] on [[Session-1#28 Calistril 4710|28 Calistril 4710]], meeting [[Oleg-Leveton|Oleg Leveton]] and his wife [[Svetlana-Leveton|Svetlana Leveton]]. They explained their problems with local [[bandits]], so we promised to help them. 
+We reached [[Olegs-Trading-Post|Oleg's Trading Post]] on [[Session-1#28 Calistril 4710|28 Calistril 4710]], meeting [[Oleg-Leveton|Oleg Leveton]] and his wife [[Svetlana-Leveton|Svetlana Leveton]]. They explained their problems with the local [[Stag-Lord-Bandits|Stag Lord's Bandits]], so we promised to help them. 
 ### Summary
 - Took three days to travel to [[Olegs-Trading-Post|Oleg's Trading Post]]
 - Met [[Oleg-Leveton|Oleg Leveton]] and [[Svetlana-Leveton|Svetlana Leveton]]
 
 ## 1 Pharast 4710
-There was a [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]], but we quickly incapacitated 3 [[bandits]] with our traps. We captured [[Happs-Bydon|Happs Bydon]] and interrogated him. [[Happs-Bydon|Happs]] broke down and revealed the existence of a [[Bandits|bandit]] camp further south, near [[Tuskwater]]. We left and headed there. 
+There was a [[Stag-Lord-Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]], but we quickly incapacitated 3 of the [[Stag-Lord-Bandits|Stag Lord's Bandits]] with our traps. We captured [[Happs-Bydon|Happs Bydon]] and interrogated him. [[Happs-Bydon|Happs]] broke down and revealed the existence of a [[Stag-Lord-Bandits|Stag Lord's Bandit]] camp further south, near [[Tuskwater]]. We left and headed there. 
 ### Summary
-- Defeated several [[bandits]] and captured and interrogated [[Happs-Bydon|Happs Bydon]]
+- Defeated several of the [[Stag-Lord-Bandits|Stag Lord's Bandits]] and captured and interrogated [[Happs-Bydon|Happs Bydon]]
 - [[Happs-Bydon|Happs]] was imprisoned under [[Oleg-Leveton|Oleg]]'s supervision
 - Acquired a map
 - Encountered and fought two thylacines; [[Kairos]], [[Leonardo]], and [[Lizzy-the-Leshby|Lizzy]] engaged in battle.
 - Made camp, healed up, foraged, and camouflaged
 - Were attacked in the night by two boars; fought them off, healed up, and returned to sleep
 - Collected bristles, hides, bones, and enough meat for 200 meals 
+
+## 2 Pharast 4710
+[[Capture-of-Kressle|The party wanders into the forest to capture bandit lieutenant Kressle]]; we defeated several of the [[Stag-Lord-Bandits|Stag Lord's Bandits]] and captured and interrogated [[Kressle]]. Kressle and the other bandits were transported back to Oleg's Trading Post.
+### Summary
+- [[Capture-of-Kressle|Capture of Kressle]]
+- Went back to Oleg's Trading post
+## 3 Pharast 4710
+We track several kobolds into the forest until we find a bunch of them in a [[Moon-Radish|Moon Radish]] patch. We defeat some of the kobolds, and capture a few others alive.
+### Summary
+- [[Liberation of the Moon Radish Patch]]

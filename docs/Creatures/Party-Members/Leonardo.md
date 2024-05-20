@@ -22,6 +22,8 @@ Leonardo has had a tragic accident a few years ago, when he was 18, and had to b
 
 Hence, 1.5 years ago, Lord [[Lander-Lebeda|Lander Lebeda]] hired [[Kairos]] to repair Leonardo, and asked [[Djames]] to hunt for the adamantine needed to repair the internal android systems. [[Djames]] stole the adamantine out of a forest near [[Galt]] and the [[Stolen-Lands|Stolen Lands]].
 
+Leonardo has a horse, [[Leonardos-Horse]]
+
 - [[Kairos]] has helped fix up Leonardo's system and now joined him in the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]
 - Leonardo considers [[Djames]] as an uncle. [[Djames]] is Leonardo's father's (Lord [[Lander-Lebeda|Lander Lebeda]]) lover and confidant.
 - Leonardo only met [[Lizzy-the-Leshby|Lizzy]] during the first meeting organized by [[Jamandi-Aldori|Jamandi Aldori]]

@@ -4,9 +4,9 @@ tags:
 aliases:
 ---
 ## 1 Pharast 4710
-[[Leonardo]] continued to interrogate [[Happs-Bydon|Happs Bydon]], pressing him for the whereabouts of his [[Bandits|bandit]] friends. Under pressure, [[Happs-Bydon|Happs]] revealed that they were located near [[Tuskwater|Tuskwater Lake]] and at the edge of the [[Greenbelt]], specifically at the [[Stag-Lords-Fort|Thorn River Camp]]. Meanwhile, [[Lizzy-the-Leshby|Lizzy]] took a less friendly approach, trying to extract information by shoving branches under his fingernails.
+[[Leonardo]] continued to interrogate [[Happs-Bydon|Happs Bydon]], pressing him for the whereabouts of his [[Stag-Lord-Bandits\|Stag Lord's Bandit]] friends. Under pressure, [[Happs-Bydon|Happs]] revealed that they were located near [[Tuskwater|Tuskwater Lake]] and at the edge of the [[Greenbelt]], specifically at the [[Stag-Lords-Fort|Thorn River Camp]]. Meanwhile, [[Lizzy-the-Leshby|Lizzy]] took a less friendly approach, trying to extract information by shoving branches under his fingernails.
 
-[[Oleg-Leveton|Oleg]], the owner of [[Olegs-Trading-Post|Oleg's Trading Post]], offered us free lodging and meals, as well as the [[bandits]]' gear. He declared his trading post could serve as our home base. We placed [[Happs-Bydon|Happs]] inside a deep hole in the ground and asked [[Oleg-Leveton|Oleg]] to provide him with just enough food to subsist.
+[[Oleg-Leveton|Oleg]], the owner of [[Olegs-Trading-Post|Oleg's Trading Post]], offered us free lodging and meals, as well as the [[Stag-Lord-Bandits\|Stag Lord's Bandit]]' gear. He declared his trading post could serve as our home base. We placed [[Happs-Bydon|Happs]] inside a deep hole in the ground and asked [[Oleg-Leveton|Oleg]] to provide him with just enough food to subsist.
 
 We purchased a simple map from [[Oleg-Leveton|Oleg]] for one gold piece. [[Oleg-Leveton|Oleg]] also mentioned that his trading post could supply most items that are easily available from [[Restov]], but that he'd need time and money to fullfil more complex requests, and had significant difficulty acquiring rare items.
  

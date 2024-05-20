@@ -15,3 +15,5 @@ Jamadi Aldori formally extends a mission for Maeger Varn in the [[The-expedition
 \~~~ Not necessarily antagonistic, but sees no reason to be anything beyond polite either to commoners, so permanently indifferent.   
 \+ Saved [[Aldori-Manor|Aldori Manor]] during the [[Attack-on-Lady-Jamandi-Aldoris-Manor|Attack on Lady Jamandi Aldori's Manor]]
 \+ Joined in on the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]
+
+![[Portrait_MaegarVarn.webp|300]]

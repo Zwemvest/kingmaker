@@ -19,3 +19,5 @@ She was captured in battle with [[Harrim]] and [[Amiri]] by a [[Giants#Frost Gia
 \~ [[Leonardo]]: did not engage on awkward flirting during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
 \+ [[Leonardo]]: knows [[Leonardo]] from the old days in the [[Brevoy]] nobility 
 \- Let a Frost Giant go
+
+![[Portrait_Valerie.webp|300]]

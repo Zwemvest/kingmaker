@@ -19,3 +19,5 @@ He has hired [[Kairos]] in the past, and is paying her to accompany his son in t
 \+++ [[Djames]]: A loyal friend, a close lover, and in all ways a trustee
 \+[[Kairos]]: has worked for the family in the past
 \+ Sent us to the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]] to join the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]
+
+![[Portrait_LanderLebeda.webp|300]]

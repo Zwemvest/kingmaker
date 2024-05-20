@@ -12,14 +12,14 @@ Ogres are social creatures only in the most debased sense. They gather together 
 ## [[Session-0#25 Calistril 4710|25 Calistril 4710]]
 An ogre was present during the [[Attack-on-Lady-Jamandi-Aldoris-Manor|Attack on Lady Jamandi Aldori's Manor]], being brought by the [[Black-Tears|Black Tears]]. The ogre had cornered [[Linzi]], while [[Linzi]] herself had blinded the ogre. It was slain by the party. 
 
-|**Feature**|**Description**|
-|---|---|
-|**Type**|Humanoid|
-|**Risk**|High threat due to their immense physical strength and aggressive nature|
-|**Habitat**|Commonly found in mountainous regions, forests, and caves; sometimes seen in abandoned ruins or remote villages|
-|**Behavior**|Brutal and savage; often form small tribes or bands, raiding nearby settlements for food and valuables|
-|**Perception**|Moderately keen perception, useful for detecting intruders or prey|
-|**Stealth**|Generally not stealthy due to their large size and lack of subtlety|
-|**Speed**|Moderate speed, but their long strides allow them to cover ground quickly|
-|**Attacks**|Known for their immense physical strength; often use crude weapons such as clubs, axes, and thrown rocks|
-|**Defenses**|Possess thick, tough skin that provides natural resistance to damage; can endure significant punishment|
+| **Feature**    | **Description**                                                                                                 |
+| -------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Type**       | Giant                                                                                                           |
+| **Risk**       | High threat due to their immense physical strength and aggressive nature                                        |
+| **Habitat**    | Commonly found in mountainous regions, forests, and caves; sometimes seen in abandoned ruins or remote villages |
+| **Behavior**   | Brutal and savage; often form small tribes or bands, raiding nearby settlements for food and valuables          |
+| **Perception** | Moderately keen perception, useful for detecting intruders or prey                                              |
+| **Stealth**    | Generally not stealthy due to their large size and lack of subtlety                                             |
+| **Speed**      | Moderate speed, but their long strides allow them to cover ground quickly                                       |
+| **Attacks**    | Known for their immense physical strength; often use crude weapons such as clubs, axes, and thrown rocks        |
+| **Defenses**   | Possess thick, tough skin that provides natural resistance to damage; can endure significant punishment         |

@@ -12,3 +12,5 @@ We sought out and captured Kressle on [[Session-3#2 Pharast 4710|2 Pharast 4710]
 \- Is a [[Bandits|bandit]], unwilling to work with pesky adventurers
 \- Captured [[Happs-Bydon|Happs Bydon]]
 \- Captured me and killed some of my bandits 
+
+![[Portrait_Kressle.jpg|300]]

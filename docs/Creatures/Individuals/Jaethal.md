@@ -15,3 +15,5 @@ During the [[Attack-on-Lady-Jamandi-Aldoris-Manor|Attack on Lady Jamandi Aldori'
 ### Likely party attitude:
 \- Wasn't interested in pleasantries during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
 \+ Rescued from [[Black-Tears|Black Tears]] attackers
+
+![[Portrait_Jaethal.webp|300]]

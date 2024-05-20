@@ -30,7 +30,7 @@ The second and third were in the dueling halls of [[Aldori-Manor|Aldori Manor]].
 
 | **Feature**    | **Description**                                                                                          |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
-| **Type**       | Humanoid                                                                                                 |
+| **Type**       | Giant Humanoids                                                                                          |
 | **Risk**       | Typically poses a high threat due to their size and strength                                             |
 | **Habitat**    | Often found in mountainous regions, caves, and remote wilderness areas                                   |
 | **Behavior**   | Usually social within their own kind, often living in tribes or clans; can be territorial and aggressive |

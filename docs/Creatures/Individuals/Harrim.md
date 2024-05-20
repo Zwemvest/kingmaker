@@ -17,3 +17,5 @@ He was captured in battle with [[Amiri]] and [[Valerie]] by a [[Giants#Frost Gia
 \+ [[Djames]]: Enjoyed the tall tales during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
 \+ Rescued from a Frost Gaint
 \~ Let a Frost Giant go
+
+![[Portrait_Harrim.webp|300]]

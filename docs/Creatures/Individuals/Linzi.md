@@ -19,3 +19,5 @@ Linzi would later be captured by a [[Giants#Frost Giants|Frost Giant]], but Linz
 \++ [[Djames]]: Enjoyed his tall tales 
 \++ [[Lizzy-the-Leshby|Lizzy]]: Enjoyed her presence during the [[Grand-Banquet-at-Aldori-Manor|Grand Banquet]]
 \++ Rescued from an [[ogre]]
+
+![[Portrait_Linzi.webp|300]]

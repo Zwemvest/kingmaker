@@ -4,29 +4,9 @@ aliases:
 ---
 <font style="color:orangered">This page only tracks flavor items we've picked up along the way. It is not a substitute for personal inventory tracking.</font> 
 ## Party
-- Every party member owns a Riding Horse
+- We ordered a riding horse for every member of the party. [[Lizzy-the-Leshby|Lizzy]] asked for a messenger raven for [[Djames]].
 ## Party Cash
-- 162 gold, 184 silver
-### Party inventory
-- Bristles, hides, bones from 2 boars
-- Meat for 200 meals
-- 4 daggers 
-- 4 leather armor
-- 1 studded leather armor
-- 2 hatchets
-- 4 short bows
-- 67 bolts
-- 5 silver stag lord amulets (worth 3 gp each)
-- 8 days of rations
-- lesser healing potion
-- a pair of silver earrings worth 15 gp
-- a wooden music box worth 8 gp
-- three crates of furs and pelts worth 5 gp per crate
-- 8 bottles of herbal liquor, each worth 2 gp.
-- mundane supplies, like food, firewood, and tents
-- a load of liquor
-- 1 lesser thunderstone
-
+- 192 gold, 197 silver
 ### [Kairos](../Creatures/Party-Members/Kairos.md)
 - 4 Minor Healing Potion
 - 1 Lesser Healing Potion
@@ -44,7 +24,6 @@ aliases:
 - Tracker's Goggles
 - a blood-smeared coyote cloak
 ### [[Djames]]
-- Messenger Raven
 - 2 Minor Healing Potion 
 - 2 Lesser Healing Potion 
 - Barkskin
@@ -58,4 +37,25 @@ aliases:
 - +1 Weapon Potency Rune
 - Jolt Coil Spellheart
 
-Pack Animal (Donkey, 18 bulk)
+### [[Rucio]] (Pack Animal, 18 bulk)
+- Bristles, hides, bones from 2 boars
+- Smoked meat, enough for 200 meals
+- 67 bolts
+- 4 silver stag lord amulets
+- 8 days of rations
+- lesser healing potion
+- 8 bottles of herbal liquor, each worth 2 gp.
+- mundane supplies, like food, firewood, and tents
+- a load of liquor
+- 1 lesser thunderstone
+
+## Recipes known
+We know the following recipes: 
+- Hearty Meal
+- Succulunt Sausages
+- Jeweled Rice 
+- Fish-on-a-stick 
+- Shephards Pie
+- Haggis 	
+- Rice and nut pudding 
+- Broiled Tuskwater Lake Oysters 

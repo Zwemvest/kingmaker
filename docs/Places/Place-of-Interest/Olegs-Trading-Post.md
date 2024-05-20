@@ -19,6 +19,6 @@ The trading post is an old abandoned border fort at the southern edge of [[Rostl
 ## [[Session-1#28 Calistril 4710|28 Calistril 4710]]
 The Trading Post was the first destination on the party's [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]. [[Jamandi-Aldori|Lady Jamandi Aldori]] told the party that the trading post had been recently harassed by [[bandits]], and that the party should function as an early relief effort. 
 
-[[Oleg-Leveton|Oleg]] and [[Svetlana-Leveton|Svetlana]] explained that [[bandits]] harassed the post at the earliest hour of dawn, at the beginning of every month. The [[bandits]] argued that they were mere "collecting tax"
+[[Oleg-Leveton|Oleg]] and [[Svetlana-Leveton|Svetlana]] explained that [[Stag-Lord-Bandits\|Stag Lord's Bandits]] harassed the post at the earliest hour of dawn, at the beginning of every month. The [[bandits]] argued that they were mere "collecting tax".
 ## [[Session-1#1 Pharast 4710|1 Pharast 4710]]
-The party set up traps to fend off the [[bandits]] during the [[Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]]. The plan was successful, and three of the attackers died. A fourth attacker, [[Happs-Bydon|Happs Bydon]], was captured by the party and interrogated. 
+The party set up traps to fend off the [[Stag-Lord-Bandits\|Stag Lord's Bandits]]during the [[Stag-Lord-Bandit-attack-on-Olegs-Trading-Post|Bandit attack on Oleg's Trading Post]]. The plan was successful, and three of the attackers died. A fourth attacker, [[Happs-Bydon|Happs Bydon]], was captured by the party and interrogated. 

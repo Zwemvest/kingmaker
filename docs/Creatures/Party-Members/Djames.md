@@ -19,4 +19,4 @@ They have now joined [[Kairos]], [[Djames]] for the expedition to the [[Broken-L
 
 Djames sometimes uses the alter-ego "Fred van der Meer", a wealthy wine merchant
 
-Djames has a horse and a messenging raven, [[Governor]]. 
+Djames has a horse, [[Djames-Horse]], and a messenging raven, [[Governor]]. 
