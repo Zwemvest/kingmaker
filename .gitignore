@@ -10,4 +10,4 @@
 .obsidian/plugins/copilot
 .obsidian/plugins/obsidian-textgenerator-plugin
 smart-chats/*.md
-docs/files/ignore
+docs/files
