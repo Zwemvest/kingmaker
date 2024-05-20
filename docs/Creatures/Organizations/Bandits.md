@@ -17,3 +17,5 @@ Commoners are a hardscrabble lot, so for profit, bandits target wealthy outsider
 For a charismatic few, banditry is a path to legitimacy. Bandit gangs past a certain size gain their own gravity; highway robbery becomes usurpation at a surprisingly low threshold in the [[River-Kingdoms|River Kingdoms]]. More than once, a bandit leader has ended up taking over a keep that he only meant to plunder at the outset.
 
 Yet the [[River-Kingdoms|River Kingdoms]] are far from lawless; it’s just that the laws they adhere to appear lawless in practice. The Six [[River-Freedoms|River Freedoms]] receive a lot of lip service, but the primary law of the [[River-Kingdoms|River Kingdoms]] is that power rules. The members of the [[Outlaw-Council|Outlaw Council]] would be quick to inform would-be philosophers that all nations follow this rule; the [[River-Kingdoms|River Kingdoms]] just aren’t shy about admitting it.
+
+The most notorious bandits in the Stolen Lands are those under the control of the [[Stag-Lord|Stag Lord]], or the [[Stag-Lord-Bandits|Stag Lord's Bandits]]

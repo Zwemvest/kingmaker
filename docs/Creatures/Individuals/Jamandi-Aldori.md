@@ -29,3 +29,5 @@ While Lady Jamandi confronted the Frost [[Giants]], the party focused their effo
 \+ Accepted the call to arms to go on the [[The-expedition-for-the-Stolen-Lands|Expedition for the Stolen Lands]]
 \++ Saved the manor during the [[Attack-on-Lady-Jamandi-Aldoris-Manor|Attack on Lady Jamandi Aldori's Manor]] 
 \+ Slew [[Volodmyra]]
+
+![[Jamandi_Aldori.jpg|300]] 

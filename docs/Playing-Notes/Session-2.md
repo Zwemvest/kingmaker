@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 ## 1 Pharast 4710
-[[Leonardo]] continued to interrogate [[Happs-Bydon|Happs Bydon]], pressing him for the whereabouts of his [[Bandits|bandit]] friends. Under pressure, [[Happs-Bydon|Happs]] revealed that they were located near [[Tuskwater|Tuskwater Lake]] and at the edge of the [[Greenbelt]], specifically at the [[Thorn-River-Camp|Thorn River Camp]]. Meanwhile, [[Lizzy-the-Leshby|Lizzy]] took a less friendly approach, trying to extract information by shoving branches under his fingernails.
+[[Leonardo]] continued to interrogate [[Happs-Bydon|Happs Bydon]], pressing him for the whereabouts of his [[Bandits|bandit]] friends. Under pressure, [[Happs-Bydon|Happs]] revealed that they were located near [[Tuskwater|Tuskwater Lake]] and at the edge of the [[Greenbelt]], specifically at the [[Stag-Lords-Fort|Thorn River Camp]]. Meanwhile, [[Lizzy-the-Leshby|Lizzy]] took a less friendly approach, trying to extract information by shoving branches under his fingernails.
 
 [[Oleg-Leveton|Oleg]], the owner of [[Olegs-Trading-Post|Oleg's Trading Post]], offered us free lodging and meals, as well as the [[bandits]]' gear. He declared his trading post could serve as our home base. We placed [[Happs-Bydon|Happs]] inside a deep hole in the ground and asked [[Oleg-Leveton|Oleg]] to provide him with just enough food to subsist.
 
