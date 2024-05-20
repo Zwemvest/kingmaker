@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 # Thornkeep
-The small town of Thornkeep is located within the [[Echo-Wood|Echo Wood]] of the northwestern [[River-Kingdoms|River Kingdoms]], about 10 miles east of the [[West-Sellen-River|West Sellen River]] and 100 miles northwest of [[Daggermark-Realm|Daggermark]] at the junction of the [[Mosswater]], Dagger, and Forest roads. Its reputation as a rowdy and dangerous settlement draws unscrupulous adventurers, [[bandits]], and entrepreneurs for many types of illicit trade.
+The small town of Thornkeep is located within the [[Echo-Wood|Echo Wood]] of the northwestern [[River-Kingdoms|River Kingdoms]], about 10 miles east of the [[West-Sellen-River|West Sellen River]] and 100 miles northwest of [[Daggermark-Realm|Daggermark]] at the junction of the [[Mosswater]], Dagger, and Forest roads. Its reputation as a rowdy and dangerous settlement draws unscrupulous adventurers, [[bandits]], and entrepreneurs for many types of illicit trade. 
 
 The village of Thornkeep was the largest settlement in the previous [[River-Kingdoms|River Kingdom]] of [[Mosswater]] when that town fell to merrow. It claims the former territory, but faces competition from the [[Hellknights|Hellknight]] settlement of Fort Inevitable, which patrols the [[River-Road|Crusader Road]].  
 

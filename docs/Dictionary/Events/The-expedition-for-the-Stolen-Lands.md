@@ -12,4 +12,4 @@ The [[Stolen-Lands|Stolen Lands]], located within the [[River-Kingdoms|River Kin
 
 Among the guests where [[Amiri]], [[Harrim]], [[Valerie]], [[Linzi]], [[Jaethal]], the [[Iron-Wraiths|Iron Wraiths]],  [[Maegar-Varn|Maegar Varn]] and [[Hannis-Drelev|Hannis Drelev]]. 
 
-Our own [[Party|expedition group]] consisted of [[Lizzy-the-Leshby|Lizzy]] and [[Gomi]], [[Djames]], [[Leonardo|Leonardo]], and [[Kairos]] and [[Missy]].
+Our own [[Party|expedition group]] consisted of [[Lizzy-the-Leshby|Lizzy]] and [[Gomi]], [[Djames]], [[Leonardo|Leonardo]], and [[Kairos]] and [[Clowy]].

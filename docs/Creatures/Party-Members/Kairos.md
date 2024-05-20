@@ -21,9 +21,6 @@ When months later [[Leonardo|Leonardo]] was invited to join the expedition to th
 - Kairos vaguely knows [[Djames]], as [[Leonardo|Leonardo]]'s parents have hired [[Djames]] for adamantine to help fix up [[Leonardo|Leonardo]]
 - Kairos has no ties to [[Lizzy-the-Leshby|Lizzy]], and only met [[Lizzy-the-Leshby|Lizzy]] at the first meeting for the expedition to the [[Stolen-Lands|Stolen Lands]]
 
-
-
-
 Kairos lost parts of her history and memories in Uringen Unstuck and has ever since wandered the River Kingdoms. Before losing her history, she was a simple smith, but Kairos remembers little from her time as a smith, even though crafting still comes natural to her as a talent. She is fairly confused by her memory, as she remembers a lot of historical events she wasn't present for, never happened, are yet to happen or from a future that will never happen. 
 
 Kairos now believes she is destined for greatness, a heroic saviour of the world. For Kairos, this fate is more cruel than heroic - She thinks she's part of the dragon-slayers, leaders of the rebellion, and those arrogant enough to seek out power.
@@ -33,3 +30,8 @@ Kairos will act as follows;
 - Be a guardian or protector, even when there's nothing to be guarded or protected
 - Present a perfect persona to the world. 
 - Declare someone or something fundamentally good or irredeemably evil. 
+
+
+Related:
+- [[Clowy|Missy]] is Kairos' black cat
+- [[Tempo]] is Kairos' horse

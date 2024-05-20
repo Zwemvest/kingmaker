@@ -24,7 +24,7 @@ After the battle, [[Lizzy-the-Leshby|Lizzy]] tended to [[Leonardo]]'s wounds whi
 
 `+1 bonus to saving throws from Lizzy's cooking`
 
-[[Gomi]] took the first watch while [[Lizzy-the-Leshby|Lizzy]] relaxed. [[Kairos]] used Light and Time Sense to make the camp a little bit homelier. We spent some time maintaining [[Kairos]]'s clockwork and [[Leonardo]]'s android body, and [[Kairos]] also spent time with [[Missy]].
+[[Gomi]] took the first watch while [[Lizzy-the-Leshby|Lizzy]] relaxed. [[Kairos]] used Light and Time Sense to make the camp a little bit homelier. We spent some time maintaining [[Kairos]]'s clockwork and [[Leonardo]]'s android body, and [[Kairos]] also spent time with [[Clowy]].
 
 In the middle of the night, [[Gomi]] flew over us to warn of two [[boars]] approaching our camp. The first [[Boars|boar]] charged at [[Kairos]]'s tent after [[Lizzy-the-Leshby|Lizzy]] attacked it, then fled. [[Kairos]] responded with a Dimensional Assault, tumbling through space to strike back. [[Leonardo]] engaged the [[Boars|boar]] near his tent.
 

@@ -5,7 +5,7 @@ aliases: []
 ---
 # Party
 [[Kairos]]
-- [[Missy]]
+- [[Clowy]]
 [[Djames]]
 [[Leonardo|Leonardo]]
 [[Lizzy-the-Leshby|Lizzy]]

@@ -16,3 +16,7 @@ Djames is a former official from a major city [[Galt]]. A major fire broke out a
 They have now joined [[Kairos]], [[Djames]] for the expedition to the [[Broken-Lands|Broken Lands]]
 
 [[Kairos]] has heard rumors that Djames stole all the money from the fire brigade in [[Galt]].
+
+Djames sometimes uses the alter-ego "Fred van der Meer", a wealthy wine merchant
+
+Djames has a horse and a messenging raven, [[Governor]]. 

@@ -17,9 +17,9 @@ Travels (light-blue line)
 | Date     | [24 Calistril 4710](Session-0.md#24%20Calistril%204710) - [[Session-0#25 Calistril 4710\|25 Calistril 4710]]                                                                                                             |
 | Events   | [[Grand-Banquet-at-Aldori-Manor\|Grand Banquet]], Start of the [[The-expedition-for-the-Stolen-Lands\|Expedition for the Stolen Lands]], [[Attack-on-Lady-Jamandi-Aldoris-Manor\|Attack on Lady Jamandi Aldori's Manor]] |
 
-| Location | Travelling between [[Aldori-Manor\|Aldori Manor]] and [[Olegs-Trading-Post\|Olegs Trading Post]]                                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Date     | [[Session-0#25 Calistril 4710\|25 Calistril 4710]] - [[Session-1#28 Calistril 4710\|28 Calistril 4710]]                                                                                                                                                       |
+| Location | Travelling between [[Aldori-Manor\|Aldori Manor]] and [[Olegs-Trading-Post\|Olegs Trading Post]]        |
+| -------- | ------------------------------------------------------------------------------------------------------- |
+| Date     | [[Session-0#25 Calistril 4710\|25 Calistril 4710]] - [[Session-1#28 Calistril 4710\|28 Calistril 4710]] |
 
 | Location | [[Stolen-Lands\|Stolen Lands]], [[Outskirts]], [[Olegs-Trading-Post\|Oleg's Trading Post]]                                                                                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

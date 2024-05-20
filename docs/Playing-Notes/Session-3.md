@@ -4,29 +4,47 @@ tags:
 aliases:
 ---
 ## 2 Pharast 4710
-We started the day with our morning preperations. The temperature is average, and there's no real weather effects to detect. 
+Our day began with the usual morning preparations. [[Djames]] mentioned that back at [[Olegs-Trading-Post|Oleg's Trading Post]], he had sent letters to the [[Iron-Wraiths|Iron Wraiths]], [[Hannis-Drelev|Hannis Drelev]], and [[Maegar-Varn|Maegar Varn]] to inquire about their expeditions. 
 
-Djames mentioned that he had sent a letter to the Iron Wraiths, Hannis Drelev, en Maegar Varn to ask how their expeditions were going. 
+[[Lizzy-the-Leshby|Lizzy]] used her Predict Weather spell; the weather was mild with no significant effects. She and [[Djames]] set out to track the herd of [[boars]] that had attacked us during the night, leaving signals for [[Leonardo]] and [[Kairos]] to follow later. The pair had no trouble tracking the herd and also discovered [[human]] tracks leading deeper into the woods. [[Djames]] kept up an encouraging performance to boost [[Lizzy-the-Leshby|Lizzy]]'s spirits, and she continued tracking the [[Human|humans]].
 
-Lizzy used her Predict Weather. She and Djames also tried to track the rest of the herd of boars that tried to attack us during the night, leaving signals for Leonardo and Kairos to track later.  They had no trouble tracking the herd, but also found human trails that lead deeper into the woods. Djames keeps up his uplifting performance to encourage Lizzy into the track, and Lizzy keeps tracking the humans. 
+[[Lizzy-the-Leshby|Lizzy]] deduced that the [[human]] tracks were likely from the [[Bandits|bandit]] camp of [[Kressle]], one of the lackeys of the Stag Lord and the boss of [[Happs-Bydon|Happs]]. Meanwhile, [[Leonardo]] and [[Kairos]] prepared the [[Boars|boar]] meat by slicing and smoking it with prestidigitation. After about two hours of preparation, we packed up the camp and easily found the signals left by [[Lizzy-the-Leshby|Lizzy]] and [[Djames]].
 
-Lizzy deduced the human tracks were probably from the bandit camp of Krezzle, who Habbs told us about (Krezzle was hiding somewhere around this forest). 
+While waiting for [[Kairos]] and [[Leonardo]], [[Lizzy-the-Leshby|Lizzy]] attempted to locate the [[Bandits|bandit]] camp, hiding while instructing [[Gomi]] to spy on the [[bandits]]. [[Gomi]] observed several [[bandits]] chopping wood, conversing, and occasionally scanning the area. There was a lookout higher up on a platform, where he had a good overview of the area. The [[bandits]] mentioned "little pests" stealing shipments intended for the Stag Lord.
 
-In the meantime, Leonardo and Kairos prepare the meat by slicing it and smoking it with prestidigitation. We pack up the camp after about 2 hours of prepping the meat, then have no problem finding the sings of Lizzy and tracking Lizzy and Djames. 
+We devised a plan to attack the camp from multiple directions. [[Kairos]] would target a [[Bandits|bandit]] on a higher platform, [[Lizzy-the-Leshby|Lizzy]] would circle around to cast Sleep, and [[Leonardo]] would hide nearby. [[Djames]] would approach directly and attempt to distract them with diplomacy.
 
-Djames waits for Kairos and Leonardo to arrive, while Lizzy tries to find the camp, trying to hide away from it while asking Gomi to spy on the bandits here. Gomi sees multiple bandits, chopping wood, talking to one another, sometimes looking around the camp. The bandits mention "little shits", stealing from shipments that are supposed to go to the Stag Lord. 
+[[Djames]] requested a friendly audience, but the [[bandits]] were initially hostile. The situation shifted when [[Djames]] lied about being a wine trader named "[[Djames|Fred van der Meer]]." The [[bandits]]' demeanor changed, and they invited [[Djames]] to join them and discuss wines.
 
-Our plan is to attack the camp from multiple directions. Kairos will take a bandit on a higher platform, Lizzy will go around the back and cast Sleep, and Leonardo will hide nearby. Meanwhile, Djames will approach them head-on and try to distract them with diplomacy. 
+Seizing the moment, [[Lizzy-the-Leshby|Lizzy]] cast Sleep, causing the leader [[Kressle]] and one of her lackeys to fall asleep. Another lackey bolted, and [[Kairos]] climbed up to eliminate the lookout. As the fleeing [[Bandits|bandit]] triggered a muffled alarm further up the river, [[Djames]] maintained his ruse. [[Kairos]] swiftly killed the lookout with a Spellstrike, while [[Leonardo]] intercepted and killed the fleeing [[Bandits|bandit]] with an Athletic Rush.
 
-Djames asks for a friendly face, but the bandits are in no way friendly. Everything changes when Djames tries to lie about being a wine trader, named "Fred van der Meer". The bandits immediately turn more friendly and invite Djames to sit with them and talk wines with him. 
+[[Lizzy-the-Leshby|Lizzy]] advanced towards the source of the alarm, running openly. [[Djames]], pretending to be one of the [[bandits]], yelled for help. [[Kairos]] descended, recharged her spellstrike, and moved close to the sleeping [[bandits]]. [[Leonardo]]'s Divine Lance nearly killed one [[Bandits|bandit]], and [[Djames]] used a Daze spell to knock him out. 
 
-We immediately set our plan into motion. Lizzy casts Sleep, and the big bandit Kressle immediately falls asleep, together with one of her lackeys. The other lackey legs it, while Kairos climbs up to take out the lookout. As soon as the bandit legs it, a muffled alarm sounds from further up the river. 
+[[Lizzy-the-Leshby|Lizzy]] and [[Djames]] capture the final lookout on the final [[Bandits|bandit]]. They try to take the captured [[Bandits|bandit]] down from the platform - [[Djames]] casts Guidance while also using his courageous anthem, but it doesn't seem to particularly inspire [[Lizzy-the-Leshby|Lizzy]]. Despite that, they take down the [[Bandits|bandit]] safely.
 
-Djames waits a bit. Kressle sleeps, while Kairos kills the lookout using a Spellstrike. The bandit that is legging it tries to flee from the map, while Leonardo uses Athletic Rush to intercept the bandit and then strike it. Leonardo kills the fleeing bandit. Lizzy moves closer to where the alarm sounded from, not hiding, instead running as far forward as she can. 
+[[Kressle]] does wake up from being tied up, but to no avail. While she struggles, [[Kairos]] whips her and asks her to be good. [[Kairos]] asks her how loyal she is to the Stag Lord. [[Kressle]] responds that she's unbelievably loyal to Stag Lord. [[Lizzy-the-Leshby|Lizzy]] immediately threatens to make branches grow inside her face to intimidate [[Kressle]]. Unsurprisingly, [[Kressle]] is intimidated. [[Kressle]] tells us that the Stag Lord is hiding in the [[Tuskwater|Tuskwater Lake]] encampment, and is much stronger than we are.
 
-Djames runs forward to yell for help, acting as if he's part of the bandits. Kairos climbs down, recharges her spellstrike, then moves close to the sleeping bandits. Leonardo uses his Divine Lance, nearly killing the bandit, while Djames uses a Daze spell to knock it out. We capture two bandits and Kressle alive.
+The other [[bandits]] are a little bit more open to interrogation. We ask them the following questions:
 
-We find;
+_Who’s your boss?_
+“Our boss is a monster of a man. Calls himself the Stag Lord. He’s a deadeye with the bow, and I saw him crush a prisoner’s hand to mush in one fist. Come to think of it, I’ve never seen him without his creepy stag helmet on—some say he ain’t got no face under it, but not me—I think that creepy helm is his face!”
+    
+_How many [[bandits]] work for your boss?_
+ “It’s hard keeping track of who’s working for the boss, so we use a master phrase as a sort of password to get into the fort on the northeast shore of the [[Tuskwater|Tuskwater Lake]].” What’s the password? “Unless it’s been changed recently, the current phrase is, ‘By the bloody bones of Saint Gilmorg, who wants to know?’ And no, I have no idea who ‘Saint Gilmorg’ is.”
+
+_What’s with all the booze? What is the Stag Lord like?_
+“The Stag Lord is a bloody drunk. All that booze under the platform is for him. He’s half of what he used to be, and he ain’t never been right in the head. I hear he punched a horse for spittin’ in the yard a few weeks ago. Personally, I wouldn’t care if he dropped dead tomorrow, but even drunk out of his mind, he’s still got a fair amount of fight to him.”
+
+_Who’s the Stag Lord’s boss? Are there any other bosses?_
+“The Stag Lord keeps a strange old man locked up in the basement. I suspect the old guy might actually be running the show, using the Stag Lord as a puppet, you know. I got a look into the old guy’s eyes once, and it terrified me. He ain’t someone I’d want to cross.”
+
+_Where's [[Svetlana-Leveton|Svetlana]]'s Ring?_
+“A couple of bags of loot were stolen a while back by a group of filthy gremlins—the annoying little pests live under the old sycamore tree to the east. We were lucky that what they snatched was mostly just copper and some cheap-looking trinkets, otherwise the Stag Lord would have our skins for sure! That ring we took from the trader woman was in there, though, I’m sure of it.”
+
+_Will you help us fight the Stag Lord?_
+The [[bandits]] fear the Stag Lord, and if this topic comes up, they blanch and shake their heads in fear.
+
+Finally, from the [[bandits]], we loot the following:
 - 4 daggers 
 - 4 leather armor
 - 1 studded leather armor
@@ -44,30 +62,24 @@ We find;
 - a load of liquor
 - 1 lesser thunderstone
 
-Lizzy and Djames capture the final lookout on the final bandit. They try to take the bandit down - Djames casts Guidance while also using his courageous anthem, but accidentally chews Lizzy out. Despite that, they take down the bandit safely.
-
-Kressle does wake up from being tied up, but to no avail. While she struggles, Kairos whips her and asks her to be good. Kairos asks her how loyal she is to the Stag Lord. Kressle responds that she's unbelievably loyal to Stag Lord. Lizzy immidiately threatens to make branches grow inside her face to intimidate Kressle. Unsurprisingly, Kressle is intimidated. Kressle tells us that the Stag Lord is hiding in the Tuskwater encampment. 
-
-Kairos fixed the chart so we can take back the bandits. Inside the chart are all components to make a spike snare. We also take all liquor inside the chart. It turns out the bandits kept all the local treasure inside of the chart. We also find a lesser thunderstone.
-
-We begin travelling back to Oleg's trade post with the chart, but Kairos quickly hears the feet of 2 spiders. We prepare for the attack; Djames reacts with a Courageous Anthem with a Lingerous Composition. 
+[[Kairos]] fixed the chart so we can take back the [[bandits]]. Inside the chart are all components to make a spike snare. We also take all liquor inside the chart. It turns out the [[bandits]] kept all the local treasure inside of the chart. We use the chart and Rucio to haul everything back to Oleg's Trading Post. Early on during our travels, we are ambushed by tree spiders. We prepare for the attack; [[Djames]] reacts with a Courageous Anthem with a Lingerous Composition. 
 
 `+1 on damage rolls, attack rolls, and against fear effects`
 
-Djames also uses a Command spell, but fails to influence any of the spiders. Leonardo draws his weapon, and the sword begins to glow as he casts Runic Weapon. Kairos walks to one of the spiders, draws her weapon, and attacks with a single strike. It's a powerful strike, but doesn't do a whole lot of damage. 
+As our encounter with the spiders began, [[Djames]] attempted to cast a Command spell, but it had no effect on the creatures. [[Leonardo]] swiftly drew his weapon, which began to glow as he cast Runic Weapon. Meanwhile, [[Kairos]] approached one of the spiders, drew her weapon, and delivered a quick reaching strike that, unfortunately, didn't do much damage.
 
-The spider that Kairos just attacked jumps down, attacks with a bite attack, then goes back into the tree. Lizzy casts Slashing Gust on both spiders. The first spider drops dead out of the tree. The second spider retaliates with a web attack. The spider appears to have some lingering issues from the Slashing Gust attack.
+The spider retaliated by leaping down to bite [[Kairos]] before retreating back into the tree. [[Lizzy-the-Leshby|Lizzy]] then cast Slashing Gust on both spiders, causing the first one to drop dead from the tree. The second spider, injured from the attack, retaliated with a web attack.
 
-Djames uses a Daze attack, then yells at the spider to demoralize it. The spider doesn't understand, but it knows it's demoralized as shit. With a Divine Lance attack, Djames finishes off the spider.
+[[Djames]] responded with a Daze spell and shouted at the spider to demoralize it. Although the spider didn't understand the words, it was thoroughly intimidated. [[Djames]] then finished it off with a Divine Lance attack.
 
-We try to harvest it for 2 special ingedients from the spider, and 2 vials of hunting spider venom
+After the battle, we harvested the spiders, obtaining two special ingredients and two vials of hunting spider venom.
 
 - 2 Special Ingredients
 - 2 Vials of Hunting Spider venom
 
-We travel back to Oleg. We arrive at the evening in 2 Pharast 4710. Oleg is satisfied with the prisoners we deliver, at least, under the assumption that guards from Restov will arrive soon to offload them from him. Happs is also still present. 
+We travel back to [[Oleg-Leveton|Oleg]]. We arrive at the evening in 2 Pharast 4710. [[Oleg-Leveton|Oleg]] is satisfied with the prisoners we deliver, at least, under the assumption that guards from [[Restov]] will arrive soon to offload them from him. Our prisoner [[Happs-Bydon|Happs]] is also still present. 
 
-- Lizzy buys 4 Riding Horses at Oleg's trading post (8gp each)
+- [[Lizzy-the-Leshby|Lizzy]] buys 4 Riding Horses at [[Oleg-Leveton|Oleg]]'s trading post. She also buys a messenger raven, as a gift to Djames. Oleg estimates the price at 50 gold. 
 - We buy the recipe for:
 	- Succulunt Sausages (3gp)
 	- Jeweled Rice (2gp)
@@ -75,34 +87,34 @@ We travel back to Oleg. We arrive at the evening in 2 Pharast 4710. Oleg is sati
 	- Shephards Pie (2gp)
 	- Haggis (1gp)
 	- Rice and nut pudding (2gp)
-	- Broiled Tuskwater Oysters (3gp)
+	- Broiled [[Tuskwater|Tuskwater Lake]] Oysters (3gp)
 
-We stay overnight at Oleg's. 
+We stay overnight at [[Oleg-Leveton|Oleg]]'s. 
 # 3 Pharast 4710
-We head back to the forest where we found Kressle. We arrive around noon.
+We head back to the forest where we found [[Kressle]]. We arrive around noon.
 
-Lizzy again tries to track the boars, and we find a raddish patch. Lizzy recalls that these are moonraddishes. Lizzy knows that moonraddishes are the favorite food of kobold warriors. Exactly as Lizzy says that, we spot several kobold warriors lying in the moonraddish patch.
+[[Lizzy-the-Leshby|Lizzy]] again tries to track the [[boars]], and we find a raddish patch. [[Lizzy-the-Leshby|Lizzy]] recalls that these are moonraddishes. [[Lizzy-the-Leshby|Lizzy]] knows that moonraddishes are the favorite food of kobold warriors. Exactly as [[Lizzy-the-Leshby|Lizzy]] says that, we spot several kobold warriors lying in the moonraddish patch.
 
-They scream at Leonardo that the raddishes belong to them, and that we are to leave. Leonardo yells back that we're open to trading. One of the kobolds refuses to bargain and throws dirt at us. 
+They scream at [[Leonardo]] that the raddishes belong to them, and that we are to leave. [[Leonardo]] yells back that we're open to trading. One of the kobolds refuses to bargain and throws dirt at us. 
 
-We interpret this as a call to initiate combat to scare them off. Djames begins his courageous anthem, inspiring all of us. He then throws a Daze on one of the more aggressive kobolds. 
+We interpret this as a call to initiate combat to scare them off. [[Djames]] begins his courageous anthem, inspiring all of us. He then throws a Daze on one of the more aggressive kobolds. 
 
-Lizzy uses Slashing Gust to attack 2 of the kobolds. One of the kobolds, the most aggressive one closest to us, dies from the attack. Leonardo moves in to cast an Electric Arc attack. Another one of the kobolds dies, a third kobold with a purple hat taking another fair brunt of the attack. 
+[[Lizzy-the-Leshby|Lizzy]] uses Slashing Gust to attack 2 of the kobolds. One of the kobolds, the most aggressive one closest to us, dies from the attack. [[Leonardo]] moves in to cast an Electric Arc attack. Another one of the kobolds dies, a third kobold with a purple hat taking another fair brunt of the attack. 
 
-Kairos tumbles through time and space to attack with her whip, for nonlethal damage. She knocks out a fourth goblin. The final fifth kobolds tries to chug multiple spears at Kairos, but doesn't hit. Lizzy walks forward, then throws a Needle Darts spell, but also doesn't succeed. 
+[[Kairos]] tumbles through time and space to attack with her whip, for nonlethal damage. She knocks out a fourth [[goblin]]. The final fifth kobolds tries to chug multiple spears at [[Kairos]], but doesn't hit. [[Lizzy-the-Leshby|Lizzy]] walks forward, then throws a Needle Darts spell, but also doesn't succeed. 
 
-Kairos switches to her bolas and throws them at him. Kairos then casts Shield. The kobold tries to attack back with a sling, and hits Kairos in the face. Djames ends the encounter by casting Daze again.
+[[Kairos]] switches to her bolas and throws them at him. [[Kairos]] then casts Shield. The kobold tries to attack back with a sling, and hits [[Kairos]] in the face. [[Djames]] ends the encounter by casting Daze again.
 
-Lizzy checks the 2 dead kobolds for loot. 
+[[Lizzy-the-Leshby|Lizzy]] checks the 2 dead kobolds for loot. 
 - 4 leather armor
 - 4 slings
 - 4 spears
 - 2 basic ingredients from moonraddishes 
-- Moonraddishes for Svetlana 
+- Moonraddishes for [[Svetlana-Leveton|Svetlana]] 
 
-We seek to make a camp. Lizzy finds a good camp. Djames tells an inspiring campfire story and organizes a watch. Lizzy tries to scavenge for ingredients, then cook. Lizzy makes Fish-on-a-stick.
+We seek to make a camp. [[Lizzy-the-Leshby|Lizzy]] finds a good camp. [[Djames]] tells an inspiring campfire story and organizes a watch. [[Lizzy-the-Leshby|Lizzy]] tries to scavenge for ingredients, then cook. [[Lizzy-the-Leshby|Lizzy]] makes Fish-on-a-stick.
 
 `+1 status bonus to Perception`
 `For the next 24 hours, the eater can go for up to 17 hours without sleep before becoming fatigued.`
 
-TODO: Kairos & Leonardo can make a skill check to craft something. 
+TODO: [[Kairos]] & [[Leonardo]] can make a skill check to craft something. 
