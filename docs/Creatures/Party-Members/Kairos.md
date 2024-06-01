@@ -6,12 +6,15 @@ aliases:
 ---
 # Kairos
 Ancient-[[Elf]] Magus
-###  Backstory
+
+### TLDR
+Ancient Elf. Has travelled the land for a long time, so long that even she can't remember. Fascinated by everything Arcana. Analytical, strategic thinker, takes on a mentor role. Has trouble understanding the quick-changing customs of the faster-lived races. 
+### Backstory
 Kairos has travelled the Inner Sea region for at least the last 100 years, but likely longer. She's a scholar dedicated to understanding the weave of magic and time, and her studies have led her to ancient texts that allow her to navigate different currents of time. 
 
 Kairos is cautious and highly analytical, preferring to observe and assess situations before taking action. She avoids taking the spotlight, often working from the shadows or the background to gather information and devise strategies. This approach extends to her social interactions, where she carefully considers her words and actions.
 
-She's far more powerful than she seems, but that's also because she purposefully hides much of her knowledge of magic. She relies almost completely on a few simple spells to throw people off-guard, and maintains an anonymous persona so that knowledge of her fighting style doesn't become wide-spread. 
+She's a powerful mage, more powerful than she may seem at first glance, but also takes care to hide much of her knowledge of magic. She relies almost completely on a few simple spells to throw people off-guard, and maintains an anonymous persona so that knowledge of her fighting style doesn't become wide-spread. 
 
 Kairos knows a lot about clockwork and crafting, having learned the magic from the gnomes of Uringen. 
 ### Hook
