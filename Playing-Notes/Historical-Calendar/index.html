@@ -1,0 +1,7776 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Calendar/">
+      
+      
+        <link rel="next" href="../Inventory/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.26">
+    
+    
+      
+        <title>Historical Calendar - obsidian-mkdocs template</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#historical-calendar" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="obsidian-mkdocs template" class="md-header__button md-logo" aria-label="obsidian-mkdocs template" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            obsidian-mkdocs template
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Historical Calendar
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="obsidian-mkdocs template" class="md-nav__button md-logo" aria-label="obsidian-mkdocs template" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    obsidian-mkdocs template
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Obsidian Notes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Creatures
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Creatures
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Deities
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Deities
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Abadar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Abadar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Aroden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aroden
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Calistria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Calistria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Cayden-Cailean/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cayden Cailean
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Desna/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Desna
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Erastil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Erastil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Gorum/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gorum
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Gorzeh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gorzeh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Groetus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Groetus
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Gyronna/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gyronna
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Hanspur/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hanspur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Iomedae/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iomedae
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Lamashtu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lamashtu
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Milani/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Milani
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Norgorber/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Norgorber
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Pharasma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pharasma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Deities/Shelyn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shelyn
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Individuals
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Individuals
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Achille-Parsall/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Achille Parsall
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Amiri/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Amiri
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Aurelia-Ogden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aurelia Ogden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Castruccio-Irovetti/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Castruccio Irovetti
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Cesare-Cattanei/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cesare Cattanei
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Choral-Rogarvia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Choral Rogarvia
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Hannis-Drelev/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hannis Drelev
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Happs-Bydon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Happs Bydon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Harrim/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Harrim
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Ioseph-Sellemius/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ioseph Sellemius
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Ivenzi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ivenzi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Jaethal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jaethal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Jamandi-Aldori/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jamandi Aldori
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Kamdyn-Arnefax/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kamdyn Arnefax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Knavar-Mieren/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Knavar Mieren
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Kressle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kressle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Lander-Lebeda/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lander Lebeda
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Leoti/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Leoti
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Linzi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linzi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Maegar-Varn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maegar Varn
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Maldar-Tymon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maldar Tymon
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Marnius-Cherlorne/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Marnius Charlorne
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Martro-Livondar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Martro Livondar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Morgan-the-White/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Morgan the White
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Naerel-Twice-Born/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Naerel Twice-Born
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Noleski-Surtova/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Noleski Surtova
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Oleg-Leveton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oleg Leveton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Raston-Selline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Raston Selline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Razmir/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Razmir
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Sirian-Aldori/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sirian Aldori
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Stag-Lord/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stag Lord
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Svetlana-Leveton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Svetlana Leveton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Tartuccio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tartuccio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Ullorth-Ungin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ullorth Ungin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Urdul-Bazzak/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Urdul Bazzak
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Valerie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Valerie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Volodmyra/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Volodmyra
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Individuals/Worg-Queen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Worg Queen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Monsters
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Monsters
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Boars/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Boars
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Brush-Thylacines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brush Thylacines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Fey/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fey
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Giants/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Giants
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Gorga/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gorga
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Kobolds/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kobolds
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Monsters/Ogre/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ogre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Organizations
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Organizations
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Academy-of-Grand-Arts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Academy of Grand Arts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Aldori-Houses/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aldori Houses
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Aldori-Swordlords/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aldori Swordlords
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Aspis-Consortium/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aspis Consortium
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Bandits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bandits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Black-Tears/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Black Tears
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Brevoy-Nobility/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brevoy nobility
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Daggermark-Assassins-Guild/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Daggermark Assassins' Guild
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Daggermark-Poisoners-Guild/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Daggermark Poisoners' Guild
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Eagle-Knights/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eagle Knights
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Firebrands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Firebrands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Forlorn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forlorn
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Hellknights/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hellknights
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Iron-Wraiths/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iron Wraiths
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Oakstewards/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oakstewards
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Pathfinder-Society/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Pathfinder Society
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Red-Mantis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Red Mantis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Stag-Lord-Bandits/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stag Lord Bandits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Tiger-Lords/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tiger Lords
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Touvette-Charities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Touvette Charities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_21" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_21" id="__nav_2_4_21_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Religions
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_21_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_21">
+            <span class="md-nav__icon md-icon"></span>
+            Religions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Organizations/Religions/Green-Faith/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Green Faith
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Party Members
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Party Members
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Clowy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clowy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Djames-Horse/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    --
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Djames/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Djames Sailor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Gomi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gomi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Governor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Governor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Kairos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kairos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Leonardo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Leonardo Lebeda
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Leonardos-Horse/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    --
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Lizzy-the-Leshby/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lizzy Leshby of the Deep Forest
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Lizzys-Horse/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    --
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Party/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Party
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Rucio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rucio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Creatures/Party-Members/Tempo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tempo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dictionary
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Dictionary
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Events
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Events
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Attack-on-Lady-Jamandi-Aldoris-Manor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Attack on Lady Jamandi Aldori's Manor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Capture-of-Kressle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capture of Kressle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Grand-Banquet-at-Aldori-Manor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grand Banquet at Aldori Manor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Liberation-of-the-Moon-Radish-Patch/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Liberation of the Moon Radish Patch
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Outlaw-Council/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Outlaw Council
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Stag-Lord-Bandit-attack-on-Olegs-Trading-Post/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stag Lord Bandit attack on Oleg's Trading Post
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/The-expedition-for-the-Stolen-Lands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Expedition for the Stolen Lands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Events/Wilding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wilding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Items
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Items
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Items/Meeting-for-the-Future/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meeting for the Future
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Items/Moon-Radish/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Moon Radish
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Races
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Races
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Dwarf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dwarf
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Elf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elf
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Gnome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gnome
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Goblin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Goblin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Half-elf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Half-elf
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Half-orc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Half-orc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Halfling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Halfling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Human/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Human
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Lizardfolk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lizardfolk
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Races/Orc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Orc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Terms
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Terms
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/1-First-River-Freedom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Say What You Will, I Live Free (First River Freedom)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/2-Second-River-Freedom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oathbreakers Die (Second River Freedom)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/3-Third-River-Freedom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Walk Any Road, Float Any River (Third River Freedom)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/4-Fourth-River-Freedom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Courts are for Kings (Fourth River Freedom)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/5-Fifth-River-Freedom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Slavery is an Abomination (Fifth River Freedom)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/6-Sixth-River-Freedom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    You Have What You Hold (Sixth River Freedom)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/Pirate-Pact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pirate Pact
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Freedoms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    River Freedoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Kingdoms-Diplomacy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Diplomacy in the River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Kingdoms-Economy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Economy in the River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Kingdoms-Government/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Government in the River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Kingdoms-History/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    History of the River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Kingdoms-Life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Life in the River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dictionary/Terms/River-Kingdoms-Summary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A Summary of the River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Places
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Places
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Features
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            Features
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/East-Sellen-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    East Sellen River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Echo-Wood/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Echo Wood
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Elderwoods/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elderwoods
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Emberbough-Forest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Emberbough Forest
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Embeth-Forest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Embeth Forest
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Goldleaf-Glade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Goldleaf Glade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Kallas-Lake/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kallas Lake
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Lake-Encarthan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lake Encarthan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Lake-of-Mists-and-Veils/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lake of Mists and Veils
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Loric-Fells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loric Fells
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Sellen-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sellen River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Shroudwood/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shroudwood
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Sprys-Heart/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spry’s Heart
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/The-Den/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Den
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Thinlands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thinlands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Tolemaida-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tolemaida River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/West-Sellen-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    West Sellen River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Wilewood/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wilewood
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Features/Yhalt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Yhalt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Nation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Andoran/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Andoran
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Brevoy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brevoy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Cheliax/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cheliax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Galt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Galt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Iobaria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iobaria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Issia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Issia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Kelesh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kelesh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Kyonin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kyonin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Lands-of-the-Linnorm-Kings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lands of the Linnorm Kings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Mendev/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mendev
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Numeria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Numeria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Razmiran/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Razmiran
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Realm-of-the-Mammoth-Lords/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Realm of the Mammoth Lords
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/River-Kingdoms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    River Kingdoms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Rostland/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rostland
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Sarkoris-Scar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sarkoris Scar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Taldor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Taldor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Tian-Xia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tian-Xia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Ustalav/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ustalav
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Nation/Varisia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Varisia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Place of Interest
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Place of Interest
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Aldori-Manor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aldori Manor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Bodies-Haunt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bodie’s Haunt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Emberbough-Cairn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Emberbough Cairn
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Embeth-Camps/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Embeth Camps
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Emerald-Spire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Emerald Spire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Fort-Liberthane/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fort Liberthane
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Fort-Tanveh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fort Tanveh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Hawks-Nest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hawk's Nest
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Nightmoss-Camp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nightmoss Camp
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Olegs-Trading-Post/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oleg's Trading Post
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/River-Road/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    River Road
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Seven-Arches/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seven Arches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/South-Rostland-Road/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    South Rostland Road
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/Stag-Lords-Fort/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stag Lord's Fort
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Place-of-Interest/The-Feasting-Hall-of-Cayden-Cailean/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Feasting Hall of Cayden Cailean
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Regions
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            Regions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Regions/Avistan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Avistan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Regions/Broken-Lands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Broken Lands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Regions/First-World/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First World
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Regions/Golarion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Golarion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Regions/Inner-Sea/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inner Sea
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    River Kingdoms
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            River Kingdoms
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Artume-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artume
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Cordelon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cordelon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Corvenn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Corvenn
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Daggermark-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Daggermark
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Gralton-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gralton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Hymbria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hymbria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Kingdom-of-Zog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kingdom of Zog
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Lambreth/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lambreth
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Mivon-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mivon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Nystra/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nystra
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Pitax-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pitax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Protectorate-of-the-Black-Marquis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protectorate of the Black Marquis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Sevenarches-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sevenarches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Stolen-Lands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stolen Lands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Touvette/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Touvette
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Tymon-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tymon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/River-Kingdoms/Uringen-Realm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Uringen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_6" id="__nav_4_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Settlements
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Settlements
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Artume-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artume
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Avendale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Avendale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Bacul-Gruii/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bacul Gruii
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Brunderton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brunderton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Daggermark-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Daggermark
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Deadbridge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deadbridge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Everbloom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everbloom
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Farhaven/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Farhaven
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Gralton-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gralton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Heibarr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heibarr
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Jovvox/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jovvox
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Leydis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Leydis
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Liberthane/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Liberthane
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Littletown/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Littletown
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Lockridge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lockridge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Maashinelle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maashinelle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Mimere/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mimere
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Mivon-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mivon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Mormouth/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mormouth
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Mosswater/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mosswater
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Nivaktas-Crossing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nivakata's Crossing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Novoboro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Novoboro
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Outsea/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Outsea
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Pitax-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pitax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Restov/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Restov
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Riverton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Riverton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Rookwarden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rookwarden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Saad/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Saad
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Sarain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sarain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Scrawny-Crossing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scrawny Crossing
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Seredain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seredain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Sevenarches-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sevenarches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Sezgin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sezgin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Solanas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Solanas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Thom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thom
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Thornkeep/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thornkeep
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Troxell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Troxell
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--dead"></span>
+  
+
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Tymon-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tymon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Uringen-City/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Uringen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Voluse/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Voluse
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Settlements/Wilkesmont/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wilkesmont
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_7" id="__nav_4_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Stolen Lands
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            Stolen Lands
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Branthlend-Mountains/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Branthlend Mountains
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Candlemere/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Candlemere
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Crooked-Falls/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crooked Falls
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Crooked-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crooked River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Dunsward/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dunsward
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Forest-of-Thousand-Voices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forest of Thousand Voices
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Glenebon-Uplands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Glenebon Uplands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Glenebon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Glenebon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Greenbelt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Greenbelt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Gudrin-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gudrin River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Hemlock-Island/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hemlock Island
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Hooktongue-Slough/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hooktongue Slough
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Kamelands/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kamelands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Kiravoy-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kiravoy River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Lake-Hooktongue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lake Hooktongue
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Lake-Rushlight/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lake Rushlight
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Lake-Silverstep/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lake Silverstep
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Little-Sellen-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Little Sellen River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Mount-Branthlend/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mount Branthlend
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Narlmarches/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Narlmarches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Nomen-Heights/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nomen Heights
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Outskirts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Outskirts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Shrike-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shrike River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Spinefields/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spinefields
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Thorn-River/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thorn River
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Tors-of-Levenies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tors of Levenies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Places/Stolen-Lands/Tuskwater/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tuskwater
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Playing Notes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Playing Notes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Adventure-summary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Adventure Summary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Calendar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Calendar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Historical Calendar
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Inventory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inventory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Map-Route/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Route
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Maps/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maps
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session-0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Session 0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Session 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Session 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Session 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_11" id="__nav_5_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Personal Notes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_11">
+            <span class="md-nav__icon md-icon"></span>
+            Personal Notes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Personal-Notes/Guides/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guides
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Personal-Notes/Other-wikis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Other wikis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Personal-Notes/Rotation-Cheatsheet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rotation Cheatsheet
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_12" id="__nav_5_12_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Useful Notes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_12">
+            <span class="md-nav__icon md-icon"></span>
+            Useful Notes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Useful-Notes/Combat-actions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Combat Actions Table
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="historical-calendar">Historical Calendar<a class="headerlink" href="#historical-calendar" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1575</td>
+<td>First appearance of <a href="../../Creatures/Monsters/Gorga/">gorgas</a> from the <a href="../../Places/Settlements/Sevenarches-City/">seven arches</a> in the <a href="../../Places/Features/Wilewood/">Wilewood</a>.</td>
+</tr>
+<tr>
+<td>2014</td>
+<td><a href="../../Places/Nation/Taldor/">Taldor</a>’s Fifth Army of Exploration explores and maps the area that will later become <a href="../../Places/River-Kingdoms/Tymon-Realm/">Tymon</a>.</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>The <a href="../../Places/Nation/River-Kingdoms/">River Kingdom</a> <a href="../../Places/River-Kingdoms/Tymon-Realm/">of Tymon</a> is officially established when <a href="../../Places/Nation/Taldor/">Taldan</a> gladiator <a href="Maldar-Tymon"> Maldar Tymon</a> is granted deed to the land.</td>
+</tr>
+<tr>
+<td>2057</td>
+<td>Valknar Gladiatorial College is founded in <a href="../../Places/Settlements/Tymon-City/">Tymon</a>.</td>
+</tr>
+<tr>
+<td>2690</td>
+<td><a href="../../Dictionary/Races/Elf/">Elves</a> attempt to return to <a href="../../Places/Settlements/Sevenarches-City/">Sevenarches</a>, but are rebuffed from the territory by the treant precursors of the [Oakstewards](Oakstewards).</td>
+</tr>
+<tr>
+<td>2692</td>
+<td>Founding of the <a href="../../Creatures/Organizations/Oakstewards/">Oakstewards</a> and the <a href="../../Places/River-Kingdoms/Sevenarches-Realm/">kingdom of Sevenarches</a>.</td>
+</tr>
+<tr>
+<td>2802</td>
+<td><a href="../../Places/Nation/Kyonin/">Kyonin</a> <a href="../../Dictionary/Races/Elf/">Elves</a> establish <a href="../../Places/River-Kingdoms/Hymbria/">Hymbria</a> as a base to launch a secret and ultimately unsuccessful bid to reclaim <a href="../../Places/River-Kingdoms/Sevenarches-Realm/">Sevenarches</a>.</td>
+</tr>
+<tr>
+<td>3756</td>
+<td>Theodric, priest of <a href="../../Creatures/Deities/Aroden/">Aroden</a>, founds trading post of <a href="../../Places/Settlements/Heibarr/">Heibarr</a>.</td>
+</tr>
+<tr>
+<td>3811</td>
+<td>The <a href="../../Creatures/Monsters/Fey/">Fey</a> of the <a href="../../Places/Features/Wilewood/">Wilewood</a> announce their first “wilding.” <a href="../../Creatures/Monsters/Fey/">Fey</a> of all sizes stream out of the forest and inhabit civilized <a href="../../Places/Settlements/Sevenarches-City/">Sevenarches</a> for 2 weeks. The <a href="../../Creatures/Organizations/Oakstewards/">Oakstewards</a> punish and repel all <a href="../../Creatures/Monsters/Fey/">fey</a> that cause too much harm. The <a href="../../Places/Features/Wilewood/">Wilewood</a> <a href="../../Creatures/Monsters/Fey/">Fey</a> <a href="../../Dictionary/Events/Wilding/">repeat this every 100 years</a>.</td>
+</tr>
+<tr>
+<td>4071</td>
+<td>The <a href="../../Places/River-Kingdoms/Kingdom-of-Zog/">Kingdom of Zog</a> is established after <a href="Goblin"> goblins</a> overwhelm the young kindom of Alban (modern day <a href="../../Places/River-Kingdoms/Lambreth/">Lambreth</a>)</td>
+</tr>
+<tr>
+<td>4109</td>
+<td>The <a href="../../Places/Settlements/Heibarr/#Great-Bridge">Great Bridge</a> of <a href="../../Places/Settlements/Heibarr/">Heibarr</a> is completed.</td>
+</tr>
+<tr>
+<td>4217</td>
+<td>The <a href="../../Places/River-Kingdoms/Kingdom-of-Zog/">Kingdom of Zog</a> is crippled when the Yellowtongue Sickness swipes through the region. The kingdom falls to a loose coalition of adventurers, <a href="../../Dictionary/Races/Human/">riverfolk</a>, and <a href="../../Dictionary/Races/Half-elf/">half-elves</a> the same year.</td>
+</tr>
+<tr>
+<td>4247</td>
+<td>Warring sahuagin and merfolk put aside their differences and found the aquatic settlement of <a href="../../Places/Settlements/Outsea/">Outsea</a>.</td>
+</tr>
+<tr>
+<td>4256</td>
+<td>The Intilporium, a minor but powerful <a href="../../Places/Nation/Taldor/">Taldan</a> noble family of wizards, makes a surprise push to take <a href="../../Places/Settlements/Sevenarches-City/">Sevenarches</a> from the <a href="../../Creatures/Organizations/Oakstewards/">Oakstewards</a>. Arcane mercenaries take and hold <a href="../../Places/Settlements/Sevenarches-City/">Sevenarches</a> for 9 weeks before the <a href="../../Creatures/Organizations/Oakstewards/">Oakstewards</a> reassert control. This is the only break in <a href="../../Creatures/Organizations/Oakstewards/">Oaksteward</a> power in 2 millennia.</td>
+</tr>
+<tr>
+<td>4312</td>
+<td>The <a href="../../Creatures/Individuals/Cesare-Cattanei/">Silver Fox</a> first visits the small, sleepy hamlet known as <a href="../../Places/Settlements/Pitax-City/">Pitax</a>. Within 20 years, the hamlet grows into a grand town, and becomes the capital of the <a href="../../Places/Nation/River-Kingdoms/">River Kingdom</a> <a href="../../Places/River-Kingdoms/Pitax-Realm/">of Pitax</a>.</td>
+</tr>
+<tr>
+<td>4316</td>
+<td>The inhabitants of <a href="../../Places/Settlements/Mivon-City/">Mivon</a> die or flee, claiming that the trees and brambles came alive to threaten them, the dead of the river rose and walked again, or magicians called down the moon from the sky. <a href="../../Places/Settlements/Mivon-City/">Mivon</a> lies empty for 20 years.</td>
+</tr>
+<tr>
+<td>4355</td>
+<td>Cullerton family founds the city-state of <a href="../../Places/Settlements/Maashinelle/">Maashinelle</a> at the confluence of the <a href="../../Places/Features/Sellen-River/">Sellen River</a> and <a href="../../Places/Features/Tolemaida-River/">Tolemaida rivers</a>, in what later becomes <a href="../../Places/River-Kingdoms/Lambreth/">Lambreth</a>.</td>
+</tr>
+<tr>
+<td>4394</td>
+<td>Angelidis family demolishes the shantytowns of <a href="../../Places/Settlements/Troxell/">Troxell</a> to found the city- state of <a href="../../Places/Settlements/Lockridge/">Lockridge</a>.</td>
+</tr>
+<tr>
+<td>4402</td>
+<td>His Supreme Highness Afanasy Athanasius of Yenchabur founds <a href="../../Places/Settlements/Daggermark-City/">Daggermark</a> on the site of the hamlet of <a href="Daggermark-City"> Rivermark</a>.</td>
+</tr>
+<tr>
+<td>4411</td>
+<td>The <a href="../../Creatures/Organizations/Daggermark-Assassins-Guild/">Daggermark Assassins’ Guild</a> is founded.</td>
+</tr>
+<tr>
+<td>4424</td>
+<td>Vizcarra family establishes the city-state of <a href="../../Places/Settlements/Sezgin/">Sezgin</a></td>
+</tr>
+<tr>
+<td>4434</td>
+<td>Mayor Aindon builds the <a href="../../Places/Settlements/Heibarr/#River-Gate">River Gate</a> beneath the <a href="../../Places/Settlements/Heibarr/#Great-Bridge">Great Bridge</a> in <a href="../../Places/Settlements/Heibarr/">Heibarr</a>. The Black Sisters of <a href="../../Creatures/Deities/Gyronna/">Gyronna</a> arrive in <a href="../../Places/Settlements/Heibarr/">Heibarr</a>.</td>
+</tr>
+<tr>
+<td>4435</td>
+<td><a href="../../Places/Settlements/Heibarr/">Heibarr</a>’s <a href="Heibarr#River Gate">River Gate</a> is destroyed; <a href="../../Places/Settlements/Heibarr/">Heibarr</a> is abandoned.</td>
+</tr>
+<tr>
+<td>4499</td>
+<td><a href="../../Creatures/Individuals/Choral-Rogarvia/">Choral the Conqueror</a> unites <a href="../../Places/Nation/Issia/">Issia</a> and <a href="../../Places/Nation/Rostland/">Rostland</a> as the newly founded kingdom of <a href="../../Places/Nation/Brevoy/">Brevoy</a>.</td>
+</tr>
+<tr>
+<td>4500</td>
+<td>Several <a href="../../Creatures/Individuals/Sirian-Aldori/">Aldori</a> families, fleeing <a href="../../Creatures/Individuals/Choral-Rogarvia/">Choral</a> the Conqueror’s invasion of <a href="../../Places/Nation/Rostland/">Rostland</a>, occupy <a href="../../Places/Settlements/Mivon-City/">Mivon</a>.</td>
+</tr>
+<tr>
+<td>4502</td>
+<td><a href="../../Places/Settlements/Maashinelle/">Maashinelle</a>, <a href="../../Places/Settlements/Lockridge/">Lockridge</a>, and <a href="../../Places/Settlements/Sezgin/">Sezgin</a> unite under the Triunes of <a href="../../Places/River-Kingdoms/Lambreth/">Lambreth</a>.</td>
+</tr>
+<tr>
+<td>4534</td>
+<td>The <a href="../../Creatures/Organizations/Aldori-Swordlords/">Aldori</a> consolidate their control of <a href="../../Places/Settlements/Mivon-City/">Mivon</a> and nearly succeed in conquering <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a>, opening a long period of hostility between the two <a href="../../Places/Nation/River-Kingdoms/">River Kingdoms</a>. A <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitaxian</a> sellsword named Pietr Liacenza leads the armies of <a href="../../Places/River-Kingdoms/Mivon-Realm/">Mivon</a> into a trap at Wolf’s Ravine, slaughtering <a href="../../Places/River-Kingdoms/Mivon-Realm/">Mivon</a>’s forces and marking the Liacenza family’s rise to power in <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a>.</td>
+</tr>
+<tr>
+<td>4602</td>
+<td><a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a> attacks <a href="../../Places/River-Kingdoms/Mivon-Realm/">Mivon</a> with hired mercenaries. Upon discovering that the mercenary captains intend to take <a href="../../Places/Settlements/Mivon-City/">Mivon</a> for themselves, <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a> betrays its own forces, allowing them to be destroyed by <a href="../../Places/River-Kingdoms/Mivon-Realm/">Mivon</a>’s soldiers.</td>
+</tr>
+<tr>
+<td>4604</td>
+<td>Cerona, priestess of <a href="../../Creatures/Deities/Aroden/">Aroden</a>, attempts to resettle <a href="../../Places/Settlements/Heibarr/">Heibarr</a>; she and her warriors are slain and become undead spirits haunting the city.</td>
+</tr>
+<tr>
+<td>4607</td>
+<td><a href="../../Places/Nation/Galt/">Galt</a> silk merchants found town of <a href="../../Places/River-Kingdoms/Nystra/">Nystra</a>.</td>
+</tr>
+<tr>
+<td>4612</td>
+<td>The first civil war between the Cattanei and Liacenza families breaks out in <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a>, splitting it into the rival kingdoms of <a href="../../Places/River-Kingdoms/Corvenn/">Corvenn</a> and <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a>.</td>
+</tr>
+<tr>
+<td>4619</td>
+<td><a href="../../Places/Nation/Cheliax/">Chelish</a> Count Ambras Imre founds the <a href="../../Creatures/Organizations/Daggermark-Poisoners-Guild/">Daggermark Poisoners’ Guild</a>; the last king of <a href="../../Places/River-Kingdoms/Daggermark-Realm/">Daggermark</a> dies mysteriously. Anarchy reigns.</td>
+</tr>
+<tr>
+<td>4620</td>
+<td>The <a href="../../Dictionary/Events/Outlaw-Council/">Outlaw Council</a> is established in <a href="../../Places/Settlements/Daggermark-City/">Daggermark</a> through the combined will of the <a href="../../Creatures/Organizations/Daggermark-Assassins-Guild/">assassins’</a>’ and <a href="../../Creatures/Organizations/Daggermark-Poisoners-Guild/">poisoners’ guild</a>s.</td>
+</tr>
+<tr>
+<td>4636</td>
+<td><a href="../../Dictionary/Races/Dwarf/">Dwarves</a> found the outpost of <a href="../../Places/Settlements/Rookwarden/">Rookwarden</a> in the <a href="../../Places/Features/Loric-Fells/">Rookwarden Fells</a> in the northern <a href="../../Places/Nation/River-Kingdoms/">River Kingdoms</a>.</td>
+</tr>
+<tr>
+<td>4637</td>
+<td>The infamous <a href="../../Places/Nation/Lands-of-the-Linnorm-Kings/">Ulfen</a> skald, Birji Uringen, founds the town of <a href="../../Places/Settlements/Uringen-City/">Uringen</a>.</td>
+</tr>
+<tr>
+<td>4638</td>
+<td>Using stolen notes, Birji Uringen and his wizard companion Rhona Ambros begin construction of <a href="../../Places/Settlements/Uringen-City/">Uringen</a>’s clock tower.</td>
+</tr>
+<tr>
+<td>4642</td>
+<td>The town of <a href="../../Places/Settlements/Uringen-City/">Uringen</a> first disappears in a massive bank of fog on an unseasonably cool and humid summer night.<br> <a href="../../Creatures/Party-Members/Kairos/">Kairos</a> is found in the field where <a href="Uringen-City">Uringen</a> was, but half her body is missing and she's lost all memories. Local <a href="Gnome">gnomes</a> manage to save her by introducing several clockwork elements.</td>
+</tr>
+<tr>
+<td>4645</td>
+<td><a href="../../Places/Settlements/Uringen-City/">Uringen</a> reappears; the settlement continues to vanish and return at seemingly random intervals, each disappearance lasting several days.</td>
+</tr>
+<tr>
+<td>4647</td>
+<td>The Embeth Travelers abandon <a href="../../Places/River-Kingdoms/Uringen-Realm/">Uringen</a> and begin patrolling the <a href="../../Places/Features/Embeth-Forest/">Embeth Forest</a>.</td>
+</tr>
+<tr>
+<td>4657</td>
+<td><a href="../../Creatures/Individuals/Naerel-Twice-Born/">Naerel Twice-Born</a>, the River Preacher, builds a shrine to <a href="../../Creatures/Deities/Hanspur/">Hanspur</a> and establishes the town of <a href="../../Places/Settlements/Riverton/">Riverton</a> on the shores of <a href="../../Places/Features/Kallas-Lake/">Kallas Lake</a>.</td>
+</tr>
+<tr>
+<td>4661</td>
+<td>Sebilla Cattanei and Raimon Liacenza wed, reuniting <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a> and <a href="../../Places/River-Kingdoms/Corvenn/">Corvenn</a>. <a href="../../Creatures/Individuals/Razmir/">Razmir</a>, the Living God, declares himself in the <a href="../../Places/Nation/River-Kingdoms/">River Kingdoms</a> and swiftly conquers several smaller holds, uniting them as the new realm of <a href="../../Places/Nation/Razmiran/">Razmiran</a>.</td>
+</tr>
+<tr>
+<td>4663</td>
+<td>Tharl Grimull’s family are burned to death after his eldest daughter refuses the advances of one of <a href="../../Places/River-Kingdoms/Nystra/">Nystra</a>’s merchant-lords.</td>
+</tr>
+<tr>
+<td>4664</td>
+<td>Merrow overrun the town of <a href="../../Places/Settlements/Mosswater/">Mosswater</a>, slaying almost all the inhabitants. Tharl Grimull’s violet musk creeper blooms in <a href="../../Places/River-Kingdoms/Nystra/">Nystra</a>, and the free silkgoyles slaughter the town’s residents.</td>
+</tr>
+<tr>
+<td>4668</td>
+<td><a href="../../Dictionary/Races/Dwarf/">Dwarves</a> abandon <a href="../../Places/Settlements/Rookwarden/">Rookwarden</a>; bugbears, <a href="../../Dictionary/Races/Goblin/">goblin</a>s, and worgs under the banner of the <a href="../../Creatures/Individuals/Worg-Queen/">Worg Queen</a> overrun the <a href="../../Places/Features/Loric-Fells/">Rookwarden Fells</a>.</td>
+</tr>
+<tr>
+<td>4672</td>
+<td>Lord Drellis Artume flees <a href="../../Places/Nation/Andoran/">Andoran</a> and founds the kingdom of <a href="../../Places/River-Kingdoms/Artume-Realm/">Artume</a>.</td>
+</tr>
+<tr>
+<td>4673</td>
+<td>Exiled <a href="../../Places/Nation/Galt/">Galt</a> banker Obidas Nauzil founds <a href="../../Places/Settlements/Gralton-City/">Little Galt</a>.<br> <a href="../../Creatures/Party-Members/Djames/">Djames</a> is born.</td>
+</tr>
+<tr>
+<td>4675</td>
+<td>Exiled <a href="../../Places/Nation/Andoran/">Andoren</a> knight <a href="Kamdyn-Arnefax"> Kamdyn Arnefax</a> defeats <a href="../../Places/Nation/Razmiran/">Razmiri</a> armies menacing <a href="../../Places/River-Kingdoms/Lambreth/">Lambreth</a> in the so-called “Moonlight Massacre”; <a href="Kamdyn-Arnefax"> Arnefax</a> disbands the Triunes and installs himself as Lord of <a href="../../Places/River-Kingdoms/Lambreth/">Lambreth</a>.</td>
+</tr>
+<tr>
+<td>4677</td>
+<td><a href="../../Places/Settlements/Gralton-City/">Little Galt</a>’s advisory council appoints Hannan Gralt as governor. <a href="../../Places/Settlements/Gralton-City/">Little Galt</a> is renamed <a href="../../Places/Settlements/Gralton-City/">Gralton</a>.</td>
+</tr>
+<tr>
+<td>4684</td>
+<td><a href="../../Places/Nation/Razmiran/">Razmiran</a> attacks <a href="../../Places/River-Kingdoms/Tymon-Realm/">Tymon</a> and drives her forces back to the <a href="../../Places/Features/Sellen-River/">Sellen River</a>; <a href="../../Places/Nation/Razmiran/">Razmiran</a> claims and occupies the Exalted Wood as part of its territory.</td>
+</tr>
+<tr>
+<td>4687</td>
+<td>Brigands raid <a href="../../Places/River-Kingdoms/Gralton-Realm/">Gralton</a>. Hannan Gralt dies in the attack, and the advisory council appoints <a href="Marnius-Cherlorne"> Marnius Cherlorne</a> as governor of <a href="../../Places/Settlements/Gralton-City/">Gralton</a>. Hostilities between <a href="../../Places/River-Kingdoms/Mivon-Realm/">Mivon</a> and <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a> flare anew, and <a href="../../Places/River-Kingdoms/Mivon-Realm/">Mivon</a> swordlord Rastone Selline makes his name putting down the raiders and forging a peace with <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a>.</td>
+</tr>
+<tr>
+<td>4688</td>
+<td><a href="../../Places/Nation/Razmiran/">Razmiran</a> attempts to claim the abandoned town of <a href="../../Places/Settlements/Mosswater/">Mosswater</a>. Its forces leave in defeat 6 days later with over 50% casualties.<br> <a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> is born.</td>
+</tr>
+<tr>
+<td>4689</td>
+<td>Revolutionary Achille Parsal, the “Young Knight,” founds <a href="../../Places/Settlements/Liberthane/">Liberthane</a>.</td>
+</tr>
+<tr>
+<td>4690</td>
+<td>King Drellis of <a href="../../Places/River-Kingdoms/Artume-Realm/">Artume</a> is poisoned by <a href="../../Creatures/Organizations/Daggermark-Assassins-Guild/">Daggermark assassins</a>; Queen Sovella appoints Sir Bransen Waike as regent.</td>
+</tr>
+<tr>
+<td>4693</td>
+<td><a href="../../Places/Nation/Taldor/">Taldan</a> prospector Loric leads an expedition into the <a href="../../Places/Features/Loric-Fells/">Rookwarden Fells</a>. <a href="Ullorth-Ungin"> Ullorth Ungin</a> becomes the latest Champion of <a href="../../Places/River-Kingdoms/Tymon-Realm/">Tymon</a>.</td>
+</tr>
+<tr>
+<td>4696</td>
+<td><a href="../../Places/Settlements/Uringen-City/">Uringen</a> vanishes the night before a raid from <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a>, leaving the residents of the static portion of town to defend at half strength.</td>
+</tr>
+<tr>
+<td>4699</td>
+<td>General Cabol Voran stages a coup and establishes a military dictatorship in <a href="../../Places/River-Kingdoms/Touvette/">Touvette</a>, repelling foreign invaders and expelling all churches from the kingdom. The royal <a href="../../Creatures/Organizations/Brevoy-Nobility/#Rogarvia">House Rogarvia</a> vanishes from <a href="../../Places/Nation/Brevoy/">Brevoy</a>, and the city of Skywatch is mysteriously sealed. Later that year, <a href="../../Creatures/Organizations/Brevoy-Nobility/#Surtova">House Surtova</a> claims <a href="../../Places/Nation/Brevoy/">Brevoy</a>’s crown.</td>
+</tr>
+<tr>
+<td>4700</td>
+<td>The <a href="../../Dictionary/Events/Outlaw-Council/">Outlaw Council</a> recognizes Loric’s rule over the <a href="../../Places/Features/Loric-Fells/">Rookwarden Fells</a>, now called <a href="../../Places/Features/Loric-Fells/">Loric Fells</a>; river trolls under a covey of green hags depose the <a href="../../Creatures/Individuals/Worg-Queen/">Worg Queen</a> and oust her from <a href="../../Places/Settlements/Rookwarden/">Rookwarden</a>. <a href="../../Places/Nation/Cheliax/">Chelish</a> corsair prince <a href="../../Creatures/Individuals/Morgan-the-White/">Morgan the White</a>, thereafter called <a href="../../Creatures/Individuals/Morgan-the-White/">the White Marquis</a>, founds the <a href="../../Dictionary/Terms/Pirate-Pact/">Pirate Pact</a> and the <a href="../../Places/River-Kingdoms/Protectorate-of-the-Black-Marquis/">Protectorate</a> of <a href="../../Creatures/Individuals/Morgan-the-White/">the White Marquis</a>.<br><a href="../../Creatures/Party-Members/Djames/">Djames</a> meets <a href="Lander-Lebeda">Lander Lebeda</a>. The noble house of <a href="Brevoy-Nobility#Lebeda">Lebeda</a> hires <a href="../../Creatures/Party-Members/Djames/">Djames</a> as an advisor, and <a href="../../Creatures/Party-Members/Djames/">Djames</a> weaves himselves into the <a href="../../Places/Nation/Brevoy/">Brevoy</a> noble court politics</td>
+</tr>
+<tr>
+<td>4701</td>
+<td>Lord Loric and his mercenary army are ambushed and slain by scrags, opening <a href="../../Places/Features/Loric-Fells/">Loric Fells</a> to the speculations of would-be bandit-kings.</td>
+</tr>
+<tr>
+<td>4702</td>
+<td><a href="../../Creatures/Individuals/Castruccio-Irovetti/">Castruccio Irovetti</a> takes control of <a href="../../Places/River-Kingdoms/Pitax-Realm/">Pitax</a> from the Liacenza family. The White Marquis of the <a href="../../Dictionary/Terms/Pirate-Pact/">Pirate Pact</a> is assassinated, and the Crimson Marquis, a Vudran maharaja buccaneer, takes power in the <a href="../../Places/River-Kingdoms/Protectorate-of-the-Black-Marquis/">Protectorate</a>.</td>
+</tr>
+<tr>
+<td>4703</td>
+<td><a href="../../Dictionary/Races/Half-orc/">Half-orc</a> rapscallion Ultrar Duneshifter, later styled the Rogue Marquis, jails the Crimson Marquis.</td>
+</tr>
+<tr>
+<td>4706</td>
+<td>Foreign mercenaries take over the village of <a href="../../Places/Settlements/Bacul-Gruii/">Bacul-Gruii</a> in <a href="../../Places/River-Kingdoms/Cordelon/">Cordelon</a> and enslave its residents. The town of <a href="../../Places/Settlements/Scrawny-Crossing/">Scrawny Crossing</a> is abandoned under mysterious circumstances after a fierce rainstorm.<br><a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> had a tragic incident that turned him into an Android.</td>
+</tr>
+<tr>
+<td>4707</td>
+<td><a href="../../Creatures/Individuals/Urdul-Bazzak/">Urdul Bazzak</a>, the <a href="../../Creatures/Individuals/Urdul-Bazzak/">Black Marquis</a>, seizes power in the <a href="../../Places/River-Kingdoms/Protectorate-of-the-Black-Marquis/">Protectorate</a>. <a href="../../Places/Settlements/Uringen-City/">Uringen</a> begins to vanish and reappear with increased frequency.</td>
+</tr>
+<tr>
+<td>4708</td>
+<td>Lord <a href="../../Creatures/Individuals/Martro-Livondar/">Martro Livondar</a> takes power in <a href="../../Places/River-Kingdoms/Daggermark-Realm/">Daggermark</a>, promising an era of reconstruction and glory, and survives three assassination attempts in his first week.<br>[Leonardo](Leonardo-Lebeda) needs routine maintenance. <a href="../../Creatures/Party-Members/Kairos/">Kairos</a> is hired by the Lebeda family to repair him, and <a href="../../Creatures/Party-Members/Djames/">Djames</a> is hired to find the adamantine needed as raw materials. <a href="../../Creatures/Party-Members/Djames/">Djames</a> poisones a forest, and the <a href="../../Dictionary/Races/Elf/">elf</a> nowadays known als <a href="Lizzy-the-Leshby">Lizzy</a> died, and was reborn as an Leshy.</td>
+</tr>
+<tr>
+<td>4709</td>
+<td><a href="../../Creatures/Party-Members/Djames/">Djames</a> flees from <a href="../../Places/Nation/Galt/">Galt</a>. <a href="../../Creatures/Party-Members/Djames/">Djames</a> and <a href="Lizzy-the-Leshby">Lizzy</a> temporarily move to the <a href="Brevoy-Nobility#Lebeda">Lebeda</a> family in <a href="../../Places/Nation/Brevoy/">Brevoy</a>.</td>
+</tr>
+</tbody>
+</table>
+<h1 id="before-our-adventure">Before our adventure<a class="headerlink" href="#before-our-adventure" title="Permanent link">&para;</a></h1>
+<h2 id="4642-68-years-before-start">4642 (68 years before start)<a class="headerlink" href="#4642-68-years-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Places/Settlements/Uringen-City/">Uringen</a> disappears from the first time. <a href="../../Creatures/Party-Members/Kairos/">Kairos</a> is found in the field where <a href="../../Places/Settlements/Uringen-City/">Uringen</a> was, but half her body is missing and she's lost all memories. Local <a href="../../Dictionary/Races/Gnome/">gnomes</a> manage to save her by introducing several clockwork elements. </p>
+<h2 id="4673-37-years-before-start">4673 (37 years before start)<a class="headerlink" href="#4673-37-years-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Creatures/Party-Members/Djames/">Djames</a> is born</p>
+<h2 id="4688-22-years-before-start">4688 (22 years before start)<a class="headerlink" href="#4688-22-years-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> is born</p>
+<h2 id="4700-10-years-before-start">4700 (10 years before start)<a class="headerlink" href="#4700-10-years-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Creatures/Party-Members/Djames/">Djames</a> meets <a href="../../Creatures/Individuals/Lander-Lebeda/">Lander Lebeda</a>. The noble house of Lebeda hires <a href="../../Creatures/Party-Members/Djames/">Djames</a> as an advisor, and <a href="../../Creatures/Party-Members/Djames/">Djames</a> weaves himselves into the <a href="../../Places/Nation/Brevoy/">Brevoy</a> noble court politics</p>
+<h2 id="4706-4-years-before-start">4706 (4 years before start)<a class="headerlink" href="#4706-4-years-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> had a tragic incident that turned him into an Android</p>
+<h2 id="rova-4708-15-years-before-start">Rova 4708 (1.5 years before start)<a class="headerlink" href="#rova-4708-15-years-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> needs routine maintenance. <a href="../../Creatures/Party-Members/Kairos/">Kairos</a> is hired by the Lebeda family to repair him, and <a href="../../Creatures/Party-Members/Djames/">Djames</a> is hired to find the adamantine needed as raw materials. <a href="../../Creatures/Party-Members/Djames/">Djames</a> poisones a forest, and the <a href="../../Dictionary/Races/Elf/">elf</a> nowadays known als <a href="../../Creatures/Party-Members/Lizzy-the-Leshby/">Lizzy</a> died, and was reborn as an Leshy.</p>
+<h2 id="neth-4709-3-months-before-start">Neth 4709 (3 months before start)<a class="headerlink" href="#neth-4709-3-months-before-start" title="Permanent link">&para;</a></h2>
+<p><a href="../../Creatures/Party-Members/Djames/">Djames</a> flees from <a href="../../Places/Nation/Galt/">Galt</a>. <a href="../../Creatures/Party-Members/Djames/">Djames</a> and <a href="../../Creatures/Party-Members/Lizzy-the-Leshby/">Lizzy</a> temporarily move to the <a href="Brevoy-Nobility#Lebeda">Lebeda</a> family in <a href="../../Places/Nation/Brevoy/">Brevoy</a>.</p>
+<h2 id="19-calistril-4710-1-week-before-start">19 Calistril 4710 (1 week before start)<a class="headerlink" href="#19-calistril-4710-1-week-before-start" title="Permanent link">&para;</a></h2>
+<p>Threats of a new civil war in <a href="../../Places/Nation/Brevoy/">Brevoy</a> cause <a href="../../Creatures/Individuals/Jamandi-Aldori/">Lady Jamandi</a> Aldori to call on brave adventurers for a new expedition to the <a href="../../Places/River-Kingdoms/Stolen-Lands/">Stolen Lands</a>. She and <a href="../../Creatures/Individuals/Ioseph-Sellemius/">Ioseph Sellemius</a> invite several adventurers to a <a href="../../Dictionary/Events/Grand-Banquet-at-Aldori-Manor/">Grand Banquet</a> at her manor.</p>
+<p><a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> is pushed forward by <a href="../../Creatures/Individuals/Lander-Lebeda/">Lander Lebeda</a> to join <a href="../../Creatures/Individuals/Jamandi-Aldori/">Lady Jamandi</a> Aldori's call for an expedition to the <a href="../../Places/River-Kingdoms/Stolen-Lands/">Stolen Lands</a>, mostly as a way to prove that could be a worthy successor to the <a href="Brevoy-Nobility#Lebeda">Lebeda</a> lands. </p>
+<p><a href="../../Creatures/Party-Members/Kairos/">Kairos</a> is asked to join, as she has the crafting skill to keep <a href="../../Creatures/Party-Members/Leonardo/">Leonardo</a> running, but also possesses knowledge of the <a href="../../Places/Nation/River-Kingdoms/">River Kingdoms</a>. <a href="../../Creatures/Party-Members/Djames/">Djames</a>, and <a href="../../Creatures/Party-Members/Lizzy-the-Leshby/">Lizzy</a> by proxy, also decide to join the expedition to the <a href="../../Places/River-Kingdoms/Stolen-Lands/">Stolen Lands</a>. </p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ad660dcc.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
